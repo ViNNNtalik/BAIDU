@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defaultphoto">
+        <item>baidu_p001</item>
+        <item>baidu_p002</item>
+        <item>baidu_p003</item>
+        <item>baidu_p004</item>
+        <item>baidu_p005</item>
+        <item>baidu_p006</item>
+        <item>baidu_p007</item>
+        <item>baidu_p008</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Примечание</item>
+    </string-array>
+</resources>

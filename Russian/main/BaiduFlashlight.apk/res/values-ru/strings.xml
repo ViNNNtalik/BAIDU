@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фонарик</string>
+    <string name="flash_open">Вспышка уже используется, попробуйте еще раз!</string>
+    <string name="timer_toast">Фонарик автоматически выключится через 60 секунд!</string>
+</resources>

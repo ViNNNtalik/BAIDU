@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">Установить как обои</string>
+    <string name="online_wallpaper">Online обои</string>
+    <string name="click_refresh">Обновить</string>
+    <string name="loading">Загрузка</string>
+    <string name="loading_failure_hint">Загрузка не удалась,пожалуйста, проверьте параметры сети!</string>
+    <string name="loading_hint">Загрузка,пожалуйста, подождите секунду.</string>
+    <string name="loading_wallpaper_hint">Обои установка, пожалуйста, подождите минуту.</string>
+    <string name="set_wallpaper_hint">Загружено,установка,пожалуйста подождите минуту.</string>
+    <string name="load_wallpaper_failure">Не удалось скачать,пожалуйста, попробуйте позже.</string>
+    <string name="set_wallpaper_success">Операция прошла успешно!</string>
+    <string name="set_wallpaper_failure">Провал операции!</string>
+    <string name="load_more">нагрузка более</string>
+    <string name="sdcard_not_available">SD-карта не доступна!</string>
+</resources>

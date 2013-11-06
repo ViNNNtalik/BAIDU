@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_list_preference">
+        <item>каждый час</item>
+        <item>каждый день</item>
+        <item>каждую неделю</item>
+        <item>каждый месяц</item>
+    </string-array>
+    <string-array name="entryvalues_list_preference">
+        <item>час</item>
+        <item>день</item>
+        <item>неделя</item>
+        <item>месяц</item>
+    </string-array>
+</resources>

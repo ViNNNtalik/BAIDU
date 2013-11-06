@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Поиск поставщика приложений</string>
+    <string name="search_label">Приложения</string>
+    <string name="application_desc">Приложение</string>
+    <string name="settings_description">Имена установленных приложений</string>
+</resources>

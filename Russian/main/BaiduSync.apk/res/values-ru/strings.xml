@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Sync</string>
+    <string name="notification_title_syncing_contact">Синхронизация контактов</string>
+    <string name="notification_title_syncing_calendar">Синхронизация календаря</string>
+    <string name="notification_title_syncing_notepad">Синхронизация блокнота</string>
+    <string name="notification_title_syncok_contact">Синхронизация контактов завершена</string>
+    <string name="notification_title_syncok_calendar">Синхронизация календаря завершена</string>
+    <string name="notification_title_syncok_notepad">Синхронизация блокнота завершена</string>
+    <string name="notification_title_syncfailed_contact">Синхронизация контактов прервана</string>
+    <string name="notification_title_syncfailed_calendar">Синхронизация календаря прервана</string>
+    <string name="notification_title_syncfailed_notepad">Синхронизация блокнота прервана</string>
+    <string name="notification_title_sync_failed_server">Соединение с сервером прервано</string>
+    <string name="notification_title_sync_failed_account">Войдите в аккаунт</string>
+    <string name="notification_title_sync_failed_system">Ошибка системы, попробуйте позже</string>
+    <string name="cancel">Отменить</string>
+    <string name="finish_merge">Объединение контактов завершено.</string>
+    <string name="merge_contacts_title">Объединение контактов</string>
+    <string name="merge_contacts_message">Объединение повторяющихся контактов</string>
+    <string name="merge_is_running">Другое объединение запущено, подождите.</string>
+    <string name="no_repeated_contacts">Нет повторяющихся контактов.</string>
+    <string name="canceled_merge">Объединение завершено!</string>
+    <string name="merging_contacts_formate">%1$s/%2$s контактов</string>
+    <string name="notification_title_sync_failed_client">Ошибка клиента, попробуйте позже</string>
+    <string name="notification_title_sync_failed_network">Сетевое подключение отсутствует</string>
+    <string name="not_support_non_username_account">Безымянный аккаунт не поддерживается</string>
+</resources>

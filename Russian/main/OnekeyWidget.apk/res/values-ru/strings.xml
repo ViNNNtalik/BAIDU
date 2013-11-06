@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Оптимизация в одно касание</string>
+    <string name="onekeyBtn">Оптимизация</string>
+    <string name="advancedBtn">^</string>
+    <string name="tipsTV">Исп. памяти: 70%</string>
+    <string name="progressBar_padding">"         "</string>
+    <string name="pop_tips_normal_mode">Закрыть запущенные службы</string>
+    <string name="pop_tips_lock_mode">Заблокировать приложения</string>
+    <string name="pop_tips_lock_mode_head" />
+    <string name="pop_tips_lock_mode_end">Приложения были заблокированы</string>
+    <string name="image_des">Изображение приложения</string>
+    <string name="tips_textview">Текст</string>
+    <string name="tips_50M">50M</string>
+    <string name="tips_100M">100M</string>
+    <string name="Used_memory">Исп. памяти:</string>
+    <string name="edge_alpha">60</string>
+    <string name="tips_after_opti_head" />
+    <string name="tips_after_opti_end">Mб памяти очищено</string>
+    <string name="loading">Загрузка...</string>
+    <string name="tips_optimum_status">﻿Очистка не требуется</string>
+    <string name="tips_system_clean_status">Очищено,готовы к использованию</string>
+    <string name="pop_tips_no_running_apps">Нет запущенных служб</string>
+    <string name="apps_name_baidu_label_en">Baidu</string>
+    <string name="apps_name_baidu_label_cn">百度</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chooser_wallpaper">Выбор обоев из</string>
+    <string name="wallpaper_instructions">Установить в качестве обоев</string>
+    <string name="pick_wallpaper">Обои</string>
+    <string name="configure_wallpaper">Настраивается...</string>
+    <string name="pic_setas_wallpaper">Обои</string>
+    <string name="wallpaper">Установка обоев, пожалуйста, подождите…</string>
+    <string name="crop_save_text">Сохранить</string>
+    <string name="crop_discard_text">Сброс</string>
+    <string name="multiface_crop_help">Коснитесь для продолжения.</string>
+    <string name="saving_image">Сохранение изображения…</string>
+    <string name="crop_label">Кадрирование</string>
+    <string name="running_face_detection">Подождите, пожалуйста…</string>
+    <string name="scrollable">Прокрутка обоев</string>
+    <string name="button_back">Назад</string>
+    <string name="button_done">Готово</string>
+</resources>

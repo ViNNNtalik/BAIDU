@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modeList">
+        <item>Чёрный список</item>
+        <item>Белый список</item>
+        <item>Контакты</item>
+    </string-array>
+    <string-array name="modeDetailList">
+        <item>Блокировка звонков/сообщений из чёрного списка</item>
+        <item>Глушить звонки/сообщения от контактов не в белом списке, блокировать звонки/сообщения из чёрного списка</item>
+        <item>Глушить звонки/сообщения от людей не из списка контактов,блокировать звонки/сообщения из чёрного списка</item>
+    </string-array>
+    <string-array name="addVIPArray">
+        <item>Добавить из контактов</item>
+        <item>Ввести телефонный номер</item>
+    </string-array>
+    <string-array name="addBlackListArray">
+        <item>Добавить из контактов</item>
+        <item>Ввести телефонный номер</item>
+    </string-array>
+</resources>

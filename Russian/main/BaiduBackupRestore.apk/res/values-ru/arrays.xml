@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="local_sort_type_list">
+        <item>имя</item>
+        <item>размер</item>
+        <item>тип</item>
+        <item>время</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Сохранить в памяти</item>
+        <item>Сохранить в облоко</item>
+    </string-array>
+    <string-array name="select_dialog_items_not_login">
+        <item>Сохранить в памяти</item>
+        <item>Сохранить &lt;font size="13" color="#B0B0B0">(Not Logged In)&lt;/font></item>
+    </string-array>
+    <string-array name="auto_backup_day_of_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+    <string-array name="auto_backup_apps">
+        <item>СМС/ММС</item>
+        <item>Журнал вызовов</item>
+        <item>Будильники</item>
+        <item>Настройки</item>
+        <item>Контакты</item>
+    </string-array>
+    <string-array name="auto_backup_peroid_typeInfo">
+        <item>Каждую неделю</item>
+        <item>Каждый месяц</item>
+    </string-array>
+</resources>

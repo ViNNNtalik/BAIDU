@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="netemplate">
+        <item>2G/3G</item>
+        <item>WLAN</item>
+    </string-array>
+    <array name="appdate">
+        <item>@string/app_cur_title</item>
+        <item>@string/app_today_title</item>
+    </array>
+    <string-array name="traffic_adjust_entries">
+        <item>Ежедневно</item>
+        <item>Каждые 3 дня</item>
+        <item>Еженедельно</item>
+        <item>Закрыть</item>
+    </string-array>
+    <string-array name="compress_level">
+        <item>высокий</item>
+        <item>средний</item>
+        <item>низкий</item>
+    </string-array>
+</resources>
