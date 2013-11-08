@@ -1,7 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="am_pm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="baiduclock_appwidget_style">
+        <item>Белый стиль</item>
+        <item>Черный стиль</item>
+    </string-array>
+    <string-array name="world_city_name_list">
+        <item>Азия</item>
+        <item>Амман, Иордания</item>
+        <item>Бейрут, Ливан</item>
+        <item>Иерусалим, Израиль</item>
+        <item>Багдад, Ирак</item>
+        <item>Кувейт, Кувейт</item>
+        <item>Тегеран, Иран</item>
+        <item>Тбилиси, Грузия</item>
+        <item>Дубаи, ОАЭ </item>
+        <item>Ереван, Армения</item>
+        <item>Баку, Азербайджан</item>
+        <item>Кабул, Афганистан</item>
+        <item>Урал, Казахстан</item>
+        <item>Карачи, Пакистан</item>
+        <item>Калькутта, Индия</item>
+        <item>Мумбаи, Индия</item>
+        <item>Нью-Дели, Индия</item>
+        <item>Коломбо, Шри-Ланка</item>
+        <item>Катманду, Непал</item>
+        <item>Алматы, Казахстан</item>
+        <item>Янгоне, Бирма</item>
+        <item>Бангкок, Таиланд</item>
+        <item>Ханой, Вьетнам</item>
+        <item>Джакарта, Индонезия</item>
+        <item>Пекин, Китай</item>
+        <item>Гонконг, Китай</item>
+        <item>Макао, Китай</item>
+        <item>Шанхай, Китай </item>
+        <item>Тайбэй, Китай</item>
+        <item>Куала-Лумпур, Малайзия</item>
+        <item>Сингапур, Сингапур</item>
+        <item>Манила, Филиппины</item>
+        <item>Сеул, Корея</item>
+        <item>Токио, Япония</item>
+        <item>Пхеньян, Северная Корея</item>
+        <item>Океания</item>
+        <item>Беззонные острова</item>
+        <item>Гонолулу, США</item>
+        <item>Перт, Австралия </item>
+        <item>Дарвин , Австралия</item>
+        <item>Гуам, США</item>
+        <item>Брисбен, Австралия</item>
+        <item>Адела, Австрали </item>
+        <item>Хобарт, Австралия</item>
+        <item>Сидней, Австралия</item>
+        <item>Мельбурн, Австралия</item>
+        <item>Сува, Фиджи</item>
+        <item>Маджуро, Маршалловы Острова</item>
+        <item>Окленд, Новая Зеландия</item>
+        <item>Тонга, Тонга</item>
+        <item>Америка</item>
+        <item>Анкоридж, США</item>
+        <item>Ванкувер, Канада</item>
+        <item>Тихуана, Мексика</item>
+        <item>Лос-Анджелес, США</item>
+        <item>Сан-Франциско, США</item>
+        <item>Сиэтл, США</item>
+        <item>Денвер, США</item>
+        <item>Феникс, США</item>
+        <item>Чиуауа, Мексика</item>
+        <item>Чикаго, США</item>
+        <item>Хьюстон, США</item>
+        <item>Регина, Канада</item>
+        <item>Мехико, Мексика</item>
+        <item>Сан-Хосе, Коста-Рика</item>
+        <item>Атланта, США</item>
+        <item>Нью-Йорк, США</item>
+        <item>Торонто, Канада</item>
+        <item>Богота, Колумбия</item>
+        <item>Каракас, Венесуэла</item>
+        <item>Барбадос, Барбадос</item>
+        <item>Манаус, Бразилия </item>
+        <item>Сент-Джонс, Канада</item>
+        <item>Готхоб, Дания</item>
+        <item>Сантьяго, Чили </item>
+        <item>Буэнос-Айрес, Аргентина</item>
+        <item>Сан-Паулу, Бразилия</item>
+        <item>Рио-де-Жанейро, Бразилия</item>
+        <item>Бразилиа, Бразилия</item>
+        <item>Монтевидео, Уругвай</item>
+        <item>Грютвикен, Южная Джоржия</item>
+        <item>Европа</item>
+        <item>Рейкьявик, Исландия</item>
+        <item>Лондон, Великобритания</item>
+        <item>Лиссабон, Португалия</item>
+        <item>Дублин, Ирландия</item>
+        <item>Амстердам, Нидерланды</item>
+        <item>Белград, Сербия</item>
+        <item>Брюссель, Бельгия</item>
+        <item>Мадрид, Испания</item>
+        <item>Барселона, Испания</item>
+        <item>Париж, Франция</item>
+        <item>Женева, Швейцария</item>
+        <item>Цюрих, Швейцария</item>
+        <item>Франкфурт, Германия</item>
+        <item>Берлин, Германия</item>
+        <item>Копенгаген, Дания</item>
+        <item>Рим, Италия</item>
+        <item>Прага, Чешская Республика</item>
+        <item>Вена, Австрия</item>
+        <item>Стокгольм, Швеция</item>
+        <item>Афины, Греция</item>
+        <item>Хельсинки, Финляндия</item>
+        <item>Минск, Беларусь</item>
+        <item>Москва, Россия</item>
+        <item>Екатеринбург, Россия</item>
+        <item>Красноярск, Россия</item>
+        <item>Иркутск, Россия</item>
+        <item>Якутск, Россия</item>
+        <item>Владивосток, Россия</item>
+        <item>Магадан, Россия</item>
+        <item>Африка</item>
+        <item>Кабо-Верде</item>
+        <item>Азорские острова</item>
+        <item>Касабланка, Марокко</item>
+        <item>Браззавиль, Конго</item>
+        <item>Виндхуке, Намибия</item>
+        <item>Хараре, Зимбабве</item>
+        <item>Каир, Египет</item>
+        <item>Найроби, Кения</item>
+    </string-array>
     <string-array name="alarm_set">
-        <item>Будильник зазвонит менее чем через минуту.</item>
+        <item>Будильник зазвонит менее, чем через минуту</item>
         <item>Будильник зазвонит через %1$s</item>
         <item>Будильник зазвонит через %2$s</item>
         <item>Будильник зазвонит через %1$s и %2$s</item>
@@ -26,15 +156,6 @@
         <item>25</item>
         <item>30</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>Выкл.</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
-    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Нет</item>
         <item>Отложить</item>
@@ -44,5 +165,74 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="chineseNumber">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="gan">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+    </string-array>
+    <string-array name="zhi">
+        <item>子</item>
+        <item>丑</item>
+        <item>寅</item>
+        <item>卯</item>
+        <item>辰</item>
+        <item>巳</item>
+        <item>午</item>
+        <item>未</item>
+        <item>申</item>
+        <item>酉</item>
+        <item>戌</item>
+        <item>亥</item>
+    </string-array>
+    <string-array name="animals">
+        <item>鼠</item>
+        <item>牛</item>
+        <item>虎</item>
+        <item>兔</item>
+        <item>龙</item>
+        <item>蛇</item>
+        <item>马</item>
+        <item>羊</item>
+        <item>猴</item>
+        <item>鸡</item>
+        <item>狗</item>
+        <item>猪</item>
+    </string-array>
+    <string-array name="chineseTen">
+        <item>рано</item>
+        <item>десять</item>
+        <item>двадцать</item>
+        <item>тридцать</item>
+    </string-array>
+    <string-array name="dayofweek">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
     </string-array>
 </resources>

@@ -11,9 +11,9 @@
     <string name="provider_label">Календарь</string>
     <string name="debug_tool_delete_button">Удалить сейчас</string>
     <string name="debug_tool_start_button">Начать</string>
-    <string name="debug_tool_message">Вы собираетесь 1) скопировать базу данных календаря на SD-карту/USB-накопитель, которые доступны для чтения всем приложениям, и 2) отправить ее по электронной почте. Не забудьте удалить копию после того, как она будет перенесена с устройства или получена по электронной почте.</string>
-    <string name="debug_tool_email_sender_picker">Выберите приложение</string>
-    <string name="debug_tool_email_subject">БД Календаря прилагается</string>
-    <string name="debug_tool_email_body">К сообщению приложена база данных календаря со всеми встречами и личной информацией. Обращайтесь с ней осторожно.</string>
-    <string name="no_title_label">без названия</string>
+    <string name="debug_tool_message">Вы собираетесь 1) создать копию базы данных календаря на SD-карте/USB-накопителе, которые доступны для чтения всем приложениям, и 2) отправить ее по электронной почте. Не забудьте удалить базу данных после того, как она будет скопирована с устройства или получена по электронной почте.</string>
+    <string name="debug_tool_email_sender_picker">Выберите приложение, чтобы отправить файл</string>
+    <string name="debug_tool_email_subject">База данных календаря прилагается</string>
+    <string name="debug_tool_email_body">К сообщению приложена база данных календаря со всеми встречами и личной информацией. Пожалуйста, обращайтесь с ней осторожно.</string>
+    <string name="no_title_label">Без названия</string>
 </resources>

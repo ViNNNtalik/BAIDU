@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotseats">
+        <item>intent:#Intent;action=android.intent.action.DIAL;end</item>
+        <item>*BROWSER*</item>
+    </string-array>
+    <string-array name="scroll_effect_list">
+        <item>Классический</item>
+        <item>Отскок</item>
+        <item>Угасание</item>
+        <item>Куб снаружи</item>
+        <item>Куб внутри</item>
+        <item>Мельница</item>
+        <item>Случайный</item>
+    </string-array>
+    <string-array name="scale_icon_list">
+        <item>Большой</item>
+        <item>Средний</item>
+        <item>Маленький</item>
+    </string-array>
+    <string-array name="select_image_string">
+        <item>Использовать обои рабочего стола</item>
+        <item>Выбрать изображение из галереи</item>
+    </string-array>
+    <string-array name="doubleclick_gesture">
+        <item>Ничего</item>
+        <item>Блокировка экрана</item>
+        <item>Открыть приложение</item>
+        <item>Открыть ярлык</item>
+    </string-array>
+    <array name="lockscreen_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@null</item>
+        <item>@string/description_direction_left</item>
+        <item>@null</item>
+    </array>
+    <array name="lockscreen_targets_with_camera">
+        <item>@drawable/ic_lockscreen_unlock</item>
+        <item>@null</item>
+        <item>@drawable/ic_lockscreen_camera</item>
+        <item>@null</item>
+    </array>
+    <array name="lockscreen_target_descriptions_with_camera">
+        <item>@string/description_target_unlock</item>
+        <item>@null</item>
+        <item>@string/description_target_camera</item>
+        <item>@null</item>
+    </array>
+    <string-array name="popular_cities">
+        <item>Пекин</item>
+        <item>Шанхай</item>
+        <item>Кантон</item>
+        <item>Шэньчжэнь</item>
+        <item>Чунцин</item>
+        <item>Тяньцзинь</item>
+        <item>Чэнду</item>
+        <item>Нанкин</item>
+        <item>Ханчжоу</item>
+        <item>Сучжоу</item>
+        <item>Харбин</item>
+        <item>Далянь</item>
+        <item>Шэньян</item>
+        <item>Чанчунь</item>
+        <item>Шицзячжуан</item>
+        <item>Цзинань</item>
+        <item>Ланьчжоу</item>
+        <item>Сиань</item>
+        <item>Тайюань</item>
+        <item>Чжэнчжоу</item>
+        <item>Ухань</item>
+        <item>Чанша</item>
+        <item>Наньчан</item>
+        <item>Фучжоу</item>
+        <item>Сямэнь</item>
+        <item>Куньмин</item>
+        <item>Наньнин</item>
+        <item>Гуйян</item>
+        <item>Циндао</item>
+        <item>Дунгуань</item>
+        <item>Хэфэй</item>
+        <item>Яньтай</item>
+        <item>Уси</item>
+        <item>Гонконг</item>
+        <item>Макао</item>
+    </string-array>
+</resources>

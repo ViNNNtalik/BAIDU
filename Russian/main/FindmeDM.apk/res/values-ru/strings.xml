@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Антивор</string>
+    <string name="cancel">Отмена</string>
+    <string name="alarm_content">Звонит Ваша мелодия......</string>
+    <string name="dialog_button_close">Закрыть</string>
+    <string name="antitheft">Найти мое устройство</string>
+    <string name="current_account">Текущий счет:</string>
+    <string name="dialog_network_title">Сбой в сети</string>
+    <string name="dialog_network_content">Сеть недоступна, пожалуйста, проверьте параметры сети</string>
+    <string name="dialog_button_set">Настройки</string>
+    <string name="guide">Особенности</string>
+    <string name="bind">Активировано</string>
+    <string name="unbind">Деактивировано</string>
+    <string name="bind_account">Аккаунт активирован</string>
+    <string name="bind_other_account">Активировать другой аккаунт</string>
+    <string name="bind_please">Пожалуйста, активируйте Ваш аккаунт</string>
+    <string name="bind_please_sub">Отслеживать местоположение Вашего устройства и защитить данные на нем после активации</string>
+    <string name="bind_success">Активация прошла успешно</string>
+    <string name="unbind_success">Деактивация прошла успешно</string>
+    <string name="unbind_fail">Деактивация не удалась</string>
+    <string name="bind_success_sub">Пожалуйста, посетите fangdao.baidu.com, чтобы использовать эту функцию</string>
+    <string name="not_login">Нет аккаунта</string>
+    <string name="not_bind">Деактивировано</string>
+    <string name="already_bind">Активировано</string>
+    <string name="bind_fail_title">Активация не удалась</string>
+    <string name="bind_fail_message">Не удается войти в сеть или сбой сервера. Попробуете еще раз</string>
+    <string name="retry">Повторить</string>
+    <string name="normal_bind">Активация</string>
+    <string name="phone_bind">Связан с телефоном</string>
+    <string name="login_from">device_security</string>
+    <string name="unbind_message">Подтвердить деактивацию?</string>
+    <string name="account_hint_alread_bind_account">Активировано на аккаунт:</string>
+    <string name="account_hint_current_account">Аккаунт:</string>
+    <string name="bind_fail_notification">Активация не удалась. Пожалуйста, проверьте Вашу сеть или попробуйте позже</string>
+    <string name="unbind_fail_notification">Деактивация не удалась. Пожалуйста, проверьте Вашу сеть или попробуйте позже</string>
+    <string name="bind_current_notification">Пожалуйста, активируйте устройство на аккаунт в случае потери</string>
+    <string name="bind_other_notification">Устройство было активированно на другой аккаунт. Нажмите здесь, чтобы проверить</string>
+</resources>

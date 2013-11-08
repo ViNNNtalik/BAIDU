@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titleBack">Назад</string>
+    <string name="elapsed_time_long_format_h_mm_ss">%1$02d:%2$02d:%3$02d</string>
+    <string name="china_telecom">China Telecom</string>
+    <string name="china_unicom">China Unicom</string>
+    <string name="china_mobile">China Mobile</string>
+    <string name="baidu_account_verify_code_bind">这条短信来自百度账户。用于绑定您装有百度系统的手机。短信不会产生额外的费用。</string>
+    <string name="baidu_account_verify_code_password">这条短信来自百度账户。用于找回您的百度id密码。短信不会产生额外的费用。</string>
+    <string name="network_exception">Проблема с сетью</string>
+    <string name="ne_no_sim">Нет SIM-карты</string>
+    <string name="ne_no_signal">Нет сигнала. Попробуйте позже</string>
+    <string name="ne_unkown">Сеть недоступна</string>
+    <string name="ne_air_plane">Выключите режим в полете перед подключением к сети</string>
+    <string name="ne_mobile_data">Передача данных отключена. Вначале измените настройки</string>
+    <string name="ne_roaming">Телефон в роуминге. Вначале измените настройки</string>
+    <string name="ne_setting">Настройки</string>
+    <string name="ne_title_1">Переключение на 2G/3G сеть</string>
+    <string name="ne_payment_warning">Wi-Fi недоступен, переключиться на 2G/3G сеть?</string>
+    <string name="ne_ok">ОК</string>
+    <string name="ne_cancel">Отмена</string>
+    <string name="caller_info_or">Или</string>
+    <string name="caller_info_or_other">Или другие %s люди</string>
+    <string name="voice_name">Голос</string>
+    <string name="voiceprint_start">Скажите пароль или проведите по экрану горизонтально для ввода цифрового пароля</string>
+    <string name="voiceprint_record">Скажите пароль</string>
+    <string name="voiceprint_recognize">Проверка пароля</string>
+    <string name="voiceprint_unlock_success">Здравствуй, Хозяин!</string>
+    <string name="voiceprint_unlock_1stfail">Пароль не принят. Попробуйте еще раз.</string>
+    <string name="voiceprint_unlock_failed">Вы точно мой хозяин? Что у вас с голосом? Попробуйте ввести пароль</string>
+    <string name="search_go">Поиск</string>
+    <string name="searchview_description_search">Поиск</string>
+    <string name="searchview_description_query">Поисковый запрос</string>
+    <string name="searchview_description_clear">Очистить запрос</string>
+    <string name="searchview_description_submit">Отправить запрос</string>
+    <string name="searchview_description_voice">Голосовой поиск</string>
+    <string name="date_time_done">Готово</string>
+    <string name="date_picker_dialog_title">Установить дату</string>
+    <string name="switch_null_text" />
+</resources>

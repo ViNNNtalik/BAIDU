@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scan_result_array">
+        <item>Вирусы не найдены</item>
+        <item>Подозрит. приложений не найдено</item>
+        <item>Отсканированы приложения пользователя</item>
+    </string-array>
+    <string-array name="scan_result_array_all">
+        <item>Вирусы не найдены</item>
+        <item>Подозрит. приложений не найдено</item>
+        <item>Отсканированы приложения пользователя</item>
+        <item>Scanning system has been applied</item>
+        <item>Отсканированы установочные пакеты приложений</item>
+        <item>Отсканированы файлы телефона</item>
+    </string-array>
+    <string-array name="schedule_frequency_dialog">
+        <item>Неделя</item>
+        <item>Месяц</item>
+    </string-array>
+    <string-array name="schedule_week_dialog">
+        <item>Воскр.</item>
+        <item>Понед.</item>
+        <item>Вторн.</item>
+        <item>Среда</item>
+        <item>Четв.</item>
+        <item>Пятн.</item>
+        <item>Субб.</item>
+    </string-array>
+    <string-array name="schedule_day_time">
+        <item>0:00</item>
+        <item>1:00</item>
+        <item>2:00</item>
+        <item>3:00</item>
+        <item>4:00</item>
+        <item>5:00</item>
+        <item>6:00</item>
+        <item>7:00</item>
+        <item>8:00</item>
+        <item>9:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+    </string-array>
+    <string-array name="schedule_month_date">
+        <item>1-го</item>
+        <item>2-го</item>
+        <item>3-го</item>
+        <item>4-го</item>
+        <item>5-го</item>
+        <item>6-го</item>
+        <item>7-го</item>
+        <item>8-го</item>
+        <item>9-го</item>
+        <item>10-го</item>
+        <item>11-го</item>
+        <item>12-го</item>
+        <item>13-го</item>
+        <item>14-го</item>
+        <item>15-го</item>
+        <item>16-го</item>
+        <item>17-го</item>
+        <item>18-го</item>
+        <item>19-го</item>
+        <item>20-го</item>
+        <item>21-го</item>
+        <item>22-го</item>
+        <item>23-го</item>
+        <item>24-го</item>
+        <item>25-го</item>
+        <item>26-го</item>
+        <item>27-го</item>
+        <item>28-го</item>
+        <item>29-го</item>
+        <item>30-го</item>
+        <item>31-го</item>
+    </string-array>
+</resources>

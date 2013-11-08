@@ -1,21 +1,728 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="modeList">
-        <item>Чёрный список</item>
+        <item>Черный список</item>
         <item>Белый список</item>
-        <item>Контакты</item>
+        <item>Режим контактов</item>
     </string-array>
     <string-array name="modeDetailList">
-        <item>Блокировка звонков/сообщений из чёрного списка</item>
-        <item>Глушить звонки/сообщения от контактов не в белом списке, блокировать звонки/сообщения из чёрного списка</item>
-        <item>Глушить звонки/сообщения от людей не из списка контактов,блокировать звонки/сообщения из чёрного списка</item>
+        <item>Блокировка звонков/сообщений из черного списка</item>
+        <item>Без звука для всех, кроме белого списка. Блокировка черного списка</item>
+        <item>Без звука для всех, кроме контактов. Блокировка черного списка</item>
     </string-array>
     <string-array name="addVIPArray">
         <item>Добавить из контактов</item>
-        <item>Ввести телефонный номер</item>
+        <item>Ввести номер</item>
     </string-array>
     <string-array name="addBlackListArray">
         <item>Добавить из контактов</item>
-        <item>Ввести телефонный номер</item>
+        <item>Ввести номер</item>
+    </string-array>
+    <string-array name="black_white_list">
+        <item>Из истории SMS</item>
+        <item>Из журнала вызовов</item>
+        <item>Из списка контактов</item>
+        <item>Ввод номера</item>
+    </string-array>
+    <string-array name="current_phone_filter_mode">
+        <item>Умный режим</item>
+        <item>Черный список</item>
+        <item>Неизвестный абонент</item>
+        <item>Белый список</item>
+        <item>Блокировать все</item>
+        <item>Пользовательский режим</item>
+    </string-array>
+    <string-array name="stranger_sms_list">
+        <item>Умный режим</item>
+        <item>Принимать</item>
+        <item>Блокировать</item>
+    </string-array>
+    <string-array name="blacklist_model">
+        <item>Блокировать</item>
+        <item>Действие не требуется</item>
+    </string-array>
+    <string-array name="whitelist_model">
+        <item>Принять</item>
+        <item>Действие не требуется</item>
+    </string-array>
+    <string-array name="call_record">
+        <item>Принять</item>
+        <item>Блокировать</item>
+    </string-array>
+    <string-array name="operator_name_list">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="current_call_intercept_way">
+        <item>Занято</item>
+        <item>Номер не существует</item>
+        <item>Аппарат выключен</item>
+    </string-array>
+    <string-array name="phone_intercept_reasons">
+        <item>Один звонок</item>
+        <item>Черный список</item>
+        <item>Не в белом списке</item>
+        <item>Не в контактах</item>
+        <item>Блокировать все</item>
+        <item>Пользовательский режим</item>
+    </string-array>
+    <string-array name="traffic_province_entries">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Tianjin</item>
+        <item>Chongqing</item>
+        <item>Anhui</item>
+        <item>Fujian</item>
+        <item>Gansu</item>
+        <item>Guangdong</item>
+        <item>Guangxi</item>
+        <item>Guizhou</item>
+        <item>Hainan</item>
+        <item>Hebei</item>
+        <item>Henan</item>
+        <item>Heilongjiang</item>
+        <item>Hubei</item>
+        <item>Hunan</item>
+        <item>Jilin</item>
+        <item>Jiangsu</item>
+        <item>Jiangxi</item>
+        <item>Liaoning</item>
+        <item>Inner Mongolia</item>
+        <item>Ningxia</item>
+        <item>Qinghai</item>
+        <item>Shandong</item>
+        <item>Shanxi</item>
+        <item>Shaanxi</item>
+        <item>Sichuan</item>
+        <item>Tibet</item>
+        <item>Xinjiang</item>
+        <item>Yunnan</item>
+        <item>Zhejiang</item>
+    </string-array>
+    <string-array name="tag_phone_type_list">
+        <item>@string/report_reason_zhapian</item>
+        <item>@string/report_reason_ads</item>
+        <item>@string/report_reason_saorao</item>
+        <item>@string/report_reason_fangchan</item>
+        <item>@string/report_reason_kuaidi</item>
+        <item>@string/report_reason_other</item>
+    </string-array>
+    <string-array name="phone_loc_cities">
+        <item>11</item>
+        <item>Beijing</item>
+        <item>Changzhou Jiangsu</item>
+        <item>Chaohu Anhui</item>
+        <item>Nanjing Jiangsu</item>
+        <item>Wuhan Hubei</item>
+        <item>Tianjin</item>
+        <item>Zibo Shandong</item>
+        <item>Yantai Shangdong</item>
+        <item>Jinan Shandong</item>
+        <item>Shanghai</item>
+        <item>Wuxi Jiangsu</item>
+        <item>Guangzhou Guangdong</item>
+        <item>Jingmen Hubei</item>
+        <item>Weifang Shandong</item>
+        <item>Wenzhou Zhejiang</item>
+        <item>Nanning Guangxi</item>
+        <item>Lanzhou Gansu</item>
+        <item>Baoding Hebei</item>
+        <item>Tangshan Hebei</item>
+        <item>Qinhuangdao Hebei</item>
+        <item>Langfang Hebei</item>
+        <item>Cangzhou Hebei</item>
+        <item>Xingtai Hebei</item>
+        <item>Handan Hebei</item>
+        <item>Hengshui Hebei</item>
+        <item>Shijiazhuang Hebei</item>
+        <item>Binzhou Shandong</item>
+        <item>Dongying Shandong</item>
+        <item>Linyi Shandong</item>
+        <item>Rizhao Shandong</item>
+        <item>Zaozhuang Shandong</item>
+        <item>Weihai Shandong</item>
+        <item>Qingdao Shandong</item>
+        <item>Liaocheng Shandong</item>
+        <item>Dezhou Shandong</item>
+        <item>Taian Shandong</item>
+        <item>Jining Shandong</item>
+        <item>Heze Shandong</item>
+        <item>Chongqing</item>
+        <item>Shenyang Liaoning</item>
+        <item>Jiaxing Zhejiang</item>
+        <item>Huzhou Zhejiang</item>
+        <item>Zhoushan Zhejiang</item>
+        <item>Shaoxing Zhejiang</item>
+        <item>Quzhou Zhejiang</item>
+        <item>Jinhua Zhejiang</item>
+        <item>Taizhou Zhejiang</item>
+        <item>Lishui Zhejiang</item>
+        <item>Laiwu Shandong</item>
+        <item>Xichang Sichuan</item>
+        <item>Panzhihua Sichuan</item>
+        <item>Nanchong Sichuan</item>
+        <item>Suining Sichuan</item>
+        <item>Dazhou Sichuan</item>
+        <item>Luzhou Sichuan</item>
+        <item>Neijiang Sichuan</item>
+        <item>Yibin Sichuan</item>
+        <item>Zigong Sichuan</item>
+        <item>"Xi'an Shaanxi"</item>
+        <item>Hefei Anhui</item>
+        <item>Bengbu Anhui</item>
+        <item>Wuhu Anhui</item>
+        <item>Huinan Anhui</item>
+        <item>Zhenjiang Jiangsu</item>
+        <item>Lianyungang Jiangsu</item>
+        <item>Yancheng Jiangsu</item>
+        <item>Suqian Jiangsu</item>
+        <item>Xuzhou Jiangsu</item>
+        <item>Nantong Jiangsu</item>
+        <item>Huaian Jiangsu</item>
+        <item>Hangzhou Zhejiang</item>
+        <item>Ningbo Zhejiang</item>
+        <item>Fuzhou Fujian</item>
+        <item>Putian Fujian</item>
+        <item>Xiamen Fujian</item>
+        <item>Zhangzhou Fujian</item>
+        <item>Fuyang Anhui</item>
+        <item>Yangzhou Jiangsu</item>
+        <item>Taizhou Jiangsu</item>
+        <item>Suzhou Jiangsu</item>
+        <item>Quanzhou Fujian</item>
+        <item>Sanming Fujian</item>
+        <item>Ningde Fujian</item>
+        <item>Nanping Fujian</item>
+        <item>Longyan Fujian</item>
+        <item>Haikou Hainan</item>
+        <item>Shantou Guangdong</item>
+        <item>Shanwei Guangdong</item>
+        <item>Jieyang Guangdong</item>
+        <item>Meizhou Guangdong</item>
+        <item>Heyuan Guangdong</item>
+        <item>Chaozhou Guangdong</item>
+        <item>Qingyuan Guangdong</item>
+        <item>Shaoguan Guangdong</item>
+        <item>Yunfu Guangdong</item>
+        <item>Shenzhen Guangdong</item>
+        <item>Zhongshan Guangdong</item>
+        <item>Zhaoqing Guangdong</item>
+        <item>Zhanjiang Guangdong</item>
+        <item>Yangjiang Guangdong</item>
+        <item>Maoming Guangdong</item>
+        <item>Zhuhai Guangdong</item>
+        <item>Huizhou Guangdong</item>
+        <item>Jiangmen Guangdong</item>
+        <item>Liuzhou Guangxi</item>
+        <item>Guilin Guangxi</item>
+        <item>Yulin Guangxi</item>
+        <item>Wuzhou Guangxi</item>
+        <item>Beihai Guangxi</item>
+        <item>Nanchang Jiangxi</item>
+        <item>Yingtan Jiangxi</item>
+        <item>Shangrao Jiangxi</item>
+        <item>Yichun Jiangxi</item>
+        <item>Xinyu Jiangxi</item>
+        <item>Pingxiang Jiangxi</item>
+        <item>Leshan Sichuan</item>
+        <item>Meishan Sichuan</item>
+        <item>Deyang Sichuan</item>
+        <item>Guangyuan Sichuan</item>
+        <item>Mianyang Sichuan</item>
+        <item>Foshan Guangdong</item>
+        <item>Dongguan Guangdong</item>
+        <item>Fangchenggang Guangxi</item>
+        <item>Baise Guangxi</item>
+        <item>Qinzhou Guangxi</item>
+        <item>Hechi Guangxi</item>
+        <item>Taiyuan Shanxi</item>
+        <item>Jinzhong Shanxi</item>
+        <item>Jiujiang Jiangxi</item>
+        <item>Yueyang Hunan</item>
+        <item>Changsha Hunan</item>
+        <item>Xiangtan Hunan</item>
+        <item>Zhuzhou Hunan</item>
+        <item>Hengyang Hunan</item>
+        <item>Chenzhou Hunan</item>
+        <item>Changde Hunan</item>
+        <item>Yiyang Hunan</item>
+        <item>Loudi Hunan</item>
+        <item>Shaoyang Hunan</item>
+        <item>Zhengzhou Henan</item>
+        <item>Luoyang Henan</item>
+        <item>Anyang Henan</item>
+        <item>Kaifeng Henan</item>
+        <item>Jiaozuo Henan</item>
+        <item>Xinxiang Henan</item>
+        <item>Xuchang Henan</item>
+        <item>Luohe Henan</item>
+        <item>Golmud Qinghai</item>
+        <item>Xining Qinghai</item>
+        <item>Haidong Qinghai</item>
+        <item>Hainan Qinghai</item>
+        <item>Haibei Qinghai</item>
+        <item>Guiyang Guizhou</item>
+        <item>Zunyi Guizhou</item>
+        <item>Anshun Guizhou</item>
+        <item>Shizuishan Ningxia</item>
+        <item>Wuzhong Ningxia</item>
+        <item>Guyuan Ningxia</item>
+        <item>Yinchuan Ningxia</item>
+        <item>Yuncheng Shanxi</item>
+        <item>Linfen Shanxi</item>
+        <item>Datong Shanxi</item>
+        <item>Jincheng Shanxi</item>
+        <item>Changzhi Shanxi</item>
+        <item>Chengdu Sichuan</item>
+        <item>Liaoyang Liaoning</item>
+        <item>Fuxin Liaoning</item>
+        <item>Panjin Liaoning</item>
+        <item>Chaoyang Liaoning</item>
+        <item>Jinzhou Liaoning</item>
+        <item>Tieling Liaoning</item>
+        <item>Weinan Shaanxi</item>
+        <item>Xianyang Shaanxi</item>
+        <item>Hanzhong Shaanxi</item>
+        <item>Baoji Shaanxi</item>
+        <item>Tongchuan Shaanxi</item>
+        <item>"Yan'an Shaanxi"</item>
+        <item>Honghe Yunnan</item>
+        <item>Chuxiong Yunnan</item>
+        <item>Qujing Yunnan</item>
+        <item>Yuxi Yunnan</item>
+        <item>Kunming Yunnan</item>
+        <item>Changchun Jilin</item>
+        <item>Siping Jilin</item>
+        <item>Liaoyuan Jilin</item>
+        <item>Songyuan Jilin</item>
+        <item>Baicheng Jilin</item>
+        <item>Baishan Jilin</item>
+        <item>Yanbian Jilin</item>
+        <item>Jilin Jilin</item>
+        <item>Tonghua Jilin</item>
+        <item>Dandong Liaoning</item>
+        <item>Benxi Liaoning</item>
+        <item>Fushun Liaoning</item>
+        <item>Huludao Liaoning</item>
+        <item>Yingkou Liaoning</item>
+        <item>Anshan Liaoning</item>
+        <item>Dalian Liaoning</item>
+        <item>Hohhot Inner Mongolia</item>
+        <item>Wulanchabu Inner Mongolia</item>
+        <item>Baotou Inner Mongolia</item>
+        <item>Erdos Inner Mongolia</item>
+        <item>Bayannaoer Inner Mongolia</item>
+        <item>Wuhai Inner Mongolia</item>
+        <item>Changji Xinjiang</item>
+        <item>Urumqi Xingjiang</item>
+        <item>Harbin Heilongjiang</item>
+        <item>Qigihar Heilongjiang</item>
+        <item>Jiamusi Heilongjiang</item>
+        <item>Mudanjiang Heilongjiang</item>
+        <item>Daqing Heilongjiang</item>
+        <item>Suihua Heilongjiang</item>
+        <item>Heihe Heilongjiang</item>
+        <item>Jixi Heilongjiang</item>
+        <item>Qitaihe Heilongjiang</item>
+        <item>Hegang Heilongjiang</item>
+        <item>Shuangyashan Heilongjiang</item>
+        <item>Chuzhou Anhui</item>
+        <item>Chizhou Anhui</item>
+        <item>Maanshan Anhui</item>
+        <item>Huangshan Anhui</item>
+        <item>Xuancheng Anhui</item>
+        <item>Tongling Anhui</item>
+        <item>Anqing Anhui</item>
+        <item>Dali Yunnan</item>
+        <item>Lijiang Yunnan</item>
+        <item>Suzhou Anhui</item>
+        <item>Liuan Anhui</item>
+        <item>Huaibei Anhui</item>
+        <item>Jiayuguan Gansu</item>
+        <item>Zhangye Gansu</item>
+        <item>Wuwei Gansu</item>
+        <item>Guigang Guangxi</item>
+        <item>Hezhou Guangxi</item>
+        <item>Hulun Buir Inner Mongolia</item>
+        <item>Tongliao Inner Mongolia</item>
+        <item>Chifeng Inner Mongolia</item>
+        <item>Tongren Guizhou</item>
+        <item>Qiandongnan Guizhou</item>
+        <item>Qianna Guizhou</item>
+        <item>Liupanshui Guizhou</item>
+        <item>Qianxinan Guizhou</item>
+        <item>Bijie Guizhou</item>
+        <item>Pingdingshan Henan</item>
+        <item>Zhangjiakou Hebei</item>
+        <item>Chengde Hebei</item>
+        <item>Bozhou Anhui</item>
+        <item>Ganzhou Jiangxi</item>
+        <item>Yulin Shaanxi</item>
+        <item>Baiyin Gansu</item>
+        <item>Jiuquan Gansu</item>
+        <item>Dingxi Gansu</item>
+        <item>Linxia Gansu</item>
+        <item>Shihezi Xinjiang</item>
+        <item>Korla Xinjiang</item>
+        <item>Kashi Xinjiang</item>
+        <item>Puyang Henan</item>
+        <item>Sanmenxia Henan</item>
+        <item>Hebi Henan</item>
+        <item>"Xing'an Meng Inner Mongolia"</item>
+        <item>Xilinguole Meng Inner Mongolia</item>
+        <item>Jingdezhen Jiangxi</item>
+        <item>"Ji'an Jiangxi"</item>
+        <item>Fuzhou Jiangxi</item>
+        <item>Turpan Xinjiang</item>
+        <item>Hami Xinjiang</item>
+        <item>Akesu Xinjiang</item>
+        <item>Kuitun Xinjiang</item>
+        <item>Bole Xinjiang</item>
+        <item>Yili Xinjiang</item>
+        <item>Karamay Xinjiang</item>
+        <item>Yichang Hubei</item>
+        <item>Enshi Hubei</item>
+        <item>Wenshan Yunnan</item>
+        <item>"Pu'er Yunnan"</item>
+        <item>Baoshan Yunnan</item>
+        <item>Xinzhou Shanxi</item>
+        <item>Shuozhou Shanxi</item>
+        <item>Lvliang Shanxi</item>
+        <item>Xinyang Henan</item>
+        <item>Zhumadian Henan</item>
+        <item>Zhoukou Henan</item>
+        <item>Qingyang Gansu</item>
+        <item>Tianshui Gansu</item>
+        <item>Pingliang Gansu</item>
+        <item>Huangshi Hubei</item>
+        <item>Ezhou Hubei</item>
+        <item>Huanggang Hubei</item>
+        <item>Huaihua Hunan</item>
+        <item>Xiaogan Hubei</item>
+        <item>Suizhou Hubei</item>
+        <item>Xiangyang Hubei</item>
+        <item>Shiyan Hubei</item>
+        <item>Jingzhou Hubei</item>
+        <item>Jianghan Hubei</item>
+        <item>Lincang Yunnan</item>
+        <item>Nujiang Yunnan</item>
+        <item>Dehong Yunnan</item>
+        <item>Xishuangbanna Yunnan</item>
+        <item>Xianning Hubei</item>
+        <item>Zhangjiajie Hunan</item>
+        <item>Yongzhou Hunan</item>
+        <item>Yangquan Shanxi</item>
+        <item>Jishou Hunan</item>
+        <item>Shangqiu Henan</item>
+        <item>Nanyang Henan</item>
+        <item>Ziyang Sichuan</item>
+        <item>Shangluo Shaanxi</item>
+        <item>Diqing Yunnan</item>
+        <item>Zhaotong Yunnan</item>
+        <item>Ankang Shaanxi</item>
+        <item>Yichun Heilongjiang</item>
+        <item>Greater Khingan Range Heilongjiang</item>
+        <item>Kezhou Xinjiang</item>
+        <item>Hetian Xinjiang</item>
+        <item>Tacheng Xinjiang</item>
+        <item>Altai Xinjiang</item>
+        <item>Ganzi Sichuan</item>
+        <item>Aba Sichuan</item>
+        <item>Bazhong Sichuan</item>
+        <item>"Guang'an Sichuan"</item>
+        <item>Yaan Sichuan</item>
+        <item>Haixi Qinghai</item>
+        <item>Alxa Meng Inner Mongolia</item>
+        <item>Xilinhaote Inner Mongolia</item>
+        <item>"Ga'nan Gansu"</item>
+        <item>Longnan Gansu</item>
+        <item>Yushu Qinghai</item>
+        <item>Guoluo Qinghai</item>
+        <item>Huangnan Qinghai</item>
+        <item>Jinchang Gansu</item>
+        <item>Zhongwei Ningxia</item>
+        <item>Laibin Guangxi</item>
+        <item>Lhasa Tibet</item>
+        <item>Shigatse Tibet</item>
+        <item>Shannan Tibet</item>
+        <item>Linzhi Tibet</item>
+        <item>Changdu Tibet</item>
+        <item>Nagqu Tibet</item>
+        <item>Ali Tibet</item>
+        <item>Yanji Jilin</item>
+        <item>Xiantao Hubei</item>
+        <item>Duyun Guizhou</item>
+        <item>Kaili Guizhou</item>
+        <item>Xingyi Guizhou</item>
+        <item>Hailar Inner Mongolia</item>
+        <item>Meihekou Jilin</item>
+        <item>Ulanhot Inner Mongolia</item>
+        <item>Liangshan Sichuan</item>
+        <item>Shangzhou Shaanxi</item>
+        <item>Linhe Inner Mongolia</item>
+        <item>Qianjiang Chongqing</item>
+        <item>Wanzhou Chongqing</item>
+        <item>Fuling Chongqing</item>
+        <item>Jining Inner Mongolia</item>
+        <item>Huangchuan Henan</item>
+        <item>Hunchun Jiling</item>
+        <item>Dongsheng Inner Mongolia</item>
+        <item>Atushi Xinjiang</item>
+        <item>Bozhou Xinjiang</item>
+        <item>Xiangxi Hunan</item>
+        <item>Bayinguoleng Xinjiang</item>
+        <item>Bortala Xinjiang</item>
+        <item>Xifeng Gansu</item>
+        <item>Chongzuo Guangxi</item>
+        <item>Jiyuan Henan</item>
+        <item>Simao Yunnan</item>
+        <item>Delingha Qinghai</item>
+        <item>Sanya Hainan</item>
+        <item>Haiyan Qinghai</item>
+        <item>Gonghe Qinghai</item>
+        <item>Hunan Autonomous Prefecture</item>
+    </string-array>
+    <string-array name="phone_loc_countries">
+        <item>11</item>
+        <item>Лаос</item>
+        <item>Лихтенштейн</item>
+        <item>Италия</item>
+        <item>Испания</item>
+        <item>Доминикана</item>
+        <item>Гавайи</item>
+        <item>Франция</item>
+        <item>Бельгия</item>
+        <item>Французская Полинезия</item>
+        <item>Тувалу</item>
+        <item>Ниуэ</item>
+        <item>Повар</item>
+        <item>Палау</item>
+        <item>Острова Новая Каледония</item>
+        <item>Кирибати</item>
+        <item>Самоа</item>
+        <item>Американское Самоа</item>
+        <item>Антигуа и Барбуда</item>
+        <item>Ангилья</item>
+        <item>Сент-Винсент и Гренадины</item>
+        <item>Остров Норфолк</item>
+        <item>Кокосовые острова</item>
+        <item>Мозамбик</item>
+        <item>Остров Рождества</item>
+        <item>Кения</item>
+        <item>Танзания</item>
+        <item>Уганда</item>
+        <item>Бурунди</item>
+        <item>Руанда</item>
+        <item>Эфиопия</item>
+        <item>Сомали</item>
+        <item>Джибути</item>
+        <item>Гонконг</item>
+        <item>Макао</item>
+        <item>Северная Корея</item>
+        <item>Токелау</item>
+        <item>Федеративные Штаты Микронезии</item>
+        <item>Маршалловы острова</item>
+        <item>Кампучия</item>
+        <item>Румыния</item>
+        <item>Нидерланды</item>
+        <item>Австрия</item>
+        <item>Великобритания</item>
+        <item>Дания</item>
+        <item>Швеция</item>
+        <item>Греция</item>
+        <item>Лихтенштейн</item>
+        <item>Словакия</item>
+        <item>Чехия</item>
+        <item>Туркменистан</item>
+        <item>Португалия</item>
+        <item>Кыргызстан</item>
+        <item>Грузия</item>
+        <item>Гибралтар</item>
+        <item>Азербайджан</item>
+        <item>Бенин</item>
+        <item>Того</item>
+        <item>Хорватия</item>
+        <item>Черногория</item>
+        <item>Украина</item>
+        <item>Сербия</item>
+        <item>Сенегал</item>
+        <item>Гамбия</item>
+        <item>Мали</item>
+        <item>Мавритания</item>
+        <item>Кот-д Ивуар</item>
+        <item>Гвинея</item>
+        <item>Нигер</item>
+        <item>Буркина-Фасо</item>
+        <item>Венесуэла</item>
+        <item>Палестина</item>
+        <item>Куба</item>
+        <item>Мексика</item>
+        <item>Перу</item>
+        <item>Колумбия</item>
+        <item>Чили</item>
+        <item>Острова Теркс и Кайкос</item>
+        <item>Аргентина</item>
+        <item>Багамы</item>
+        <item>Барбадос</item>
+        <item>Монтсеррат</item>
+        <item>Словения</item>
+        <item>Югославия</item>
+        <item>Босния и Герцеговина</item>
+        <item>Венгрия</item>
+        <item>Бразилия</item>
+        <item>Кабо-Верде</item>
+        <item>Сан-Томе и Принсипи</item>
+        <item>Сьерра-Леоне</item>
+        <item>Гана</item>
+        <item>Маврикия</item>
+        <item>Либерия</item>
+        <item>Центральная Африка</item>
+        <item>Камерун</item>
+        <item>Нигерия</item>
+        <item>Чад</item>
+        <item>Объединенные Арабские Эмираты</item>
+        <item>Суринам</item>
+        <item>Бахрейн</item>
+        <item>Израиль</item>
+        <item>Бутан</item>
+        <item>Катар</item>
+        <item>Непал</item>
+        <item>Монголия</item>
+        <item>Французская Гвиана</item>
+        <item>Бангладеш</item>
+        <item>Вануату</item>
+        <item>Фиджи</item>
+        <item>Боливия</item>
+        <item>Бруней</item>
+        <item>Восточный Тимор</item>
+        <item>Тонга</item>
+        <item>Соломоновые острова</item>
+        <item>Науру</item>
+        <item>Папуа-Новая Гвинея</item>
+        <item>Македония</item>
+        <item>Иордания</item>
+        <item>Сирия</item>
+        <item>Мальдивы</item>
+        <item>Ливан</item>
+        <item>Саудовская Аравия</item>
+        <item>Йемен</item>
+        <item>Ирак</item>
+        <item>Кувейт</item>
+        <item>Оман</item>
+        <item>Пуэрто-Рико</item>
+        <item>Фарерские острова</item>
+        <item>Остров Гренландия</item>
+        <item>Ирландия</item>
+        <item>Люксембург</item>
+        <item>Албания</item>
+        <item>Исландия</item>
+        <item>Кипр</item>
+        <item>Мальта</item>
+        <item>Остров Святой Елены</item>
+        <item>Эритрея</item>
+        <item>Уругвай</item>
+        <item>Аруба</item>
+        <item>Марокко</item>
+        <item>Мартиника</item>
+        <item>Парагвай</item>
+        <item>Алжир</item>
+        <item>Эквадор</item>
+        <item>Гайана</item>
+        <item>Тунис</item>
+        <item>Гваделупа</item>
+        <item>Ливия</item>
+        <item>Американские Виргинские острова</item>
+        <item>Нидерландские Антильские Острова</item>
+        <item>Каймановы острова</item>
+        <item>Таиланд</item>
+        <item>Новая Зеландия</item>
+        <item>Ватикан</item>
+        <item>Индонезия</item>
+        <item>Филиппины</item>
+        <item>Малайзия</item>
+        <item>Австралия</item>
+        <item>Тайвань</item>
+        <item>Аляска</item>
+        <item>Болгария</item>
+        <item>Сен-Пьер и Микелон</item>
+        <item>Гаити</item>
+        <item>Бермуды</item>
+        <item>Сент-Люсия</item>
+        <item>Таджикистан</item>
+        <item>Фолклендские острова</item>
+        <item>Белиз</item>
+        <item>Гватемала</item>
+        <item>Сальватор</item>
+        <item>Гондурас</item>
+        <item>Никарагуа</item>
+        <item>Коста-Рико</item>
+        <item>Панама</item>
+        <item>Финляндия</item>
+        <item>Малави</item>
+        <item>Намибии</item>
+        <item>Ботсвана</item>
+        <item>Лесото</item>
+        <item>Мадагаскар</item>
+        <item>Замбия</item>
+        <item>Зимбабве</item>
+        <item>Остров Реюньон</item>
+        <item>Коморских островов</item>
+        <item>Свазиленд</item>
+        <item>Польша</item>
+        <item>Британские Виргинские острова</item>
+        <item>Германия</item>
+        <item>Узбекистан</item>
+        <item>Острова Уоллис и Футуна</item>
+        <item>Гренада</item>
+        <item>Сан-Марино</item>
+        <item>Монако</item>
+        <item>Андорра</item>
+        <item>Беларусь</item>
+        <item>Армения</item>
+        <item>Молдова</item>
+        <item>Эстония</item>
+        <item>Латвия</item>
+        <item>Доминика</item>
+        <item>Бирма</item>
+        <item>Ямайка</item>
+        <item>Швейцария</item>
+        <item>Вьетнам</item>
+        <item>Китай</item>
+        <item>Литва</item>
+        <item>Япония</item>
+        <item>Корея</item>
+        <item>Шри-Ланка</item>
+        <item>Египет</item>
+        <item>ЮАР</item>
+        <item>Иран</item>
+        <item>Америка/Канада</item>
+        <item>Россия</item>
+        <item>Норвегия</item>
+        <item>Сент-Китс и Невис</item>
+        <item>Марианские острова</item>
+        <item>Гуам</item>
+        <item>Тринидад и Тобаго</item>
+        <item>Сингапур</item>
+        <item>Конго (золото)</item>
+        <item>Конго</item>
+        <item>Габон</item>
+        <item>Экваториальная Гвинея</item>
+        <item>Остров Вознесения</item>
+        <item>Диего-Гарсия</item>
+        <item>Гвинея-Бисау</item>
+        <item>Ангола</item>
+        <item>Султан</item>
+        <item>Сейшельские острова</item>
+        <item>Афганистан</item>
+        <item>Пакистан</item>
+        <item>Индия</item>
+        <item>Турция</item>
+    </string-array>
+    <string-array name="phone_loc_operators">
+        <item>11</item>
+        <item>Mobile</item>
+        <item>Telecom</item>
+        <item>Unicom</item>
     </string-array>
 </resources>

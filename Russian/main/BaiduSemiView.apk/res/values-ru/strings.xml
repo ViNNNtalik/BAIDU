@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Онлайн система SemiView</string>
+    <string name="brwoser_title">Простой браузер</string>
+    <string name="str_launch_default_browser">Выберите браузер по умолчанию</string>
+    <string name="str_wap_search">Web</string>
+    <string name="str_baike_search">Baike</string>
+    <string name="str_translate_search">Перевести</string>
+    <string name="str_music_search">Музыка</string>
+    <string name="str_no_baike">К сожалению, Baike в настоящее время недоступен</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Удалить?</item>
+        <item quantity="one">Удалить?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="delete_selected_items">
+        <item quantity="other">Удалить: %1$d</item>
+        <item quantity="zero">Удалить: %1$d</item>
+        <item quantity="one">Удалить: %1$d</item>
+    </plurals>
+    <plurals name="delete_selected_albums">
+        <item quantity="other">Удалить: %1$d</item>
+        <item quantity="zero">Удалить: %1$d</item>
+        <item quantity="one">Удалить: %1$d</item>
+    </plurals>
+    <plurals name="share_selected_items">
+        <item quantity="other">Отправить: %1$d</item>
+        <item quantity="zero">Отправить: %1$d</item>
+        <item quantity="one">Отправить: %1$d</item>
+    </plurals>
+    <plurals name="share_selected_albums">
+        <item quantity="other">Отправить: %1$d</item>
+        <item quantity="zero">Отправить: %1$d</item>
+        <item quantity="one">Отправить: %1$d</item>
+    </plurals>
+    <plurals name="move_selected_albums_to_second">
+        <item quantity="other">Скрыть: %1$d</item>
+        <item quantity="zero">Скрыть: %1$d</item>
+        <item quantity="one">Скрыть: %1$d</item>
+    </plurals>
+    <plurals name="move_selected_albums">
+        <item quantity="other">Скрыть: %1$d</item>
+        <item quantity="zero">Скрыть: %1$d</item>
+        <item quantity="one">Скрыть: %1$d</item>
+    </plurals>
+    <plurals name="move_selected_items">
+        <item quantity="other">Переместить: %1$d</item>
+        <item quantity="zero">Переместить: %1$d</item>
+        <item quantity="one">Переместить: %1$d</item>
+    </plurals>
+    <plurals name="rotate_left_selected_items">
+        <item quantity="other">Повернуть влево: %1$d</item>
+        <item quantity="zero">Повернуть влево: %1$d</item>
+        <item quantity="one">Повернуть влево: %1$d</item>
+    </plurals>
+    <plurals name="rotate_right_selected_items">
+        <item quantity="other">Повернуть вправо: %1$d</item>
+        <item quantity="zero">Повернуть вправо: %1$d</item>
+        <item quantity="one">Повернуть вправо: %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Загрузка альбомов для оффлайн-доступа.</item>
+        <item quantity="one">Загрузка альбомов для оффлайн-доступа.</item>
+    </plurals>
+</resources>

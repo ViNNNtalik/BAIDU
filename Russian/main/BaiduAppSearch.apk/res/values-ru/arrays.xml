@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="whitelist_filterword">
+        <item>.apk</item>
+        <item>.rmvb</item>
+        <item>.epub</item>
+        <item>.umd</item>
+        <item>.txt</item>
+        <item>.mp3</item>
+    </string-array>
+    <string-array name="myapp_downloading_dialog">
+        <item>отменить</item>
+        <item>Просмотреть подробности</item>
+    </string-array>
+    <string-array name="myapp_redownload_dialog">
+        <item>отменить</item>
+        <item>Повторить</item>
+        <item>Просмотреть подробности</item>
+    </string-array>
+    <string-array name="myapp_download_dialog">
+        <item>установка</item>
+        <item>Удалить установочный пакет</item>
+        <item>Просмотреть подробности</item>
+    </string-array>
+    <string-array name="myapp_updateble_dialog">
+        <item>удалить</item>
+        <item>обновленный</item>
+        <item>Пропустить текущую версию обновления</item>
+        <item>Просмотреть подробности</item>
+    </string-array>
+    <string-array name="myapp_updateble_downloaded_dialog">
+        <item>установка</item>
+        <item>удалить</item>
+        <item>Удалить установочный пакет</item>
+        <item>Просмотреть подробности</item>
+    </string-array>
+    <string-array name="myapp_installed_dialog">
+        <item>удалить</item>
+        <item>Просмотреть подробности</item>
+    </string-array>
+    <string-array name="automation_close_space_entries">
+        <item>Когда экран выключен</item>
+        <item>Каждые полчаса</item>
+        <item>Каждый 1 час</item>
+        <item>Каждые 2 часа</item>
+        <item>Каждые 4 часа</item>
+    </string-array>
+</resources>

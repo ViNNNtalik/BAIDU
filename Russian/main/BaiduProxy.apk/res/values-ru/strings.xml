@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Baidu-прокси</string>
+    <string name="app_date_format">dd-MM-yyyy</string>
+    <string name="date_format_simple">MM-yyyy</string>
+</resources>

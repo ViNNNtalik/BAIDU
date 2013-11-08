@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appname">Sync</string>
+    <string name="appname">Синхр-ция</string>
     <string name="notification_title_syncing_contact">Синхронизация контактов</string>
     <string name="notification_title_syncing_calendar">Синхронизация календаря</string>
     <string name="notification_title_syncing_notepad">Синхронизация блокнота</string>
@@ -24,4 +24,27 @@
     <string name="notification_title_sync_failed_client">Ошибка клиента, попробуйте позже</string>
     <string name="notification_title_sync_failed_network">Сетевое подключение отсутствует</string>
     <string name="not_support_non_username_account">Безымянный аккаунт не поддерживается</string>
+    <string name="contact_sync_title">Аккаунты и синхронизация</string>
+    <string name="contact_baiduaccount_label">Baidu-аккаунт:</string>
+    <string name="contact_recently_label">Последняя синхр.:</string>
+    <string name="contact_tip_normal">(*Синхронизация скачает все контакты из облака на устройство)</string>
+    <string name="contact_autosync_title">Автосинхронизация контактов</string>
+    <string name="contact_sync_now">Синхронизация</string>
+    <string name="contact_sync_cancel">Отменить синхронизацию</string>
+    <string name="contact_not_sync">Не синхронизировано</string>
+    <string name="contact_syncing">Синхронизация</string>
+    <string name="contact_result_success_local">локально удалено %1$s, добавлено %2$s, обновлено %3$s</string>
+    <string name="contact_result_success_cloud">в облаке удалено %1$s, добавлено %2$s, обновлено %3$s</string>
+    <string name="contact_result_success_dialog_title">Синхронизация завершена</string>
+    <string name="sync_network_invalid_title">Ошибка сети</string>
+    <string name="sync_network_invalid_message">Ошибка сети, проверьте настройки</string>
+    <string name="sync_network_invalid_setting">Настройки</string>
+    <string name="sync_network_error_message">Ошибка сети, попробуйте позже</string>
+    <string name="sync_error_title">Синхронизация не удалась</string>
+    <string name="sync_error_message">Синхронизация не удалась, попробуйте позже</string>
+    <string name="sync_fist">Синхронизируйте один раз, чтобы включить автосинхронизацию</string>
+    <string name="sync_lasttime">Последняя синхр-ция:</string>
+    <string name="sync_account_expire_title">Срок аккаунта истек</string>
+    <string name="sync_account_expire_msg">Ваш аккаунт истек, перевойдите в него</string>
+    <string name="sync_btn_login">Вход в аккаунт</string>
 </resources>

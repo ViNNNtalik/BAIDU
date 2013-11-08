@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Оператор связи</string>
-    <string name="app_label">Сетевое расположение</string>
-    <string name="location_warning_title">Разрешение расположения</string>
-    <string name="location_warning_title_first">Разрешение расположения</string>
-    <string name="location_warning_title_close">Разрешение расположения</string>
-    <string name="location_warning_message">"Вы позволите Baidu собирать анонимные данные о местоположении. Некоторые данные могут быть зашифрованы и хранятся на вашем устройстве.Вы будете платить за трафик данных.Данные в зашифрованном виде  будут использоваться для получения информации о местоположении и повышения эффективности работы телефона. Мы обещаем собранные данные не будут предоставляться другим лицам или использовать для других целей кроме как для оказания услуг.Собираемые данные включает в себя следующее: 
-- ID, Сила сигнал WIFI ; 
-- ID, Сила сигнала  из периферийной базовой станции(GSM); 
-- ID, Сила сигнала  из периферийной базовой станции(CDMA); ."</string>
-    <string name="location_close_warning_message">Закрытая служба сетевого расположения, может запросить данные любого приложения.</string>
-    <string name="location_first_warning_message">Для того что бы улучшить работу вашего телефона, система автоматически откроет службы сетевого расположения.</string>
+    <string name="app_name">Местоположение</string>
+    <string name="app_label">Местоположение</string>
+    <string name="location_warning_title">Разрешение отслеживания</string>
+    <string name="location_warning_title_first">Разрешение отслеживания местоположения</string>
+    <string name="location_warning_title_close">Разрешение отслеживания местоположения</string>
+    <string name="location_warning_message">"Разрешить Baidu собирать анонимные данные о местоположении. Некоторые из них могут храниться на устройстве. Сбор сведений может проходить даже тогда, когда ни одно из приложений не запущено. Данные включают в себя: 
+- ID, Сила сигнал Wi-Fi; 
+- ID, Сила сигнала периферийной базовой станции (GSM); 
+- ID, Сила сигнала периферийной базовой станции(CDMA);"</string>
+    <string name="location_close_warning_message">Закрытая служба сетевого местоположения может запросить данные любого приложения</string>
+    <string name="location_first_warning_message">Для того, что бы улучшить работу Вашего устройства, система автоматически откроет службы сетевого местоположения</string>
     <string name="agree">Согласен</string>
     <string name="disagree">Несогласен</string>
     <string name="close_agree">Да</string>

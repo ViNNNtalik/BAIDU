@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">BaiduSystemFramework</string>
-    <string name="test_xml_parser">Xml Parser</string>
-    <string name="do_test">Запустить тест</string>
     <string name="service_name">Службы UBC</string>
     <string name="entrance_name">Вход в UBC</string>
     <string name="enable_ubc">Включить UBC</string>
@@ -17,63 +15,7 @@
     <string name="ubc_privacy_settings_title">Настройка конфиденциальности</string>
     <string name="ubc_privacy_switch">Программа улучшения качества</string>
     <string name="ubc_privacy_declaration">Заявление о конфиденциальности</string>
-    <string name="ubc_privacy_info">"    Baidu компания придает большое значение защите Вашей частной жизни，Перед использованием услуги, предоставляемые Baidu облачную платформу интеллектуального терминала，Пожалуйста, внимательно прочитайте следующее утверждение.&lt;br>&lt;br>    В целях дальнейшего повышения удобства Вашего пребывания в использовании облачной платформы Baidu терминал интеллектуальным，Чтобы предоставить вам лучший сервис，Мы приглашаем Вас принять участие в программе улучшения пользовательского опыта. Мы предоставим вам услуги, чтобы собрать необходимые данные，Анализируя эти данные，Предоставляет вам больше обновлений, внимательное обслуживание. Мы стремимся, чтобы решить проблему в Baidu облаке платформу интеллектуального терминала процесс проектирования, вторичные платформы разработки，Платформу и улучшению общее качество обслуживания.&lt;br>&lt;br>    Данные пользователя мы собираем, может включать в себя аппаратные средства, системы версии，Статистика производительности，А использование приложения в системе данных. Эти данные не включают свой ​​номер телефона, контакты, расположение, и тесно связаны с личной информацией. Любые данные будут собраны с помощью коллекции，Которые не связаны с вашей личной информацией. В то же время，Мы также будем предпринимать собраные обработки шифрования данных，Для обеспечения безопасности информации. Без Вашего согласия，Мы не будет предоставлена ​​третьим лицам ни при каких соответствующих данных. Конечно, вы можете также отказался от участия в “программе улучшения качества программного Пользователя”，В любое время выбрать, чтобы отключить функцию сбора данных.&lt;br>&lt;br>    Положение о конфиденциальности распространяется на все услуги, предоставляемые в облачную платформу Baidu интеллектуальные терминалы，Но не включает независимую политику конфиденциальности (не консолидируется в Безопасность).&lt;br>&lt;br>    Положение о конфиденциальности не распространяется на Baidu облако интеллектуальный терминал платформы приложений продукты или услуги, предоставляемые третьими сторонами.&lt;br>&lt;br>    Baidu также заинтересовались Конфиденциальность изменить. Если изменения в использование вашей персональной информационной политики，Мы будем на видном месте в Baidu облако интеллектуальные Платформу официальном сайте терминалы выпустила соответствующие правила, с тем чтобы своевременно уведомлять пользователя.&lt;br>&lt;br>    Baidu всегда был привержен к предпосылке, что полной защиты вашей конфиденциальности，Предоставляет вам лучший опыт и обслуживания."</string>
-    <string name="traffic_monitor_title">Использование данных</string>
-    <string name="mobile_stats_category">Статистика Мобильных данных</string>
-    <string name="used_today">Используются сегодня</string>
-    <string name="used_this_month">Использование этот месяц</string>
-    <string name="package_balance">Пакет баланса</string>
-    <string name="setting_category">Настройки Traffic Monitor</string>
-    <string name="daily_alert">Ежедневные оповещения</string>
-    <string name="daily_quota">Ежедневная Quota</string>
-    <string name="stats_amendment">Статистика регулировки</string>
-    <string name="monthly_quota">Месячная Quota</string>
-    <string name="alert_by_insufficiency">Недостаточность оповещения</string>
-    <string name="auto_off">Автоматическое выключение</string>
-    <string name="off_by_overflow">Автоматическое выключение мобильной сети с перезагрузкой</string>
-    <string name="app_stats_category">Приложение категории Mobile Data</string>
-    <string name="app_details">Данные статистики и Firewall</string>
-    <string name="monthly_quota_not_set">Месячная Quota не установлена</string>
-    <string name="set_monthly_quota">Установить месячную Quota</string>
-    <string name="set_daily_quota">Установить дневную Quota</string>
-    <string name="manually_amend_stats">Ручная настройка статистики</string>
-    <string name="process_kernel_label">Baidu Cloud OS</string>
-    <string name="data_usage_uninstalled_apps">Удаление приложения</string>
-    <string name="monthly_quota_dialog_title">Месячная Quota (MB)</string>
-    <string name="daily_quota_dialog_title">Дневная Quota (MB)</string>
-    <string name="stats_amend_dialog_title">Статус регулировки(MB)</string>
-    <string name="tether_settings_title_usb">USB монтировать</string>
-    <string name="tether_settings_title_wifi">Портативная точка доступа</string>
-    <string name="tether_settings_title_bluetooth">Bluetooth сопряжение</string>
-    <string name="tether_settings_title_usb_bluetooth">Сопряжение</string>
-    <string name="tether_settings_title_all">Сопряжение &amp; Портативная точка доступа</string>
-    <string name="package_traffic_title">Лимит трафика</string>
-    <string name="package_traffic_summary">Настройка ежемесячного абонентского лимита трафика</string>
-    <string name="package_traffic_dialog_title">Лимит трафика (MB)</string>
-    <string name="package_alarm_title">Уведомление</string>
-    <string name="package_alarm_summary">Уведомление при недостаточном трафике</string>
-    <string name="package_overflow_shutdown_title">Автоматическое выключение</string>
-    <string name="app_traffic_title">Статистика Приложений Mobile Data</string>
-    <string name="app_cur_title">В этом месяце</string>
-    <string name="app_last_title">Последний месяц</string>
-    <string name="app_today_title">Сегодня</string>
-    <string name="app_forbidden_num_zero">Ни одно требование не запрещает ипользоваться сетью передачи данных</string>
-    <string name="app_forbidden_num_one">" 1 приложение запрещает пользоваться сетью передачи данных"</string>
-    <string name="app_forbidden_num">" %s приложениям запрещено использовать сеть передачи данных"</string>
-    <string name="cost_traffic_summary" />
-    <string name="invalid_number">Неверный ввод, попробуйте еще раз</string>
-    <string name="invalid_adjusted_value">Скорректированное правило, должно превышать сегодняшнюю статистику Повторите попытку</string>
-    <string name="package_flow_insufficent_title">Лимит трафика недостаточен</string>
-    <string name="package_flow_overflow_title">Лимит трафика превышен</string>
-    <string name="package_flow_overflow_daily_title">Дневной лимит трафика превышен</string>
-    <string name="package_flow_insufficent_summary">Оставшийся лимит трафика</string>
-    <string name="package_flow_overflow_daily_summary">Превышающих дневную Quota</string>
-    <string name="package_flow_overflow_summary">Превышение лимита трафика</string>
-    <string name="package_flow_shutdown_summary">Передача данных через мобильную сеть автоматически выключится</string>
-    <string name="media">Мультимедиа</string>
-    <string name="vpn">VPN</string>
-    <string name="gps">GPS</string>
-    <string name="shell">Оболочка</string>
+    <string name="ubc_privacy_info">"   Baidu компания придает большое значение защите Вашей частной жизни，Перед использованием услуги, предоставляемые Baidu облачную платформу интеллектуального терминала，Пожалуйста, внимательно прочитайте следующее утверждение.&lt;br>&lt;br>    В целях дальнейшего повышения удобства Вашего пребывания в использовании облачной платформы Baidu терминал интеллектуальным，Чтобы предоставить вам лучший сервис，Мы приглашаем Вас принять участие в программе улучшения пользовательского опыта. Мы предоставим вам услуги, чтобы собрать необходимые данные，Анализируя эти данные，Предоставляет вам больше обновлений, внимательное обслуживание. Мы стремимся, чтобы решить проблему в Baidu облаке платформу интеллектуального терминала процесс проектирования, вторичные платформы разработки，Платформу и улучшению общее качество обслуживания.&lt;br>&lt;br>    Данные пользователя мы собираем, может включать в себя аппаратные средства, системы версии，Статистика производительности，А использование приложения в системе данных. Эти данные не включают свой ​​номер телефона, контакты, расположение, и тесно связаны с личной информацией. Любые данные будут собраны с помощью коллекции，Которые не связаны с вашей личной информацией. В то же время，Мы также будем предпринимать собраные обработки шифрования данных，Для обеспечения безопасности информации. Без Вашего согласия，Мы не будет предоставлена ​​третьим лицам ни при каких соответствующих данных. Конечно, вы можете также отказался от участия в “программе улучшения качества программного Пользователя”，В любое время выбрать, чтобы отключить функцию сбора данных.&lt;br>&lt;br>    Положение о конфиденциальности распространяется на все услуги, предоставляемые в облачную платформу Baidu интеллектуальные терминалы，Но не включает независимую политику конфиденциальности (не консолидируется в Безопасность).&lt;br>&lt;br>    Положение о конфиденциальности не распространяется на Baidu облако интеллектуальный терминал платформы приложений продукты или услуги, предоставляемые третьими сторонами.&lt;br>&lt;br>    Baidu также заинтересовались Конфиденциальность изменить. Если изменения в использование вашей персональной информационной политики，Мы будем на видном месте в Baidu облако интеллектуальные Платформу официальном сайте терминалы выпустила соответствующие правила, с тем чтобы своевременно уведомлять пользователя.&lt;br>&lt;br>    Baidu всегда был привержен к предпосылке, что полной защиты вашей конфиденциальности，Предоставляет вам лучший опыт и обслуживания."</string>
     <string name="ne_ok">OK</string>
     <string name="ne_cancel">Конец</string>
     <string name="olog_settings_title">Доступ в автономный режим</string>
@@ -83,7 +25,6 @@
     <string name="olog_storage_path_title">Путь Сохранения регистрации</string>
     <string name="olog_logtype_title">Уровень Журнала</string>
     <string name="olog_logtype_dialog_title">Уровень Журнала</string>
-    <string name="olog_logtag_title">Доступ к уровеню выходного сигнала</string>
     <string name="olog_logtag_dialog_title">Доступ к уровню выходного сигнала</string>
     <string name="olog_tag_phone">Журнал звонков</string>
     <string name="olog_tag_sms">Доступ к SMS</string>
@@ -96,4 +37,37 @@
     <string name="olog_storage_nolimit_sum">Неограниченный</string>
     <string name="olog_switch_title">Разрешить лог сообщений</string>
     <string name="olog_switch_summary">Офлайн доступ к главному выключателю</string>
+    <string name="permlab_downloadManager">Доступ к менеджеру загрузок</string>
+    <string name="permdesc_downloadManager">Приложение получит доступ к менеджеру загрузок и сможет загружать файлы через него. Вредоносные приложения смогут таким образом прерывать загрузки и просматривать личную информацию</string>
+    <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузок</string>
+    <string name="permdesc_downloadManagerAdvanced">Приложение получит доступ к расширенным функциям менеджера загрузок. Вредоносные приложения смогут таким образом прерывать загрузки и просматривать личную информацию</string>
+    <string name="permlab_downloadCompletedIntent">Отправление оповещения о загрузке</string>
+    <string name="permdesc_downloadCompletedIntent">Приложение сможет отправлять оповещения о завершенных загрузках. Вредоносные приложения смогут таким образом мешать работе приложений, загружающих файлы</string>
+    <string name="permlab_seeAllExternal">Просмотр всех загрузок на SD-карте</string>
+    <string name="permdesc_seeAllExternal">Приложение получит доступ ко всем загрузкам на SD-карте независимо от того, через какое приложение они были загружены</string>
+    <string name="permlab_downloadCacheNonPurgeable">Резервирование места в кэше</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Приложение сможет загружать файлы в кэш загрузки (который не может быть автоматически очищен), если менеджеру загрузок потребуется больше места</string>
+    <string name="permlab_downloadWithoutNotification">Загрузка файлов без оповещения</string>
+    <string name="permdesc_downloadWithoutNotification">Приложение сможет загружать файлы через диспетчер загрузок без уведомления пользователя</string>
+    <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам</string>
+    <string name="permdesc_accessAllDownloads">Приложение сможет открывать и изменять загрузки независимо от того, через какое приложение они были загружены</string>
+    <string name="download_unknown_title">&lt;Без названия></string>
+    <string name="notification_download_complete">Загрузка завершена</string>
+    <string name="notification_download_failed">Не удалось загрузить файл</string>
+    <string name="notification_need_wifi_for_size">Загрузка только по Wi-Fi</string>
+    <string name="notification_paused_in_background">Загрузка приостановлена</string>
+    <string name="wifi_required_title">Слишком большой файл для загрузки через 2G/3G</string>
+    <string name="wifi_required_body" formatted="false">"Для завершения загрузки файла размером %s  необходимо подключение к сети Wi-Fi.
+
+Чтобы продолжить загрузку позже через Wi-Fi, нажмите %s "</string>
+    <string name="wifi_recommended_title">Поставить в очередь на загрузку позже?</string>
+    <string name="wifi_recommended_body" formatted="false">"Если загрузить %s  сейчас, батарея может быстро разрядиться. Также не исключено превышение трафика и, как результат, увеличение расходов.
+
+Чтобы выполнить загрузку позже через Wi-Fi, нажмите %s"</string>
+    <string name="button_queue_for_wifi">Добавить в очередь</string>
+    <string name="button_cancel_download">Отмена</string>
+    <string name="button_start_now">Запустить</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s осталось</string>
+    <string name="download_no_application_title">"Не удается открыть файл"</string>
 </resources>

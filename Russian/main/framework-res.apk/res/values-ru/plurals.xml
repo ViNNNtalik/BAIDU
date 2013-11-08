@@ -67,6 +67,18 @@
         <item quantity="other">через %d дн.</item>
         <item quantity="one">завтра</item>
     </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d часов</item>
+        <item quantity="one">1 час</item>
+    </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Доступна сеть Wi-Fi</item>
         <item quantity="one">Доступна сеть Wi-Fi</item>

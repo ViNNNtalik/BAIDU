@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="loading_for_sentence_state">
+        <item>Загрузка ^o^)/</item>
+        <item>Скороn (*^_^*)</item>
+        <item>Скоро завершится O(n_n)O</item>
+    </string-array>
+</resources>

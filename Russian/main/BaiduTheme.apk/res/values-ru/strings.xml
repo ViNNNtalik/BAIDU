@@ -1,149 +1,339 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Добро пожаловать в темы!</string>
+
     <string name="app_name">Темы</string>
     <string name="app_title">Менеджер тем</string>
-    <string name="apply">Применить</string>
+    <string name="apply">Выбрать</string>
     <string name="apply_theme">Применить тему</string>
     <string name="delete">Удалить</string>
-    <string name="left">Л</string>
-    <string name="right">П</string>
+
+
     <string name="play">Воспроизвести</string>
-    <string name="systemui">Статусбар</string>
-    <string name="framework">Системные ресурсы</string>
-    <string name="framework_yi">Ресурсы Baidu</string>
-    <string name="icons">Иконки</string>
-    <string name="lockscreen">Экран блокировки</string>
-    <string name="wallpaper">Обои</string>
-    <string name="menu_header">Настройки темы</string>
-    <string name="item_count">%1$d/%2$d</string>
-    <string name="detail_component_theme">Свойства темы</string>
-    <string name="component_theme_settings_label">Компоненты темы</string>
-    <string name="appearance_theme_settings_title">Стиль темы</string>
-    <string name="app_theme_settings_title">Стиль приложениий</string>
-    <string name="lockscreen_theme_settings_title">Стиль экрана блокировки</string>
-    <string name="launcher_theme_settings_title">Стиль рабочего стола</string>
-    <string name="icons_theme_settings_title">Стиль иконок</string>
-    <string name="statusbar_theme_settings_title">Стиль статусбара</string>
-    <string name="fonts_theme_settings_title">Стиль шрифтов</string>
-    <string name="mms_theme_settings_title">Стиль ММС</string>
-    <string name="settings_theme_settings_title">Стиль настроек</string>
-    <string name="dialpad_theme_settings_title">Стиль звонилки</string>
-    <string name="fonts">Шрифты</string>
-    <string name="ringtones">Рингтоны</string>
-    <string name="mms">ММС</string>
-    <string name="contacts">Контакты</string>
-    <string name="settings">Настройки</string>
-    <string name="dialpad">Телефон</string>
-    <string name="wallpaper_settings_title">Настройка обоев</string>
+    <string name="menu_header">Опции темы</string>
+
+    <string name="detail_component_theme">Подробности темы</string>
+    <string name="component_theme_settings_label">Настройки компонента</string>
+    <string name="appearance_theme_settings_title">Внешний вид</string>
+    <string name="app_theme_settings_title">Приложения</string>
+    <string name="lockscreen_theme_settings_title">Экран блокировки</string>
+    <string name="launcher_theme_settings_title">Лаунчер</string>
+    <string name="icons_theme_settings_title">Иконки и виджеты</string>
+    <string name="statusbar_theme_settings_title">Панель уведомлений</string>
+    <string name="fonts_theme_settings_title">Шрифты</string>
+    <string name="mms_theme_settings_title">MMS</string>
+    <string name="settings_theme_settings_title">Настройки</string>
+    <string name="dialpad_theme_settings_title">Телефон</string>
+    <string name="wallpaper_settings_title">Обои</string>
     <string name="desktop_wallpaper_settings_title">Обои рабочего стола</string>
-    <string name="lockscreen_wallpaper_settings_title">Обои на экране блокировки</string>
-    <string name="ringtones_settings_title">Настройка звонка</string>
-    <string name="ringtone_settings_title">Выбор рингтона</string>
+    <string name="lockscreen_wallpaper_settings_title">Обои экрана блокировки</string>
+    <string name="ringtones_settings_title">Рингтоны</string>
+    <string name="ringtone_settings_title">Рингтон</string>
     <string name="notification_settings_title">Уведомления</string>
     <string name="alarm_settings_title">Будильник</string>
-    <string name="default_name">Стандарное</string>
+    <string name="default_name">Настроить</string>
     <string name="detail">Детали</string>
     <string name="title">Название:</string>
     <string name="version">Версия:</string>
     <string name="author">Автор:</string>
     <string name="designer">Дизайнер:</string>
-    <string name="downloadnum">Время загрузки:</string>
-    <string name="path">Патч:</string>
+    <string name="downloadnum">Загрузок:</string>
+    <string name="path">Путь:</string>
     <string name="response_parameter_error">Ошибка параметра</string>
     <string name="response_server_error">Ошибка сервера</string>
-    <string name="not_login_yet">Не верный логин</string>
-    <string name="not_pay_yet">Не оплачено</string>
-    <string name="not_file_found">Изображение не найдено</string>
-    <string name="app_not_found">Приложение не найдено</string>
-    <string name="goods_not_found">Услуга не найдена</string>
-    <string name="goods_already_paid">Услуга оплачена</string>
-    <string name="goods_fee_type_unalloqed">Оплатить через Unalloqed</string>
-    <string name="goods_wrong_fee">Неправильно оплачено</string>
-    <string name="goods_not_downloaded">Вы еще не установили, пожалуйста, комментарий после установки</string>
-    <string name="free">Бесплатно</string>
-    <string name="sdcard_unmount">Ошибка SD карты</string>
-    <string name="download_failed_memory_low">Загрузка остановлена, недостаточно памяти.</string>
-    <string name="network_exception">Связь с сервером прервалась</string>
-    <string name="network_exception_hint">Сеть недоступна, повторить?</string>
-    <string name="cancel">Закрыть</string>
-    <string name="retry">Повторить</string>
+    <string name="not_login_yet">Пока не авторизовн</string>
+
+
+
+
+
+
+
+
+
+    <string name="sdcard_unmount">Ошибка SD-карты</string>
+    <string name="download_failed_memory_low">Загрузка приостановлена, недостаточно памяти.</string>
+    <string name="network_exception">Ошибка соединения с сервером</string>
+    <string name="network_exception_hint">Сеть недоступна, продолжить?</string>
+    <string name="cancel">Отмена</string>
+    <string name="retry">Попробовать снова</string>
     <string name="loading">Загрузка...</string>
-    <string name="theme_resource_replacement">Theme Resource Replacement</string>
-    <string name="no_result">Unmatched theme</string>
-    <string name="partial_theme">Компоненты темы</string>
-    <string name="theme_replacement_error">Theme apply error, use default 1.</string>
-    <string name="latest">Разместить</string>
-    <string name="hottest">Сравнть</string>
+    <string name="theme_resource_replacement">Замена ресурсов</string>
+    <string name="no_result">Нет совпадений</string>
+    <string name="partial_theme">Частично совпадает</string>
+    <string name="theme_replacement_error">Невозможно применить тему, использована Тема1</string>
+    <string name="latest">Последние</string>
+    <string name="hottest">Лучшие</string>
     <string name="size">Размер:</string>
-    <string name="download">Загрузить</string>
-    <string name="downloaded">Загружено</string>
-    <string name="installed">Установлено</string>
+    <string name="download">Скачать</string>
+    <string name="downloaded">Установка</string>
+    <string name="installed">Загружено</string>
     <string name="downloading">Загрузка</string>
-    <string name="alarm">Будильник</string>
-    <string name="ringtone">Рингтон</string>
-    <string name="notification">Уведомление</string>
+
+
+
     <string name="theme_restore">Восстановить</string>
     <string name="apply_complete">Завершено</string>
     <string name="ok">OK</string>
-    <string name="cancle">Отменить</string>
-    <string name="confirm_delete_theme">Вы точно хотите удалить эту тему?</string>
-    <string name="confirm_delete_using_theme">Эта тема используется, если ее удалить, установится стандартная тема, вы хотите удалить эту тему?</string>
-    <string name="picture">Изображение</string>
+    <string name="cancle">Отмена</string>
+    <string name="confirm_delete_theme">Удалить тему?</string>
+    <string name="confirm_delete_using_theme">Тема используется, после ее удаления будет применена тема по умолчанию, удалить?</string>
+    <string name="confirm_delete_part">Удалить %1$s?</string>
+    <string name="confirm_delete_using_part">%1$s используется, в случае удаления будет использоваться %2$s по умолчанию, удалить?</string>
+    <string name="confirm_delete_whole">%1$s входит в состав темы %2$s, удалить эту тему?</string>
+    <string name="confirm_delete_using_whole">%1$s входит в состав темы %2$s и используется сейчас, в случае удаления будет использоваться тема по умолчанию, удалить?</string>
+    <string name="dialog_theme_deleting">Удаление темы</string>
+    <string name="picture">Картинка</string>
     <string name="sound">Звук</string>
-    <string name="theme_detail_choose">Свойства темы</string>
-    <string name="share_to_baiduer">Поделиться с базой тем</string>
-    <string name="download_notify">Baidu тема ( %d )</string>
-    <string name="self_define_theme">Стандартное</string>
-    <string name="delete_default_theme">Нельзя удалить установленную тему</string>
-    <string name="cannot_share">Темы по умолчанию,не могут быть общими</string>
-    <string name="uncheck_all_component">Выберите хотябы один компонент</string>
-    <string name="illegal_theme_format">Недопустимый формат темы</string>
-    <string name="uploading_notify_tick">Загрузка %1$s</string>
-    <string name="uploaded_success_notify_tick">Загрузка завершена</string>
-    <string name="uploaded_failed_notify_tick">Сбой при загрузке</string>
-    <string name="uploaded_success_notify_title">Загрузка %1$s завершено</string>
-    <string name="uploaded_failed_notify_title">Загрузка %1$s осталось</string>
-    <string name="download_theme">Загрузка темы</string>
+    <string name="theme_detail_choose">Детали темы</string>
+    <string name="share_to_baiduer">Отослать в онлайн базу</string>
+
+    <string name="self_define_theme">Пользовательская</string>
+    <string name="delete_default_theme">Невозможно удалить тему по умолчанию</string>
+    <string name="cannot_share">Тема по умолчанию не может быть отослана</string>
+    <string name="uncheck_all_component">Выберите хотя бы один компонент</string>
+    <string name="delete_theme">Удалить</string>
+    <string name="theme_detail_option">Детали</string>
+    <string name="illegal_theme_format">Неверный формат темы</string>
+
+    <string name="uploaded_success_notify_tick">Выгрузка успешна</string>
+    <string name="uploaded_failed_notify_tick">Сбой выгрузки</string>
+    <string name="uploaded_format_wrong_dialog_title">Неверный формат</string>
+    <string name="uploaded_format_wrong_dialog_msg">Старый формат архива, используйте новый формат.</string>
+    <string name="uploaded_format_failed_notify_tick">Сбой выгрузки, проверьте корректность формата темы.</string>
+    <string name="uploaded_success_notify_title">Выгрузка %1$s успешна</string>
+    <string name="uploaded_failed_notify_title">Сбой выгрузки %1$s</string>
+    <string name="download_theme">Загрузить</string>
+    <string name="download_nospace">SD-карта заполнена</string>
     <string name="downloading_theme">Загрузка %1$s</string>
-    <string name="downloadwaiting">Отменить загрузку</string>
+    <string name="downloadwaiting">Загрузка</string>
     <string name="downloading_notify">Загрузка %1$s</string>
-    <string name="webview_click_to_reload">Обновить</string>
-    <string name="webview_loadfailed_message">Ошибка загрузки, проверьте настройки сети</string>
+    <string name="webview_click_to_reload">Нажмите для обновления</string>
+    <string name="webview_loadfailed_message">Сбой загрузки, проверьте настройки сети</string>
     <string name="cancel_download">Отменить загрузку</string>
-    <string name="hide">Скрыть</string>
-    <string name="download_not_warning_again">No prompts again</string>
-    <string name="download_remark">Включиние трафика предупреждение из меню</string>
-    <string name="download_warning">This theme will consume %1$s, are you sure to continue?</string>
-    <string name="download_warning_settings">Скачать в настройках предупреждений</string>
-    <string name="upload_notify_tick">Загрузка%1$s</string>
+    <string name="hide">Спрятать</string>
+    <string name="download_not_warning_again">Не напоминать</string>
+    <string name="download_remark">Объем передаваемых данных можно ограничить в Контроле трафика</string>
+    <string name="download_warning">Эта тема занимает %1$s, продолжить загрузку?</string>
+    <string name="download_warning_settings">Настройки контроля трафика</string>
+    <string name="upload_notify_tick">Выгрузка %1$s</string>
     <string name="need_warning">Напомнить</string>
     <string name="need_not_warning">Не напоминать</string>
-    <string name="download_success_notify_title">Загрузка %1$s завершено</string>
-    <string name="downloaded_success">Загрузка завершена</string>
-    <string name="download_failure_notify_title">Загрузка %1$s осталось</string>
-    <string name="downloaded_failure">Ошибка загрузки</string>
+    <string name="download_success_notify_title">Загрузка %1$s успешна</string>
+    <string name="downloaded_success">Загрузка успешна</string>
+    <string name="download_failure_notify_title">Сбой загрузки %1$s</string>
+    <string name="downloaded_failure">Сбой загрузки</string>
     <string name="theme_detail_loading_title">Загрузка</string>
-    <string name="theme_detail_loading_text">Повторная загрузка...</string>
-    <string name="lockwallpaper_cannot_change_default">Системный Lockscreen находится в использовании, не возможно изменить обои Lockscreen</string>
-    <string name="lockwallpaper_cannot_change_selfdefine">Пользовательский Lockscreen в использовании, не возможно изменить обои Lockscreen</string>
-    <string name="tips">Выбор</string>
-    <string name="themeinfo_str_downloadtimes">Время загрузки:</string>
-    <string name="themeinfo_str_source">Загрузить в:</string>
-    <string name="themeinfo_str_whoshare">Shared By:</string>
-    <string name="themeinfo_str_uploadtime">Время загрузки:</string>
+    <string name="theme_detail_loading_text">Загрузка...</string>
+    <string name="lockwallpaper_cannot_change_default">Системный экран блокировки используется, невозможно сменить обои</string>
+    <string name="lockwallpaper_cannot_change_selfdefine">Пользовательский экран блокировки используется, невозможно сменить обои</string>
+    <string name="tips">Подсказка</string>
+    <string name="themeinfo_str_downloadtimes">Загрузок:</string>
+    <string name="themeinfo_str_source">Источник:</string>
+    <string name="themeinfo_str_whoshare">Загрузил:</string>
+    <string name="themeinfo_str_uploadtime">Дата:</string>
     <string name="themeinfo_str_filesize">Размер:</string>
     <string name="theme_scanning">Сканирование</string>
-    <string name="theme_scan_failed_text">Сканирование неудалось</string>
-    <string name="theme_scan_warning">в фоновом режиме занимает много времени, рекомендую вновь попробовать позже или будете ждать?</string>
-    <string name="theme_tab_title_local">Стоят</string>
-    <string name="theme_tab_title_online">Скачать</string>
-    <string name="theme_tab_title_custom">Настройки</string>
-    <string name="toast_exit_when_storagemode">Multi-тема недоступна, режим накопителя</string>
-    <string name="toast_download_failstart">Сеть недоступна, попробуйте еще раз</string>
-    <string name="toast_upload_fail">Загрузка темы неудалась, попробуйте еще раз</string>
-    <string name="toast_upload_start">Загрузка темы</string>
-    <string name="pull_grid_waitting_label">Загрузка тем</string>
+    <string name="theme_scan_failed_text">Сбой сканирования</string>
+    <string name="theme_scan_warning">Сканирование в фоне занимает много времени, рекомендуется попробовать позже, подождать?</string>
+    <string name="theme_tab_title_local">Телефон</string>
+    <string name="theme_tab_title_online">Онлайн</string>
+    <string name="theme_tab_title_custom">Настройка</string>
+    <string name="custom_tab_title_local">Телефон</string>
+    <string name="custom_tab_title_online">Онлайн</string>
+    <string name="toast_exit_when_storagemode">Темы недоступны в режиме накопителя</string>
+    <string name="toast_download_failstart">Сеть недоступна, попробуйте позже</string>
+    <string name="toast_upload_fail">Сбой выгрузки, сеть недоступна, попробуйте позже</string>
+    <string name="toast_upload_start">Выгрузка</string>
+    <string name="pull_grid_waitting_label">Загрузка</string>
     <string name="pull_grid_refreshing_label">Загрузка</string>
-    <string name="textview_sdcard_eject">Нет SD карты</string>
+    <string name="textview_sdcard_eject">SD-карта недоступна</string>
+    <string name="textview_no_result">Не найдено</string>
+    <string name="theme_apply_fonts_msg">Применено успешно, тема содержит шрифты, для их применения перезагрузите телефон.</string>
+    <string name="apply_fonts_msg">Шрифты успешно применены, вы увидите изменения после перезагрузки телефона.</string>
+    <string name="apply_reboot">Перезагрузить &amp; Сейчас</string>
+    <string name="apply_reboot_later">Перезагрузить &amp; Позже</string>
+    <string name="deprecated_theme_name">Тема3</string>
+    <string name="note">Внимание</string>
+    <string name="widget">Виджет</string>
+    <string name="widget_theme_settings_title">Виджет</string>
+    <string name="deprecatethememessage">Используемая тема более не поддерживается, будет применена Тема1.</string>
+    <string name="protocol_activity_title">Пользовательское соглашение</string>
+    <string name="indicator_text">Прочитайте &lt;&lt;Пользовательское соглашение>> перед выгрузкой. Продолжить?</string>
+    <string name="protocol_name">&lt;&lt;Пользовательское соглашение>></string>
+    <string name="protocol_dialog_title">Выгрузить тему</string>
+    <string name="protocol_agree_text">Я согласен с &lt;&lt;Пользовательским соглашением>></string>
+    <string name="pre_upload_no_network">Сеть недоступна, сбой выгрузки темы, попробуйте позже.</string>
+    <string name="pre_upload_mobile_network_dialog_title">Выгрузить тему</string>
+    <string name="pre_upload_mobile_network_dialog_text">Эта тема занимает %s, продолжить?</string>
+    <string name="pre_upload_mobile_network_dialog_checkbox">Не показывать снова</string>
+    <string name="pre_upload_mobile_network_dialog_traffic_setting">Вы можете настроить предупреждения о трафике в Контроле трафика</string>
+    <string name="cancel_upload">Отмена</string>
+    <string name="upload_success_content_text">Тема будет доступна в базе после проверки</string>
+    <string name="theme_not_exist_title">Тема не существует</string>
+    <string name="theme_not_exist_msg">Тема не существует, выберите другую.</string>
+    <string name="dialog_back_btn">Назад</string>
+    <string name="sd_not_available_msg">SD-карта недоступна.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="theme_wlan_only">Загружать только по Wi-Fi</string>
+    <string name="download_need_wlan">Wi-Fi недоступен, загрузка остановлена</string>
+    <string name="download_need_network">Сеть недоступна, загрузка остановлена</string>
+    <string name="download_need_space">Недостаточно свободного места, загрузка остановлена</string>
+    <string name="toast_download_waitwifi">Включена настройка “Загружать только по Wi-Fi”, повторите после подключения к Wi-Fi</string>
+    <string name="download_fail">Сбой загрузки.</string>
+    <string name="theme_scan_fail">Сбой сканирования темы.</string>
+    <string name="more_menu">Еще</string>
+    <string name="thumbnail_option_icon_name">Иконки</string>
+    <string name="thumbnail_option_lockscreen_name">Локскрин</string>
+    <string name="thumbnail_option_font_name">Шрифты</string>
+    <string name="thumbnail_option_lockscreen_wallpaper_name">Обои локскрина</string>
+    <string name="thumbnail_option_wallpaper_name">Обои</string>
+    <string name="thumbnail_option_launcher_name">Лаунчер</string>
+    <string name="thumbnail_option_statubar_name">Панель уведомлений</string>
+    <string name="thumbnail_option_ui_name">Системные ресурсы</string>
+    <string name="thumbnail_option_csp_name">Телефон</string>
+    <string name="online_wallpaper">Обои онлайн</string>
+    <string name="local_wallpaper">Обои</string>
+    <string name="more_wallpaper">Еще</string>
+    <string name="click_refresh">Обновить</string>
+    <string name="loading_failure_hint">Сбой загрузки, проверьте настройки сети!</string>
+    <string name="loading_hint">Загрузка, подождите немного.</string>
+    <string name="loading_wallpaper_hint">Загрузка обоев, подождите немного.</string>
+    <string name="set_wallpaper_hint">Установка обоев, подождите немного.</string>
+    <string name="load_wallpaper_failure">Сбой загрузки, попробуйте позже.</string>
+    <string name="set_wallpaper_success">Установка успешна!</string>
+    <string name="set_wallpaper_going">Установка...</string>
+    <string name="set_wallpaper_failure">Сбой установки!</string>
+    <string name="load_more">Еще</string>
+    <string name="sdcard_not_available">SD-карта недоступна!</string>
+    <string name="delete_sdcard_not_available">SD-карта недоступна!</string>
+    <string name="set_wallpaper">Установить обои</string>
+    <string name="download_wallpaper">Загрузить обои</string>
+    <string name="downloading_wallpaper">Загрузка</string>
+    <string name="apply_wallpaper">Применить обои</string>
+    <string name="delete_wallpaper_title">Удалить обои</string>
+    <string name="delete_walppaper_content">Удалить обои?</string>
+    <string name="confirm_wallpaper_yes">OK</string>
+    <string name="confirm_wallpaper_no">Отмена</string>
+    <string name="delete_default_wallpapwe">Нельзя удалить обои по умолчанию</string>
+    <string name="pull_wallpaper_gridview_loading_label">Загрузка...</string>
+    <string name="preview_loading">Загрузка...</string>
+    <string name="pull_wallpaper_gridview_loading_end">Конец</string>
+    <string name="wallpaper_filesize">Размер:</string>
+    <string name="download_sdcard_status_error">Сбой загрузки, нет доступа к SD-карте.</string>
+    <string name="download_failed_toast">Сбой загрузки</string>
+    <string name="download_network_invalid_toast">Сеть недоступна, попробуйте позже</string>
+    <string name="online">Онлайн</string>
+    <string name="local">Телефон</string>
+    <string name="now_wallpaper">Используется</string>
+    <string name="dowloaded_wallpaper">Загружено</string>
+    <string name="dowloaded_wallpaper_failed">Сбой загрузки %1$s.</string>
+    <string name="comfirm_delete_wallpaper_of_theme">Эти обои входят в состав темы %1$s. Удалить эту тему?</string>
+    <string name="comfirm_delete_wallpaper_of_using_theme">Эти обои входят в состав темы %1$s и эта тема используется сейчас. В случае удаления будет использоваться тема по умолчанию, удалить?</string>
+    <string name="comfirm_delete_wallpaper_of_using">Эти обои используются, в случае удаления будет использоваться тема по умолчанию, удалить?</string>
+    <string name="wallpaper_download_warning">Эти обои занимают %1$s, продолжить?</string>
+    <string name="chooser_wallpaper">Выбрать обои</string>
+
+
+
+    <string name="online_order_by_downloadNumber">Сортировать по количеству закачек</string>
+    <string name="online_order_by_updateTime">Сортировать по дате добавления</string>
 </resources>

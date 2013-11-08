@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cu_3gnet_name">Wal-интернет связь 3G</string>
-    <string name="cu_3gwap_name">Wal-3G мобильный Интернет</string>
-    <string name="app_label">Контакты/SMS/MMS</string>
+    <string name="app_label">Память номеров/SMS/MMS</string>
 </resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_title">Помощь</string>
+    <string name="help_sub_title">Помощь в поиске, переводе, воспроизведении и сохранении</string>
+    <string name="help_tips">Протягивание панели уведомлений вниз для быстрого доступа к приложению</string>
+    <string name="function_title">Опции</string>
+    <string name="function_word">Умный поиск слов</string>
+    <string name="function_word_des">Не понимаете слово? Нажмите для поиска!</string>
+    <string name="function_btn">Нажмите для входа</string>
+    <string name="function_trans">Английский перевод</string>
+    <string name="function_trans_des">Понимаете слово? Нажмите для поиска!</string>
+    <string name="function_cj">Выбор длинного предложения</string>
+    <string name="function_cj_des">Выбор длинных предложений по долгому нажатию и перетаскиванию</string>
+    <string name="intro_title">Подсказки</string>
+    <string name="intro_des1">"Помехи фона
+рабочего стола"</string>
+    <string name="intro_des2">"Цвет текста
+и фона"</string>
+    <string name="intro_des3">"Чистый текст
+и фон"</string>
+    <string name="title">Требуется %s</string>
+    <string name="action_search_title">Поиск</string>
+    <string name="action_copy_title">Копировать</string>
+    <string name="action_send_title">Поиск</string>
+    <string name="action_save_to_notebook_title">Сохранить</string>
+    <string name="copy_success">Скопировано в буфер обмена</string>
+    <string name="save_success">Сохранено в блокнот</string>
+    <string name="error_tips">Ошибка</string>
+    <string name="notebook_title">Сохраненные материалы</string>
+    <string name="editor_tips">Подтвердить ввод текста</string>
+    <string name="feedback_error">Обратная связь недоступна</string>
+    <string name="app_name">Поиск слов</string>
+    <string name="nlp">nlp</string>
+    <string name="ocr">ocr</string>
+    <string name="image">Получение изображений</string>
+    <string name="neterror">Сеть недоступна, попробуйте позже</string>
+    <string name="modify_query">Редактирование ключевых слов</string>
+    <string name="ocrerror">Распознавание ошибки</string>
+    <string name="nlperror">Сеть занята, попробуйте позже</string>
+    <string name="modify">Ручная модификация</string>
+    <string name="confirm">ОК</string>
+    <string name="cancel">Отменить</string>
+    <string name="item1">Привет мир</string>
+    <string name="item2">Привет</string>
+    <string name="item3">Мир</string>
+    <string name="str_no_ocr_result">Нет результатов</string>
+    <string name="str_ocr_introduct_link">view reason</string>
+    <string name="str_no_ocr_result_text">Нет распознанного содержимого</string>
+    <string name="str_ocr_introduct_link_text">Просмотр причины</string>
+    <string name="search">Поиск</string>
+    <string name="copy">Копировать</string>
+    <string name="share">Поделиться</string>
+    <string name="save">Сохранить</string>
+    <string name="introduction_search_title">Умный поиск</string>
+    <string name="introduction_search_info">Поиск слов по одному клику</string>
+    <string name="introduction_translate_title">Перевод между английским и китайским языками</string>
+    <string name="introduction_translate_info">Перевод слов по одному клику</string>
+    <string name="introduction_sentence_title">Выбор длинных предложений</string>
+    <string name="introduction_sentence_info">Легкий выбор длинных предложений по долгому нажатию и перетаскиванию</string>
+</resources>

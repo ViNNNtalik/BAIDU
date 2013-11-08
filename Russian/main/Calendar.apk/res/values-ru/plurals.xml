@@ -20,19 +20,27 @@
         <item quantity="other">Неделя %d</item>
     </plurals>
     <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">1.0</item>
+        <item quantity="other">" и еще %d"</item>
+        <item quantity="one">" и еще 1"</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">Мероприятий: %d</item>
+        <item quantity="one">Мероприятий: 1</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">Ещё мероприятий: %d</item>
+        <item quantity="one">Ещё мероприятий: 1</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">delete %1$d item</item>
-        <item quantity="one">delete %1$d item</item>
+        <item quantity="other">Удаление элементов (%1$d)</item>
+        <item quantity="one">Удаление элемента (%1$d)</item>
     </plurals>
     <plurals name="number_of_items_choosed">
-        <item quantity="other">choose %1$d item</item>
-        <item quantity="one">choose %1$d item</item>
+        <item quantity="other">Добавить элементы (%1$d)</item>
+        <item quantity="one">Добавить элемент (%1$d)</item>
     </plurals>
     <plurals name="confirm_delete">
-        <item quantity="other">Are you sure to delete those %1$d events？</item>
-        <item quantity="one">Are you sure to delete those %1$d event？</item>
+        <item quantity="other">Точно удалить эти события (%1$d)？</item>
+        <item quantity="one">Точно удалить это событие (%1$d)？</item>
     </plurals>
 </resources>

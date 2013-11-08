@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tts_voice_list_entries">
+        <item>Женский голос</item>
+    </string-array>
+    <string-array name="tts_voice_list_entries_value">
+        <item>0</item>
+    </string-array>
+    <string-array name="alarm_clear_options">
+        <item>Очисщено</item>
+        <item>Очистить все</item>
+    </string-array>
+    <string-array name="repeat">
+        <item>Никогда не повторять</item>
+        <item>Рабочие дни</item>
+        <item>Каждый день</item>
+        <item>Каждую неделю</item>
+        <item>пользовательский</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_music">
+        <item>Baidu Музыка</item>
+        <item>Прослушивание музыки</item>
+        <item>Песня</item>
+        <item>Прослушивание композиций</item>
+        <item>музыка</item>
+        <item>музицировать</item>
+        <item>Воспроизведение песни</item>
+        <item>Музыкальный плеер</item>
+        <item>Музыкальный плеер</item>
+        <item>музыка</item>
+        <item>песня</item>
+        <item>петь</item>
+        <item>Воспроизведение композиций</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_net_disk">
+        <item>Baidu сетевой диск</item>
+        <item>Сетевой дисковый</item>
+        <item>Облачное хранилище</item>
+        <item>Облако пространства</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_map">
+        <item>Baidu карты</item>
+        <item>Запрос Автобусных линии</item>
+        <item>Запрос маршрутов</item>
+        <item>Запрос маршрутов</item>
+        <item>Карта поиск</item>
+        <item>Местоположение</item>
+        <item>Поиск места</item>
+        <item>Как добраться</item>
+        <item>Где я</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_browser">
+        <item>Baidu браузер</item>
+        <item>Посетите веб-сайт</item>
+        <item>интернет</item>
+        <item>браузер</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_input">
+        <item>Baidu метод ввода</item>
+        <item>Метод ввода</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_tieba">
+        <item>Baidu Сообщение Бар</item>
+        <item>Сообщение Бар</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_search">
+        <item>Baidu поиск</item>
+        <item>Лучше поиска</item>
+        <item>Baidu</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_wenku">
+        <item>Baidu библиотеки</item>
+        <item>библиотека</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_app_store">
+        <item>Облако магазинов</item>
+        <item>под приложения</item>
+        <item>скачать приложения</item>
+        <item>Скачать программы</item>
+        <item>Загрузка приложения</item>
+        <item>Загрузка приложения</item>
+        <item>следующие программы</item>
+        <item>Следующие программы приложения</item>
+        <item>следующие приложения</item>
+        <item>Применение рынке</item>
+        <item>Магазин приложений</item>
+        <item>Магазин программного обеспечения</item>
+        <item>Магазин приложений</item>
+        <item>Магазин приложений</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_video">
+        <item>видео</item>
+        <item>Мобильное видео</item>
+        <item>Воспроизведение видео</item>
+        <item>видеоплеер</item>
+        <item>Видеоплеер</item>
+        <item>Смотреть видео</item>
+        <item>Посмотреть видео</item>
+        <item>просматривать</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_reader">
+        <item>читать</item>
+        <item>читатель</item>
+        <item>Чтение романов</item>
+        <item>чтение</item>
+        <item>чтение</item>
+        <item>См. статью</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_feedback">
+        <item>обратная связь</item>
+        <item>обратная связь</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_recharge">
+        <item>Мобильный телефон зарядка</item>
+        <item>Мобильный платеж</item>
+        <item>оплата</item>
+        <item>перезарядка</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_email">
+        <item>Электронная почта</item>
+        <item>Электронная почта</item>
+        <item>Электронная почта</item>
+        <item>Электронная почта</item>
+        <item>Написать письмо</item>
+        <item>Написать сообщение</item>
+        <item>email</item>
+        <item>Написать письмо</item>
+        <item>Отправить письмо</item>
+        <item>почтовый ящик</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_gallary">
+        <item>галерея</item>
+        <item>Просмотр изображения</item>
+        <item>картинки</item>
+        <item>Посмотреть фотографии</item>
+        <item>фото</item>
+        <item>Обзор фотографий</item>
+        <item>Смотреть фотографии</item>
+        <item>Смотрите фотографии</item>
+        <item>фото</item>
+        <item>Смотреть фотографии</item>
+        <item>Смотреть фотографии</item>
+        <item>Фото</item>
+        <item>Picture Manager</item>
+        <item>Просмотр Изображений</item>
+        <item>Picture Viewer</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_calendar">
+        <item>Календарь</item>
+        <item>Дата</item>
+        <item>расписание</item>
+        <item>расписание</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_note">
+        <item>блокнот</item>
+        <item>меморандум</item>
+        <item>календарь</item>
+        <item>блокнот</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_clock">
+        <item>часы</item>
+        <item>Установите будильник</item>
+        <item>Настройка будильника</item>
+        <item>Для установки будильника</item>
+        <item>Мировое время</item>
+        <item>синхронизация</item>
+        <item>таймер</item>
+        <item>секундомер</item>
+        <item>Проверьте время</item>
+        <item>время</item>
+        <item>Точки</item>
+        <item>Сколько сейчас времени</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_recorder">
+        <item>Recorder</item>
+        <item>запись</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_weather">
+        <item>погода</item>
+        <item>прогноз погоды</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_contact">
+        <item>Адресная книга</item>
+        <item>Посмотреть контакты</item>
+        <item>Поиск контакта</item>
+        <item>Просмотр адресата</item>
+        <item>Поиск контакта</item>
+        <item>Адресная книга</item>
+        <item>Контакты</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_phone">
+        <item>телефон</item>
+        <item>телефон</item>
+        <item>звонить</item>
+        <item>Вызвать</item>
+        <item>набирать номер</item>
+        <item>Клавиатура набора номера</item>
+        <item>телефон</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_sms">
+        <item>информация</item>
+        <item>Texting</item>
+        <item>Редактировать SMS</item>
+        <item>Отправить сообщение</item>
+        <item>Изменить информацию</item>
+        <item>сообщение</item>
+        <item>SMS</item>
+        <item>SMS</item>
+        <item>сообщение</item>
+        <item>новости</item>
+        <item>сообщение</item>
+        <item>Редактировать сообщение</item>
+        <item>Редактировать сообщение</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_camera">
+        <item>камера</item>
+        <item>камера</item>
+        <item>фото</item>
+        <item>фотография</item>
+        <item>таймер автоспуска</item>
+        <item>камера</item>
+        <item>камера</item>
+        <item>видеомагнитофон</item>
+        <item>видеомагнитофон</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_file_manager">
+        <item>управление документами</item>
+        <item>Проводник</item>
+        <item>Окно обозревателя</item>
+        <item>Просмотр диспетчер файлов</item>
+        <item>диспетчер файлов</item>
+        <item>файл запроса</item>
+        <item>файл запроса</item>
+        <item>Проверка файла</item>
+        <item>File Finder</item>
+        <item>управление ресурсами</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_qq">
+        <item>Мобил QQ</item>
+        <item>По QQ</item>
+        <item>Гордон QQ</item>
+        <item>Вход QQ</item>
+        <item>Посадка QQ</item>
+        <item>qq</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_weibo">
+        <item>Микроблоги</item>
+        <item>На микроуровне-Bo</item>
+        <item>Ткацкие микроблоги</item>
+        <item>тканые шарф</item>
+        <item>Гордон микроблоги</item>
+        <item>Войти микроблоги</item>
+        <item>Вход микроблоги</item>
+        <item>Синай Микроблоги</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_dict">
+        <item>Kingsoft</item>
+        <item>.</item>
+        <item>Джиньшан</item>
+        <item>перевод</item>
+        <item>словарь</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_renren">
+        <item>Все сети</item>
+        <item>На каждом</item>
+        <item>Войти каждому</item>
+        <item>Войти каждому</item>
+        <item>Воспроизвести все</item>
+    </string-array>
+    <string-array name="app_synonym_baidu_kaixin">
+        <item>Kaixin</item>
+        <item>Вход Kaixin</item>
+        <item>Войти Kaixin</item>
+        <item>Войти Kaixin</item>
+        <item>Войти Kaixin</item>
+    </string-array>
+    <string-array name="welcome_slogans">
+        <item>Про, что я могу вам помочь?</item>
+        <item>Baidu голос, вы знаете!</item>
+        <item>Что будет работать для вас?</item>
+        <item>Ухода за полостью рта！</item>
+        <item>Инсайдер Baidu речевой помощник~</item>
+        <item>То, что вы говорите~</item>
+        <item>Не понимаем проблемы? Спросите меня!</item>
+        <item>Baidu голосом, с тем, кто знает, кто.~</item>
+        <item>Каждый день вы получаете лучшее!</item>
+        <item>В чем заключается проблема, и я буду говорить о фотографиях?</item>
+        <item>Разумная жизнь, движимый рот началось!</item>
+        <item>Xpress спросить, ответить!</item>
+        <item>Вместо того, чтобы руки, так, что повелел вам?</item>
+        <item>По вызову, чтобы служить вам!</item>
+        <item>Baidu речевой помощник, когда дело доходит, так что</item>
+        <item>Вы сказали, я делаю</item>
+    </string-array>
+    <string-array name="weekend_slogans">
+        <item>Да здравствуют выходные!</item>
+        <item>Выходные!</item>
+        <item>Друзья, и я чувствую, польщен</item>
+    </string-array>
+    <array name="slide_image">
+        <item>@drawable/slide_0</item>
+        <item>@drawable/slide_1</item>
+        <item>@drawable/slide_2</item>
+    </array>
+    <string-array name="business_modules">
+        <item>com.baidu.voiceassistant.business.phone.PhoneManager</item>
+        <item>com.baidu.voiceassistant.business.setting.SettingManager</item>
+        <item>com.baidu.voiceassistant.business.music.Music</item>
+        <item>com.baidu.voiceassistant.business.shortmessage.ShortMessageManager</item>
+        <item>com.baidu.voiceassistant.business.alarm.AlarmController</item>
+        <item>com.baidu.voiceassistant.business.searchresult.SearchResultManager</item>
+        <item>com.baidu.voiceassistant.business.website.WebsiteManager</item>
+        <item>com.baidu.voiceassistant.business.app.AppManager</item>
+        <item>com.baidu.voiceassistant.business.qa.QaManager</item>
+        <item>com.baidu.voiceassistant.business.mode.ThirdPartyController</item>
+        <item>com.baidu.voiceassistant.business.sns.SnsManager</item>
+        <item>com.baidu.voiceassistant.business.phone.ContactManager</item>
+    </string-array>
+    <array name="new_features">
+        <item>@array/feature_super_star</item>
+        <item>@array/feature_weibo</item>
+        <item>@array/feature_festival_sms</item>
+        <item>@array/feature_bonus</item>
+        <item>@array/feature_chinese_new_year</item>
+    </array>
+    <array name="feature_super_star">
+        <item>Звезда Новый год</item>
+        <item>Baidu речевой помощник, чтобы принести команде звезды Новым годом вас! Лин Чи-Линг, Хуан Бо, Ли Бинбин, Хуан Сяомин, вентилятор Bingbing ...... ваш любимый?</item>
+        <item>@array/sample_super_star</item>
+    </array>
+    <string-array name="sample_super_star">
+        <item>Я хочу услышать, Лин Чи-Линг Нового года</item>
+        <item>Ли Бингбинг к моему Новый год</item>
+        <item>Слушайте Хуан Бо мое благословение</item>
+        <item>Пожалуйста, вентилятор Bingbing Новый год</item>
+        <item>Я хочу Хуан Сяомин Новый год</item>
+    </string-array>
+    <array name="feature_weibo">
+        <item>Микро-Бо</item>
+        <item>Голос сделал микро-Bo, крупного рогатого скота с деревом!</item>
+        <item>@array/sample_weibo</item>
+    </array>
+    <string-array name="sample_weibo">
+        <item>Отправить сообщение микро-Бо сказал с Новым Годом</item>
+        <item>Микро-Бо сказал Baidu речевой помощник, самый лучший!</item>
+    </string-array>
+    <array name="feature_festival_sms">
+        <item>SMS Отправить сообщение благословение</item>
+        <item>День Рождения, Новый год праздник весны, хорошее приветствие утром ...... все виды массового благословения вы автоматически получаете достаточно, чтобы преодолеть вас?</item>
+        <item>@array/sample_festival_sms</item>
+    </array>
+    <string-array name="sample_festival_sms">
+        <item>Новогодние SMS отправляется на фараона</item>
+        <item>Майк День благословения</item>
+        <item>Чжан Отправить сообщение Хорошо SMS Утро</item>
+    </string-array>
+    <array name="feature_bonus">
+        <item>Возьмите красный конверт</item>
+        <item>Я хочу, красный конверт, существует более высокая награда шанс! 5000000 вы получаете!</item>
+        <item>@array/sample_bonus</item>
+    </array>
+    <string-array name="sample_bonus">
+        <item>Я хочу красный конверт</item>
+        <item>Богу, чтобы красный конверт</item>
+        <item>Где красный конверт</item>
+        <item>Поиск красный конверт</item>
+        <item>Красные конверты использованы</item>
+    </string-array>
+    <array name="feature_chinese_new_year">
+        <item>Китайский Новый Год Шпрее</item>
+        <item>Путешествия, ужин, подарки, деньги Новый год, тосты, я полностью понимаю куплет ...... основные жизненные потребности!</item>
+        <item>@array/sample_chinese_new_year</item>
+    </array>
+    <string-array name="sample_chinese_new_year">
+        <item>Новый год, как пить Шань Вэй?</item>
+        <item>T42 оставшихся голосов</item>
+        <item>Автобазы дома обратить внимание на то, что?</item>
+        <item>Соответствующие количества повезло деньги</item>
+        <item>Как тост</item>
+        <item>Как выбрать фейерверк?</item>
+        <item>О Весенний фестиваль куплеты</item>
+    </string-array>
+    <array name="feature_simsimi">
+        <item>Наиболее чат Laoke маленький желтый цыпленок</item>
+        <item>Проблемы быстрого сердце биться маленький желтый цыпленок. Голос попробовать , чтобы открыть маленький желтый цыпленок \"</item>
+        <item>@array/sample_simsimi</item>
+    </array>
+    <string-array name="sample_simsimi">
+        <item>Откройте маленький желтый цыпленок</item>
+    </string-array>
+    <string-array name="sample_slogan">
+        <item>Поиск маршрутов, с курьером, А. ...... озадаченным что я могу вам помочь?</item>
+        <item>Спросил погоду, отправлять текстовые сообщения, задать напомнить ...... Нажмите на микрофон, следующая команда удобнее</item>
+        <item>Найти еду, наличия на складе, посмотрите на рецепт, ...... вы сказали, я делаю</item>
+    </string-array>
+    <string-array name="app_offline_help_type">
+        <item>У моей жены вызов</item>
+        <item>Отправка текстовых сообщений Джо Смит</item>
+        <item>Открыть калькулятор</item>
+        <item>Измените мелодию</item>
+    </string-array>
+    <string-array name="app_offline_help_tips">
+        <item>Телефонная линия скорости</item>
+        <item>SMS Xpress сказал</item>
+        <item>Сердце обмена</item>
+        <item>Создан для облегчения</item>
+    </string-array>
+    <array name="app_offline_help_icons">
+        <item>@drawable/icon_call</item>
+        <item>@drawable/icon_mail</item>
+        <item>@drawable/icon_app</item>
+        <item>@drawable/icon_tile</item>
+    </array>
+    <string-array name="app_help_type">
+        <item>У моей жены вызов</item>
+        <item>Отправка текстовых сообщений своей жене как и вы</item>
+        <item>Как о погоде Royal Park</item>
+        <item>Напомнить, чтобы посмотреть на мою певицу</item>
+        <item>Слушай мою песню певицы</item>
+        <item>Baidu акций</item>
+        <item>Kung Pao Chicken</item>
+        <item>Откройте Angry Birds</item>
+        <item>Включите Bluetooth</item>
+        <item>Рядом с клецками магазин</item>
+        <item>Я собираюсь Zhongnanhai</item>
+        <item>Фунт равна сколько килограммов</item>
+        <item>Китайская капуста, сколько денег</item>
+        <item>Aoi учитель делает</item>
+        <item>Откройте сайт Baidu</item>
+    </string-array>
+    <string-array name="app_help_type_tips">
+        <item>вызов</item>
+        <item>Отправить сообщение</item>
+        <item>Погода</item>
+        <item>настроить напоминания</item>
+        <item>музыка</item>
+        <item>Проверить наличие на складе</item>
+        <item>Посмотрите на рецепт</item>
+        <item>Запустите приложение</item>
+        <item>Настройте параметры</item>
+        <item>внешнего запроса</item>
+        <item>Трафик путешествия</item>
+        <item>Трафик путешествия</item>
+        <item>Повседневная жизнь</item>
+        <item>Q озадаченным</item>
+        <item>Откройте сайт</item>
+    </string-array>
+    <array name="app_help_call">
+        <item>вызов</item>
+        <item>У моей жены вызов</item>
+        <item>@array/app_help_sample_call</item>
+        <item>@drawable/icon_call</item>
+    </array>
+    <string-array name="app_help_sample_call">
+        <item>У моей жены вызов</item>
+        <item>Позвоните 10086</item>
+        <item>Чтобы играть SF выражает телефону</item>
+        <item>Обслуживание клиентов телефонный звонок банка</item>
+    </string-array>
+    <array name="app_help_sms">
+        <item>Отправить сообщение</item>
+        <item>Отправка текстовых сообщений своей жене как и вы</item>
+        <item>@array/app_help_sample_sms</item>
+        <item>@drawable/icon_mail</item>
+    </array>
+    <string-array name="app_help_sample_sms">
+        <item>Отправка текстовых сообщений своей жене как и вы</item>
+        <item>Я немедленно пошел в SMS с Джо Смитом</item>
+        <item>Отправка текстовых сообщений John Doe</item>
+        <item>10086 Отправить сообщение сказал запрос баланса</item>
+    </string-array>
+    <array name="app_help_whether">
+        <item>Погода</item>
+        <item>Как о погоде Royal Park</item>
+        <item>@array/app_help_sample_whether</item>
+        <item>@drawable/icon_weather</item>
+    </array>
+    <string-array name="app_help_sample_whether">
+        <item>Как о погоде Royal Park</item>
+        <item>Гуанчжоу дожди завтра</item>
+        <item>Какая сегодня погода</item>
+        <item>Это хороший день для автомойки</item>
+    </string-array>
+    <array name="app_help_alarm">
+        <item>настроить напоминания</item>
+        <item>Напомнить, чтобы посмотреть на мою певицу</item>
+        <item>@array/app_help_sample_alarm</item>
+        <item>@drawable/icon_clock</item>
+    </array>
+    <string-array name="app_help_sample_alarm">
+        <item>Напомнить, чтобы посмотреть на мою певицу</item>
+        <item>15:00, чтобы напомнить мне, чтобы забрать билеты</item>
+        <item>Напомнил мне о встрече через 10 минут</item>
+        <item>Каждую субботу 20:00, чтобы напомнить мне, чтобы позвонить домой</item>
+        <item>Посмотреть мое напоминание</item>
+    </string-array>
+    <array name="app_help_music">
+        <item>听音乐</item>
+        <item>Слушай мою песню певицы</item>
+        <item>@array/app_help_sample_music</item>
+        <item>@drawable/icon_music</item>
+    </array>
+    <string-array name="app_help_sample_music">
+        <item>Слушай мою песню певицы</item>
+        <item>Я хочу услышать Терри Лин фейерверки просто холодно</item>
+        <item>Новые Джей Чоу альбом</item>
+        <item>Слушайте смешная песня</item>
+        <item>Прослушать песню об одиноком</item>
+    </string-array>
+    <array name="app_help_stock">
+        <item>Проверить наличие на складе</item>
+        <item>Baidu акций</item>
+        <item>@array/app_help_sample_stock</item>
+        <item>@drawable/icon_stock</item>
+    </array>
+    <string-array name="app_help_sample_stock">
+        <item>Baidu акций</item>
+        <item>CITIC Securities Цена</item>
+        <item>Китайские выбор рынка</item>
+        <item>Китайская нефтехимическая акций</item>
+    </string-array>
+    <array name="app_help_menu">
+        <item>Посмотрите на рецепт</item>
+        <item>Kung Pao Chicken</item>
+        <item>@array/app_help_sample_menu</item>
+        <item>@drawable/icon_food</item>
+    </array>
+    <string-array name="app_help_sample_menu">
+        <item>Kung Pao Chicken</item>
+        <item>Как сделать картофель</item>
+        <item>Сладкая и кислая свинина, как это сделать</item>
+        <item>Как отварной рыбы</item>
+    </string-array>
+    <array name="app_help_app">
+        <item>Запустите приложение</item>
+        <item>Откройте Angry Birds</item>
+        <item>@array/app_help_sample_app</item>
+        <item>@drawable/icon_app</item>
+    </array>
+    <string-array name="app_help_sample_app">
+        <item>Откройте Angry Birds</item>
+        <item>Скачать приложение Baidu</item>
+        <item>Следующая</item>
+        <item>Снимите Сина микроблоги</item>
+    </string-array>
+    <array name="app_help_setting">
+        <item>Настройте параметры</item>
+        <item>Включите Bluetooth</item>
+        <item>@array/app_help_sample_setting</item>
+        <item>@drawable/icon_tile</item>
+    </array>
+    <string-array name="app_help_sample_setting">
+        <item>Включите Bluetooth</item>
+        <item>Измените мелодию</item>
+        <item>Настройка яркости экрана</item>
+        <item>Включите беспроводную сеть</item>
+        <item>Включить Mute</item>
+        <item>Изменить экране блокировки</item>
+    </string-array>
+    <array name="app_help_lbs">
+        <item>внешнего запроса</item>
+        <item>Рядом с клецками магазин</item>
+        <item>@array/app_help_sample_lbs</item>
+        <item>@drawable/icon_map</item>
+    </array>
+    <string-array name="app_help_sample_lbs">
+        <item>Рядом с клецками магазин</item>
+        <item>Peony Garden рыбалка</item>
+        <item>На первом возле кинотеатра</item>
+    </string-array>
+    <array name="app_help_website">
+        <item>Откройте сайт</item>
+        <item>Откройте сайт Baidu</item>
+        <item>@array/app_help_sample_website</item>
+        <item>@drawable/icon_www</item>
+    </array>
+    <string-array name="app_help_sample_website">
+        <item>Откройте сайт Baidu</item>
+        <item>На взгляд Сина</item>
+        <item>Обзор Phoenix</item>
+        <item>Доступ кресс Главная</item>
+    </string-array>
+    <array name="app_help_math">
+        <item>COMPUTE</item>
+        <item>Фунт равна сколько килограммов</item>
+        <item>@array/app_help_sample_math</item>
+        <item>@drawable/icon_compute</item>
+    </array>
+    <string-array name="app_help_sample_math">
+        <item>Фунт равна сколько килограммов</item>
+        <item>2013 умноженное на 2013 равна количеству</item>
+        <item>Доллара США против обменного курса китайского юаня</item>
+        <item>5 градусов по Цельсию равна сколько градусов по Фаренгейту</item>
+        <item>Один километр равна количество метров</item>
+    </string-array>
+    <array name="app_help_travel">
+        <item>Трафик путешествия</item>
+        <item>Я собираюсь Zhongnanhai</item>
+        <item>@array/app_help_sample_travel</item>
+        <item>@drawable/icon_travel</item>
+    </array>
+    <string-array name="app_help_sample_travel">
+        <item>Я собираюсь Zhongnanhai</item>
+        <item>Экспресс в Хогвардс</item>
+        <item>33 оставшихся голосов</item>
+        <item>Скоростной Пекин-Тибет дороге</item>
+        <item>Путь к Тяньаньмэнь</item>
+        <item>Самолеты 3U8894</item>
+        <item>поезд T42</item>
+    </string-array>
+    <array name="app_help_search">
+        <item>Повседневная жизнь</item>
+        <item>Китайская капуста, сколько денег</item>
+        <item>@array/app_help_sample_search</item>
+        <item>@drawable/icon_live</item>
+    </array>
+    <string-array name="app_help_sample_search">
+        <item>Китайская капуста, сколько денег</item>
+        <item>51 договоренностей праздник</item>
+        <item>цены срочного вклада</item>
+        <item>Последнее цветной шар</item>
+        <item>1358180000 которой</item>
+        <item>Экспресс запрос</item>
+    </string-array>
+    <array name="app_help_talk">
+        <item>часто задаваемые вопросы</item>
+        <item>Aoi учитель делает</item>
+        <item>@array/app_help_sample_talk</item>
+        <item>@drawable/icon_zhidao</item>
+    </array>
+    <string-array name="app_help_sample_talk">
+        <item>Aoi учитель делает</item>
+        <item>Романтика, как это сделать?</item>
+        <item>Дым в пустыню прямо под</item>
+        <item>Как пыльцевой аллергии</item>
+    </string-array>
+    <array name="app_help_type_list">
+        <item>@array/app_help_sample_call</item>
+        <item>@array/app_help_sample_sms</item>
+        <item>@array/app_help_sample_whether</item>
+        <item>@array/app_help_sample_alarm</item>
+        <item>@array/app_help_sample_music</item>
+        <item>@array/app_help_sample_stock</item>
+        <item>@array/app_help_sample_menu</item>
+        <item>@array/app_help_sample_app</item>
+        <item>@array/app_help_sample_setting</item>
+        <item>@array/app_help_sample_lbs</item>
+        <item>@array/app_help_sample_travel</item>
+        <item>@array/app_help_sample_math</item>
+        <item>@array/app_help_sample_search</item>
+        <item>@array/app_help_sample_talk</item>
+        <item>@array/app_help_sample_website</item>
+    </array>
+    <array name="app_help_list">
+        <item>@array/app_help_call</item>
+        <item>@array/app_help_sms</item>
+        <item>@array/app_help_whether</item>
+        <item>@array/app_help_alarm</item>
+        <item>@array/app_help_music</item>
+        <item>@array/app_help_stock</item>
+        <item>@array/app_help_menu</item>
+        <item>@array/app_help_app</item>
+        <item>@array/app_help_setting</item>
+        <item>@array/app_help_lbs</item>
+        <item>@array/app_help_travel</item>
+        <item>@array/app_help_math</item>
+        <item>@array/app_help_search</item>
+        <item>@array/app_help_talk</item>
+        <item>@array/app_help_website</item>
+    </array>
+    <array name="app_help_type_icons">
+        <item>@drawable/icon_call</item>
+        <item>@drawable/icon_mail</item>
+        <item>@drawable/icon_weather</item>
+        <item>@drawable/icon_clock</item>
+        <item>@drawable/icon_music</item>
+        <item>@drawable/icon_stock</item>
+        <item>@drawable/icon_food</item>
+        <item>@drawable/icon_app</item>
+        <item>@drawable/icon_tile</item>
+        <item>@drawable/icon_map</item>
+        <item>@drawable/icon_travel</item>
+        <item>@drawable/icon_compute</item>
+        <item>@drawable/icon_live</item>
+        <item>@drawable/icon_zhidao</item>
+        <item>@drawable/icon_www</item>
+    </array>
+    <string-array name="app_help_notes">
+        <item>В относительно спокойном месте, среди шумных не слышал, что вы сказали,</item>
+        <item>Пожалуйста, говорите китайский язык является глубоким, диалект постепенно улучшается</item>
+        <item>Пожалуйста, говорите с нормальной скоростью.</item>
+        <item>Пожалуйста, проверьте громкость. Уровень громкости влияет на распознавание</item>
+    </string-array>
+    <string-array name="widget_builtin_hotwords">
+        <item>Какая сегодня погода</item>
+        <item>Расскажи мне анекдот</item>
+        <item>Призыв маленький желтый цыпленок</item>
+        <item>Рядом, что является хорошим</item>
+        <item>明天8点叫我起床</item>
+        <item>Цвет мяча результаты лотереи</item>
+    </string-array>
+</resources>
