@@ -1106,7 +1106,7 @@
     <string name="recording">Запись</string>
     <string name="stop_recordings">Стоп</string>
     <string name="more_button">Ещё</string>
-    <string name="select_sim_card">Выберите SIM-карты</string>
+    <string name="select_sim_card">Выбор SIM-карты</string>
     <string name="odm">ODM</string>
     <string name="releasetime">Release time</string>
     <string name="answer">Answer</string>

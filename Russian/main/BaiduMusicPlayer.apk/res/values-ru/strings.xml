@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Hello World, Ting!</string>
-    <string name="app_name">Music</string>
+    <string name="app_name">Музыка</string>
     <string name="tab_ting_plaza">Ting площадь</string>
     <string name="tab_my_ting">Мое Ting</string>
     <string name="tab_radio">Радиостанция</string>

@@ -4,7 +4,7 @@
     <string name="cancel">Отмена</string>
     <string name="alarm_content">Звонит Ваша мелодия......</string>
     <string name="dialog_button_close">Закрыть</string>
-    <string name="antitheft">Найти мое устройство</string>
+    <string name="antitheft">Антивор</string>
     <string name="current_account">Текущий счет:</string>
     <string name="dialog_network_title">Сбой в сети</string>
     <string name="dialog_network_content">Сеть недоступна, пожалуйста, проверьте параметры сети</string>

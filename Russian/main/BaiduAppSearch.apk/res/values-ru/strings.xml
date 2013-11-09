@@ -63,9 +63,9 @@
     <string name="space_tip_all">Во всех кеш: %1$s</string>
     <string name="space_trashes_all">Остаточные файлы: %1$s</string>
     <string name="trash_uninstall_sdcard_files">Остаточные ненужные файлы после завершения удаления, рекомендуется для очистки</string>
-    <string name="app_name">Baidu мобильных телефонов помощник</string>
+    <string name="app_name">Центр Baidu</string>
     <string name="app_old_name">Baidu приложения</string>
-    <string name="app_095_old_name">Baidu мобильных приложений</string>
+    <string name="app_095_old_name">Центр Baidu</string>
     <string name="dialog_confirm">подтверждать</string>
     <string name="dialog_cancel">отменить</string>
     <string name="dialog_title">подсказывать</string>

@@ -2386,7 +2386,7 @@
     <string name="notify_tabb">Журнал</string>
     <string name="notify_empty">Нет блокированных уведомлений</string>
     <string name="apps_empty">Нет приложений</string>
-    <string name="gemini_sim_management_title">Управление SIM</string>
+    <string name="gemini_sim_management_title">Управление SIM-картами</string>
     <string name="rom_version_official">"Официальная версия "</string>
     <string name="rom_version_private_beta">Beta version ROM</string>
     <string name="rom_version_public_beta">Beta version ROM</string>
@@ -2401,7 +2401,7 @@
     <string name="swap_navi_custom_tips_label">Нет пользовательских настроек</string>
     <string name="swap_navi_custom_selete_apply">Применить</string>
     <string name="swap_navi_custom_selete_cancel">Отмена</string>
-    <string name="anti_theft_title">Найти мой телефон</string>
+    <string name="anti_theft_title">Антивор</string>
     <string name="anti_theft_summary">Добавьте аккаунт, чтобы найти утерянный телефон</string>
     <string name="default_write_check_title">Память по умолчанию недоступна</string>
     <string name="default_write_check_confirm">Установить память по умолчанию</string>

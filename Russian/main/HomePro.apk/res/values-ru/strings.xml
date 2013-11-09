@@ -336,7 +336,7 @@
     <string name="tips_after_opti_end">MB освобождено</string>
     <string name="tips_optimum_status">Очистка не требуется</string>
     <string name="tips_system_clean_status">Только что очищено</string>
-    <string name="baidu_widget_onekey_small">Оптимизация в одно касание (1x1)</string>
+    <string name="baidu_widget_onekey_small">Оптимизация (1x1)</string>
     <string name="default_percent">70</string>
     <string name="percent">%</string>
     <string name="baidu_widget_system">Системные виджеты</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Приветствуем вас в мире Baidu!</string>
-    <string name="app_name">Отзывы пользователей</string>
+    <string name="app_name">Отзывы</string>
     <string name="feedback_tip">Скажите Baidu:</string>
     <string name="feedback_hint">Пожалуйста, введите ваш совет</string>
     <string name="feedback_count">300</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Добро пожаловать в настройки SIM!</string>
-    <string name="app_name">Настройки SIM</string>
+    <string name="app_name">Управление SIM-картами</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="gemini_gsm_umts_network_preferences_title">Настройки сети GSM/UMTS</string>
     <string name="gemini_gsm_umts_network_preferneces_summary">Пока не реализовано!</string>

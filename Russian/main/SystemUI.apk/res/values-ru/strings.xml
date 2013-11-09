@@ -45,8 +45,7 @@
     <string name="always_use_device">Использовать по умолчанию для этого USB-устройства</string>
     <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
     <string name="usb_debugging_title">Allow USB debugging?</string>
-    <string name="usb_debugging_message">"The computer's RSA key fingerprint is:
-
+    <string name="usb_debugging_message">"The computer's RSA key fingerprint is:</string>
     <string name="usb_debugging_always">Always allow from this computer</string>
     <string name="compat_mode_on">Подогнать по размерам экрана</string>
     <string name="compat_mode_off">Растянуть на весь экран</string>
@@ -209,7 +208,6 @@
     <string name="holiday_url">http://bs.baidu.com/launcher/holiday.gif</string>
     <string name="quick_view_indicator_text">Вернуться к вызову</string>
     <string name="quick_view_holding_indicator_text">Удержание</string>
-
     <string name="usb_storage_notification_title">USB-подключение установлено</string>
     <string name="usb_storage_notification_message">Нажмите, чтобы скопировать файлы.</string>
     <string name="usb_storage_stop_notification_title">Отключить USB-накопитель</string>
@@ -217,40 +215,8 @@
     <string name="usb_storage_notification_title_open">Включение</string>
     <string name="usb_storage_stop_notification_title_close">Отключение</string>
     <string name="usb_storage_notification_message_wait">Ждите...</string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="switch_tip_return">Панель уведомлений</string>
     <string name="switch_tip_edit">Переключатели</string>
-
     <string name="switch_tip_sort">Новая функция сортировки</string>
     <string name="switch_tip_save">Сохр.</string>
     <string name="switch_tip_drag">Коснитесь или перетаскивайте для изменения позиции</string>
