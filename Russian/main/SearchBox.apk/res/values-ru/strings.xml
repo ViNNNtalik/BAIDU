@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Поиск Baidu</string>
+    <string name="widget_search_name">Поиск Baidu (4×1)</string>
+    <string name="widget_search_trans_name">Поиск Baidu классический (4×1)</string>
+    <string name="widget_quick_search_name">Поиск Baidu цветной (4×2)</string>
+    <string name="widget_ding_name">Звонок Baidu (4×2)</string>
+    <string name="widget_clock_name">Часы Baidu(4×2)</string>
+    <string name="widget_time_format">d MMMM EEE</string>
+</resources>

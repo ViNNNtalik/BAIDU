@@ -235,11 +235,11 @@
     <string name="save_flow">"Сэкономлено "</string>
     <string name="progress_text" formatted="false">Сжато с %s Мб до %s Мб</string>
     <string name="error_dialog_title">Ошибка сжатия</string>
-    <string name="error_dialog_message">Ошибка соединения с сервером, выключите сжатие. Попробуйте позже.</string>
+    <string name="error_dialog_message">Ошибка соединения с сервером, выключите сжатие. Попробуйте позже</string>
     <string name="error_dialog_close">Выключить</string>
     <string name="app_date_format">dd-MM-yyyy</string>
     <string name="date_format_simple">MM-yyyy</string>
-    <string name="notification_text_1">1.Сжатие потока ухудшит качество изображений, если хотите скачать изображения то отключите сжатие.</string>
+    <string name="notification_text_1">1.Сжатие потока ухудшит качество изображений, если хотите скачать изображения то отключите сжатие</string>
     <string name="notification_text_2">2.Сжатие потока не совместимо с WAP сетью.</string>
     <string name="notification_text_3">3.Вы можете выбрать сжатие потока отдельно для приложений.</string>
     <string name="ignore_notification">Больше не показывать это окно</string>
@@ -249,9 +249,9 @@
     <string name="notification_content_title_open">Сжатие включено</string>
     <string name="notification_content_text_open">При ошибке отключите</string>
     <string name="notification_content_title_pause">Сжатие приостановлено</string>
-    <string name="notification_content_text_pause">WLAN, сжатие приостановлено</string>
+    <string name="notification_content_text_pause">Wi-Fi, сжатие приостановлено</string>
     <string name="notification_content_text_nonetwork">Сеть отключена, сжатие приостановлено</string>
-    <string name="apn_dialog_message">Сжатие не возможно, проверьте настройки APN.</string>
+    <string name="apn_dialog_message">Сжатие не возможно, проверьте настройки APN</string>
     <string name="compress_applist_title">Сохранить список приложений</string>
     <string name="compress_applist_subtitle">Сохранить настройки для приложения</string>
     <string name="compress_applist_traffic" formatted="false">Сжато %s Мб из %s Мб</string>

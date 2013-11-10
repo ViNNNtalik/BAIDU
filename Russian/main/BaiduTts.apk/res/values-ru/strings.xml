@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Baidu TTS</string>
+    <string name="eng_usa_sample">This is an example of speech synthesis in English with BaiduTts.</string>
+    <string name="eng_gbr_sample">This is an example of speech synthesis in English with BaiduTts.</string>
+    <string name="fra_fra_sample">Voici un échantillon de synthèse vocale en français avec BaiduTts.</string>
+    <string name="deu_deu_sample">Dies ist ein Beispiel für Sprachsynthese in Deutsch mit BaiduTts.</string>
+    <string name="ita_ita_sample">Questo è un esempio di sintesi vocale in italiano con BaiduTts.</string>
+    <string name="cn_cn_sample">Добро пожаловать в синтезатор речи Baidu TTS</string>
+    <string name="installed">Установлено</string>
+    <string name="not_installed">Не установлено</string>
+    <string name="set_voice_gender">Пол голоса</string>
+    <string name="set_voice_pitch">Тон голоса</string>
+    <string name="key_gender_style">gender_Style</string>
+    <string name="label_gender_style">Пол</string>
+    <string name="set_gender">Задать пол голоса</string>
+    <string name="male">Мужской</string>
+    <string name="famale">Женский</string>
+    <string name="maleValue">1</string>
+    <string name="famaleValue">0</string>
+    <string name="key_tone_style">Тон</string>
+    <string name="label_tone_style">Тон</string>
+    <string name="set_tone">Задать тон голоса</string>
+    <string name="low">Низкий</string>
+    <string name="normal">Нормальный</string>
+    <string name="high">Высокий</string>
+    <string name="lowValue">-30000</string>
+    <string name="normalValue">0</string>
+    <string name="highValue">30000</string>
+    <string name="btn_continue_download">ОК</string>
+    <string name="btn_cancel">Отмена</string>
+</resources>

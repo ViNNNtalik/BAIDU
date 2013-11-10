@@ -1481,10 +1481,10 @@
     <string name="power_settings_notification_title">Умный режим энергосбережения</string>
     <string name="power_settings_notification_message">Нажмите кнопку, чтобы проверить информацию или изменить настройки</string>
     <string name="charge_complete">Аккумулятор заряжен.</string>
-    <string name="low_battery_dialog_title">Низкий заряд аккумулятора</string>
-    <string name="low_battery_dialog_desc">"При заряде %1$s, будет включен режим ожидания, только для соединения по вызову?
-Другие функции будут доступны, когда заряд будет превышать пороговое значение."</string>
-    <string name="low_battery_dialog_tips">Измените ваш вариант через Настройки-> Аккумулятор->Умное энергосбережение Сохранение настроек на главном экране</string>
+    <string name="low_battery_dialog_title">Заряд батареи меньше %1$s</string>
+    <string name="low_battery_dialog_desc">"Будет включен режим экономии батареи только голосовыми вызовами.
+Другие функции будут доступны, когда заряд будет превышать пороговое значение"</string>
+    <string name="low_battery_dialog_tips">Измените ваш вариант через Настройки-> Батарея->Умное энергосбережение</string>
     <string name="remember_my_choice">Запомнить мой выбор</string>
     <string name="network_invalid">Сеть недоступна, пожалуйста, проверьте конфигурацию</string>
     <string name="switch_null_text" />

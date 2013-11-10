@@ -645,10 +645,10 @@
     <string name="first_lunch_set_immediately">Теперь установите</string>
     <string name="online_music_listening_download">Онлайн музыка, слушать и скачать</string>
     <string name="network_is_not_available">Нет подключения к сети, онлайн-функции не могут быть использованы</string>
-    <string name="network_is_no_avalilable_wlan">Нет WLAN сети, проверьте настройки сети или измените настройки проигрывателя</string>
+    <string name="network_is_no_avalilable_wlan">Нет Wi-Fi, проверьте настройки сети или измените настройки проигрывателя</string>
     <string name="download_image_fail">Скачать обложку альбома не удалось</string>
     <string name="download_lyric_fail">Текст песни скачать не удалось</string>
-    <string name="no_wlan_for_listen_download">Нет доступных WLAN сетей, онлайн-прослушивание, и функции загрузки не моueт быть использованs</string>
+    <string name="no_wlan_for_listen_download">Нет доступного Wi-Fi, онлайн-прослушивание и функции загрузки не могут быть использованs</string>
     <string name="menu_refresh_music">Обновить песни</string>
     <string name="music_player_parse_id3">Правильная информация о песне</string>
     <string name="music_player_lookup_info">Посмотреть информацию о песне</string>

@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_form_save_entries">
+        <item>Отключить</item>
+        <item>Предлагать</item>
+        <item>Сохранять</item>
+    </string-array>
+    <string-array name="pref_form_save_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_explore_mode_entries">
+        <item>Zoom composition</item>
+        <item>Simple composition</item>
+    </string-array>
+    <string-array name="pref_explore_mode_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="webkit_ua">
+        <item>Mobile UA</item>
+        <item>PC UA</item>
+        <item>iPhone UA</item>
+    </string-array>
+    <string-array name="webkit_ua_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="read_ahead">
+        <item>Выключено</item>
+        <item>Только Wap</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="read_ahead_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="auto_flash_switch">
+        <item>Автозапуск</item>
+        <item>Тап для запуска</item>
+    </string-array>
+    <string-array name="auto_flash_switch_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_shrink">
+        <item>Под экран</item>
+        <item>Масштаб</item>
+    </string-array>
+    <string-array name="pref_shrink_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_pic_quality_entries">
+        <item>Низкое качество</item>
+        <item>Стандартное качество</item>
+        <item>Высокое качество</item>
+    </string-array>
+    <string-array name="pref_pic_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_volume_mode_entries">
+        <item>Отключено</item>
+        <item>Перемотка экрана</item>
+        <item>Переключение окон</item>
+    </string-array>
+    <string-array name="pref_volume_mode_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pre_website">
+        <item>Яндекс</item>
+        <item>http://yandex.ru</item>
+        <item>Vkontakte</item>
+        <item>http://vk.com</item>
+        <item>Одноклассники</item>
+        <item>http://m.odnoklassniki.ru/</item>
+        <item>Форум 4pda</item>
+        <item>http://4pda.ru/forum/index.php</item>
+        <item>Google</item>
+        <item>http://google.ru/</item>
+        <item>YouTube</item>
+        <item>http://youtube.com</item>
+    </string-array>
+    <string-array name="sys_waiting_tips">
+        <item>Нажмите ★ для добавления закладки</item>
+    </string-array>
+    <string-array name="zeus_waiting_tips">
+        <item>Нажмите ★ для добавления закладки</item>
+        <item>Долгий тап для копирования и поиска текста</item>
+        <item>Тап на видео для перехода в полноэкранный режим</item>
+    </string-array>
+    <string-array name="manage_space_titles">
+        <item>Кэш страниц</item>
+        <item>История поиска</item>
+        <item>Cookies</item>
+        <item>Формы и пароли</item>
+    </string-array>
+    <string-array name="manage_space_tips">
+        <item>Очистка локального кэша</item>
+        <item>Очистка запросов поиска</item>
+        <item>Очистка Cookies</item>
+        <item>Очистка сохранённых паролей</item>
+    </string-array>
+    <string-array name="pref_textsize_setting">
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+    </string-array>
+    <string-array name="pref_textsize_setting_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="bookmarks_title">
+        <item>Форум 4pda</item>
+        <item>Baidu Explorer</item>
+    </string-array>
+    <string-array name="bookmarks_url">
+        <item>http://4pda.ru/forum/index.php</item>
+        <item>http://4pda.ru/forum/index.php?showtopic=375254</item>
+    </string-array>
+    <string-array name="favicon_host_list">
+        <item>twitter</item>
+        <item>wikipedia</item>
+        <item>yahoo</item>
+        <item>youtube</item>
+        <item>facebook</item>
+        <item>torrentz</item>
+        <item>mercadolivre</item>
+        <item>stackoverflow</item>
+        <item>rediff</item>
+        <item>quikr</item>
+        <item>letras.mus</item>
+        <item>olx</item>
+        <item>ndtv</item>
+        <item>kboing</item>
+        <item>naukri</item>
+        <item>itau</item>
+        <item>irctc.co</item>
+        <item>ig</item>
+        <item>indiatimes</item>
+        <item>in</item>
+        <item>globoesporte.globo</item>
+        <item>imdb</item>
+        <item>icicibank</item>
+        <item>buscape</item>
+        <item>hdfcbank</item>
+        <item>amazon</item>
+        <item>flipkart</item>
+        <item>espncricinfo</item>
+        <item>abril</item>
+        <item>ebay</item>
+        <item>plus.google</item>
+        <item>msn</item>
+        <item>4shared</item>
+        <item>palcomp3</item>
+        <item>babylon</item>
+        <item>terra</item>
+        <item>bankmandiri.co</item>
+        <item>vagalume</item>
+        <item>berniaga</item>
+        <item>blogspot</item>
+        <item>detik</item>
+        <item>ganool</item>
+        <item>mail.yahoo</item>
+        <item>goal</item>
+        <item>jogos360.uol</item>
+        <item>indowebster</item>
+        <item>kapanlagi</item>
+        <item>kaskus.co</item>
+        <item>aol</item>
+        <item>kompasiana</item>
+        <item>apple</item>
+        <item>lintas</item>
+        <item>bing</item>
+        <item>okezone</item>
+        <item>tokobagus</item>
+        <item>cnn</item>
+        <item>tribunnews</item>
+        <item>craigslist</item>
+        <item>viva.co</item>
+        <item>flickr</item>
+        <item>huffingtonpost</item>
+        <item>klikbca</item>
+        <item>linkedin</item>
+        <item>live</item>
+        <item>paypal</item>
+        <item>pinterest</item>
+        <item>tumblr</item>
+        <item>walmart</item>
+        <item>weather</item>
+        <item>mail.google</item>
+        <item>auctions.yahoo.co</item>
+        <item>gyao.yahoo.co</item>
+        <item>yahoo-mbga</item>
+        <item>nhk.or</item>
+        <item>nikkei</item>
+        <item>sankei.msn</item>
+        <item>ahram</item>
+        <item>akhbarak</item>
+        <item>almasryalyoum</item>
+        <item>arabseed</item>
+        <item>cima4u</item>
+        <item>egyup</item>
+        <item>new.el-ahly</item>
+        <item>new.elfagr</item>
+        <item>sptechs</item>
+        <item>dailynews.co</item>
+        <item>matichon.co</item>
+        <item>nowgoal</item>
+        <item>weloveshopping</item>
+        <item>elwatannews</item>
+        <item>fatakat</item>
+        <item>friv</item>
+        <item>masrawy</item>
+        <item>mawaly</item>
+        <item>melody4arab</item>
+        <item>myegy</item>
+        <item>mazika2day</item>
+        <item>sm3na</item>
+        <item>portal.moe.gov</item>
+        <item>mp3</item>
+        <item>mtv</item>
+        <item>go</item>
+        <item>ask</item>
+        <item>accounts.google</item>
+        <item>login.live</item>
+        <item>video.pbs</item>
+        <item>translate.google</item>
+        <item>billboard</item>
+        <item>bebo</item>
+        <item>bigpondmusic</item>
+        <item>cbsnews</item>
+        <item>cnet</item>
+        <item>engadget</item>
+        <item>WordPress</item>
+        <item>hulu</item>
+        <item>metrolyrics</item>
+        <item>nytimes</item>
+        <item>reuters</item>
+        <item>slashdot</item>
+        <item>thinkdigit</item>
+        <item>usatoday</item>
+        <item>vimeo</item>
+        <item>zdnet</item>
+        <item>americanas</item>
+        <item>mail.aol</item>
+        <item>bestbuy</item>
+        <item>blogdetik</item>
+        <item>buy</item>
+        <item>chip.co</item>
+        <item>cifraclub</item>
+        <item>clickjogos.uol</item>
+        <item>dafiti</item>
+        <item>estadao</item>
+        <item>folha</item>
+        <item>g1</item>
+        <item>gamerdecelular</item>
+        <item>groupon</item>
+        <item>habbo</item>
+        <item>jogatina</item>
+        <item>girlsgogames</item>
+        <item>magazineluiza</item>
+        <item>netshoes</item>
+        <item>ojogos</item>
+        <item>orkut</item>
+        <item>papajogos</item>
+        <item>parperfeito</item>
+        <item>peixeurbano</item>
+        <item>pontofrio</item>
+        <item>r7</item>
+        <item>email.r7</item>
+        <item>som13</item>
+        <item>submarino</item>
+        <item>techarena</item>
+        <item>mail.terra</item>
+        <item>uol</item>
+        <item>videolog</item>
+        <item>1mobile</item>
+        <item>o2cinemas</item>
+        <item>analyrics</item>
+        <item>beemp3</item>
+        <item>bhinneka</item>
+        <item>bursalagu</item>
+        <item>friendster</item>
+        <item>getjar</item>
+        <item>grogol</item>
+        <item>gudanglagu</item>
+        <item>mp3raid</item>
+        <item>musikane</item>
+        <item>21cineplex</item>
+        <item>omegle</item>
+        <item>peperonity</item>
+        <item>softonic</item>
+        <item>stafaband</item>
+        <item>streetdirectory.co</item>
+        <item>tokopedia</item>
+        <item>tubidy</item>
+        <item>vuclip</item>
+        <item>zedge</item>
+    </string-array>
+    <string-array name="country_code">
+        <item>id</item>
+        <item>br</item>
+        <item>gb</item>
+        <item>jp</item>
+        <item>kr</item>
+        <item>sp</item>
+        <item>de</item>
+        <item>fr</item>
+    </string-array>
+    <string-array name="language_lable">
+        <item>Русский</item>
+        <item>Русский</item>
+        <item>Русский</item>
+        <item>Русский</item>
+        <item>Русский</item>
+        <item>Русский</item>
+        <item>Русский</item>
+        <item>Русский</item>
+    </string-array>
+    <string-array name="server_hk_country_code">
+        <item>id</item>
+        <item>th</item>
+        <item>my</item>
+        <item>sg</item>
+        <item>vn</item>
+        <item>ph</item>
+        <item>kh</item>
+        <item>la</item>
+        <item>mm</item>
+        <item>bn</item>
+        <item>tl</item>
+        <item>jp</item>
+        <item>kr</item>
+        <item>kp</item>
+        <item>mn</item>
+        <item>au</item>
+        <item>nz</item>
+        <item>in</item>
+        <item>pk</item>
+        <item>bd</item>
+        <item>np</item>
+        <item>lk</item>
+        <item>bt</item>
+        <item>af</item>
+        <item>mv</item>
+    </string-array>
+    <string-array name="server_hk_language_code">
+        <item>in</item>
+        <item>th</item>
+        <item>ms</item>
+        <item>vi</item>
+        <item>ja</item>
+        <item>ko</item>
+        <item>hi</item>
+    </string-array>
+    <string-array name="sug_common">
+        <item>m.facebook.com</item>
+        <item>www.google.com</item>
+        <item>m.youtube.com</item>
+        <item>www.wikipedia.org</item>
+        <item>www.yahoo.com</item>
+        <item>mobile.msn.com</item>
+        <item>www.tumblr.com</item>
+        <item>m.imdb.com</item>
+        <item>www.blogspot.com</item>
+        <item>www.linkedin.com</item>
+        <item>www.ebay.com</item>
+        <item>mobile.twitter.com</item>
+        <item>stackoverflow.com</item>
+        <item>www.live.com</item>
+        <item>wordpress.com</item>
+        <item>www.microsoft.com</item>
+        <item>m.bing.com</item>
+        <item>www.amazon.com</item>
+        <item>www.babylon.com</item>
+        <item>www.paypal.com</item>
+        <item>www.adobe.com</item>
+        <item>www.apple.com</item>
+        <item>m.pinterest.com</item>
+        <item>www.flickr.com</item>
+        <item>www.ask.com</item>
+        <item>www.blogger.com</item>
+        <item>thepiratebay.se</item>
+        <item>m.livejasmin.com</item>
+        <item>t.co</item>
+        <item>www.conduit.com</item>
+        <item>mobile.xhamster.com</item>
+        <item>instagram.com</item>
+        <item>www.avg.com</item>
+        <item>www.4shared.com</item>
+    </string-array>
+    <string-array name="sug_self">
+        <item>www.craigslist.org</item>
+        <item>go.com</item>
+        <item>m.aol.com</item>
+        <item>www.netflix.com</item>
+        <item>www.cnn.com</item>
+        <item>www.huffingtonpost.com</item>
+        <item>www.espn.go.com</item>
+        <item>m.weather.com</item>
+        <item>www.bankofamerica.com</item>
+        <item>mobilebanking.chase.com</item>
+        <item>www.about.com</item>
+        <item>m.wellsfargo.com</item>
+        <item>www.comcast.net</item>
+        <item>mobile.walmart.com</item>
+        <item>www.mywebsearch.com</item>
+        <item>mobile.nytimes.com</item>
+        <item>imgur.com</item>
+        <item>www.foxnews.com</item>
+        <item>m.yelp.com</item>
+        <item>www.ehow.com</item>
+        <item>www.nbcnews.com</item>
+        <item>www.zedo.com</item>
+        <item>www.etsy.com</item>
+        <item>www.hulu.com</item>
+        <item>m.cnet.com</item>
+        <item>www.pandora.com</item>
+        <item>www.reddit.com</item>
+        <item>www.outbrain.com</item>
+        <item>www.optmd.com</item>
+        <item>m.target.com</item>
+        <item>www.pch.com</item>
+        <item>www.indeed.com</item>
+        <item>www.answers.com</item>
+        <item>www.zillow.com</item>
+        <item>m.usps.com</item>
+        <item>m.godaddy.com</item>
+        <item>m.bestbuy.com</item>
+        <item>m.ups.com</item>
+        <item>www.att.com</item>
+        <item>www.reference.com</item>
+        <item>www.irs.gov</item>
+        <item>www.groupon.com</item>
+        <item>www.directrev.com</item>
+        <item>www.deviantart.com</item>
+        <item>m.intuit.com</item>
+        <item>www.aweber.com</item>
+        <item>www.wikia.com</item>
+        <item>www.capitalone.com</item>
+        <item>www.bbc.co.uk</item>
+        <item>www.washingtonpost.com</item>
+        <item>www.pof.com</item>
+        <item>www.homedepot.com</item>
+        <item>www.usatoday.com</item>
+        <item>www.drudgereport.com</item>
+        <item>www.shopathome.com</item>
+        <item>www.fedex.com</item>
+        <item>www.verizonwireless.com</item>
+        <item>www.dailymail.co.uk</item>
+        <item>www.match.com</item>
+        <item>www.forbes.com</item>
+        <item>www.vimeo.com</item>
+        <item>www.google.com.au</item>
+        <item>www.ebay.com.au</item>
+        <item>www.news.com.au</item>
+        <item>www.commbank.com.au</item>
+        <item>www.smh.com.au</item>
+        <item>www.gumtree.com.au</item>
+        <item>www.blogspot.com.au</item>
+        <item>www.ninemsn.com.au</item>
+        <item>www.westpac.com.au</item>
+        <item>www.anz.com</item>
+        <item>www.national.com.au</item>
+        <item>www.realestate.com.au</item>
+        <item>www.theage.com.au</item>
+        <item>www.abc.net.au</item>
+        <item>www.bom.gov.au</item>
+        <item>www.seek.com.au</item>
+        <item>www.vic.gov.au</item>
+        <item>www.whirlpool.net.au</item>
+        <item>www.domain.com.au</item>
+        <item>www.nsw.gov.au</item>
+        <item>www.wordpress.org</item>
+        <item>www.google.ca</item>
+        <item>www.kijiji.ca</item>
+        <item>www.gc.ca</item>
+        <item>www.amazon.ca</item>
+        <item>www.msn.ca</item>
+        <item>www.tdcanadatrust.com</item>
+        <item>www.craigslist.ca</item>
+        <item>www.ebay.ca</item>
+        <item>www.td.com</item>
+        <item>www.royalbank.com</item>
+        <item>www.theweathernetwork.com</item>
+        <item>www.cbc.ca</item>
+        <item>www.nhl.com</item>
+        <item>www.rbcroyalbank.com</item>
+        <item>www.bmo.com</item>
+        <item>trophymanager.com</item>
+        <item>tubidy.mobi</item>
+        <item>cnnmobile.com</item>
+        <item>m.9gag.com</item>
+        <item>mp3.com</item>
+        <item>m.espncricinfo.com</item>
+        <item>m.moneycontrol.com</item>
+    </string-array>
+</resources>

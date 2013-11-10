@@ -27,13 +27,13 @@
     <string name="send_user_canceled">Оьмена отправки.</string>
     <string name="send_proceeding">Предоставление...</string>
     <string name="wifi_only_title">Выберите Сеть</string>
-    <string name="wifi_only_message">Размер файла больше, чем 1М (выбрать только WLAN), подтвердите, чтобы загрузить?</string>
+    <string name="wifi_only_message">Размер файла больше, чем 1М (только Wi-Fi), подтвердите, чтобы загрузить?</string>
     <string name="add_to_list">Работа была добавлена ​​в список отправить</string>
     <string name="ok">OK</string>
     <string name="no">Нет</string>
     <string name="yes">Да</string>
     <string name="tip">Совет</string>
-    <string name="wifi_only_text">Только WLAN</string>
+    <string name="wifi_only_text">Только Wi-Fi</string>
     <string name="cancel">Отменить</string>
     <string name="record">Запись</string>
     <string name="submit">Представлять</string>

@@ -418,38 +418,38 @@
     <string name="action_bar_mailbox_list_title">Папки</string>
     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="require_manual_sync_message">Для этого аккаунта отключена фоновая синхронизация в роуминге.</string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <string name="application_name">Загрузка с телефона</string>
-    <string name="picasa_default_destination">Альбом для загрузки с телефона</string>
+    <string name="account_setup_options_mail_download_mode_5k">5 Kб</string>
+    <string name="account_setup_options_mail_download_mode_10k">10 Kб</string>
+    <string name="account_setup_options_mail_download_mode_25k">25 Kб</string>
+    <string name="account_setup_options_mail_download_mode_50k">50 Kб</string>
+    <string name="account_setup_options_mail_download_mode_100k">100 Kб</string>
+    <string name="account_setup_options_mail_download_mode_200k">200 Kб</string>
+    <string name="account_settings_mail_download_mode_label">Режим скачивания почты</string>
+    <string name="account_settings_mail_download_mode_title">Настройка лимита скачивания для каждого письма</string>
+    <string name="downloading_process_estimating">ПОдсчет..</string>
+    <string name="no_email_account">Нет почтовых аккаунтов</string>
+    <string name="no_emailaccount_prompt">Нет почтовых аккаунтов. Настроить?</string>
+    <string name="newer_email_action">Предыд.</string>
+    <string name="older_email_action">След.</string>
+    <string name="message_compose_foward_profix">Fwd</string>
+    <string name="message_compose_reply_profix">Re</string>
+    <string name="launcher_contacts">добавление получателя из контактов</string>
+    <string name="adding_recipients">ожидание добавления</string>
+    <string name="recipients_count_limit_warn">Вы добавили слишком много получателей. Почтовый сервер может отклонить это письмо!</string>
+    <string name="message_view_fetch_complete_action">Письмо загружено не полностью. Нажмите для скачивания</string>
+    <string name="message_view_fetching_message">Загрузка...</string>
+    <string name="message_compose_attachments_count">Количество файлов больше, чем %s. Пожалуйста, выберите заново</string>
+    <string name="account_setup_failed_ioerror_for_transient">Сервер временно недоступен, попробуйте заново</string>
+    <string name="account_setup_failed_ioerror_for_error_setup">Не удается подключиться к серверу, проверьте настройки аккаунта</string>
+    <string name="action_mode_selected_format_message">%d выбрано</string>
+    <string name="action_mode_select_all_message">Выбрать все</string>
+    <string name="action_mode_deselect_all_message">Снять выдекение</string>
+    <string name="more_string">%1$s еще...</string>
+    <string name="copy_email">Копировать адрес эл.почты</string>
+    <string name="copy_number">Копировать телефонный номер</string>
+    <string name="done">Завершено</string>
+    <string name="application_name">Мгновенная загрузка</string>
+    <string name="picasa_default_destination">Альбом для загрузки с устройства</string>
     <string name="summary_title_uploading">Загрузка</string>
     <string name="summary_title_finished">Завершенные</string>
     <string name="summary_title_paused">Приостановлено</string>

@@ -2,7 +2,7 @@
 <resources>
     <string-array name="netemplate">
         <item>2G/3G</item>
-        <item>WLAN</item>
+        <item>Wi-Fi</item>
     </string-array>
     <array name="appdate">
         <item>@string/app_cur_title</item>

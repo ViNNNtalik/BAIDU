@@ -7,12 +7,12 @@
         <item>время</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>Сохранить в памяти</item>
-        <item>Сохранить в облоко</item>
+        <item>Сохранить локально</item>
+        <item>Сохранить онлайн</item>
     </string-array>
     <string-array name="select_dialog_items_not_login">
-        <item>Сохранить в памяти</item>
-        <item>Сохранить &lt;font size="13" color="#B0B0B0">(Not Logged In)&lt;/font></item>
+        <item>Сохранить локально</item>
+        <item>Сохранить онлайн &amp;lt;font size=13 color=#B0B0B0>(вход не выполнен)&amp;lt;/font></item>
     </string-array>
     <string-array name="auto_backup_day_of_week">
         <item>Понедельник</item>
@@ -24,7 +24,7 @@
         <item>Воскресенье</item>
     </string-array>
     <string-array name="auto_backup_apps">
-        <item>СМС/ММС</item>
+        <item>SMS/MMS</item>
         <item>Журнал вызовов</item>
         <item>Будильники</item>
         <item>Настройки</item>

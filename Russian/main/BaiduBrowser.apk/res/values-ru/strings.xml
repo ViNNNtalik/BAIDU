@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="common_app_name">Baidu Browser</string>
+    <string name="common_baidu">Baidu</string>
+    <string name="common_ok">ОК</string>
+    <string name="common_cancel">Отмена</string>
+    <string name="common_tip">Baidu Browser</string>
+    <string name="common_title">Заголовок</string>
+    <string name="common_select">Выбор</string>
+    <string name="common_open">Открыть</string>
+    <string name="common_clear">Очистить</string>
+
+    <string name="common_back">Назад</string>
+    <string name="common_url">URL</string>
+    <string name="common_foldname">Имя папки</string>
+    <string name="common_install">Установка</string>
+    <string name="common_stop">Стоп</string>
+    <string name="common_edit">Правка</string>
+    <string name="common_username">Имя пользователя</string>
+    <string name="common_password">Пароль</string>
+
+    <string name="common_create">Создать</string>
+    <string name="common_delete">Удалить</string>
+    <string name="common_search">Поиск</string>
+    <string name="common_go">Ввод</string>
+    <string name="common_refresh">Обновить</string>
+    <string name="common_delete_all">Удалить все</string>
+    <string name="common_open_file">Открыть файл</string>
+    <string name="common_delete_file">Удалить файл</string>
+
+    <string name="common_name">Имя</string>
+    <string name="common_warning">Предупреждение</string>
+    <string name="common_select_text">Выделить текст</string>
+
+    <string name="common_copy">Копировать</string>
+    <string name="common_copy_text">Копировать текст</string>
+    <string name="common_copy_link">Копировать ссылку</string>
+    <string name="common_save_pic">Сохранить изображение</string>
+    <string name="common_clear_success">Очищено</string>
+    <string name="common_checking">Проверка...</string>
+    <string name="common_please_choose">Выберите</string>
+    <string name="common_never_remaind">Не напоминать</string>
+    <string name="common_unknown_title">Неизвестно</string>
+    <string name="common_name_cannot_be_null">Введите Имя</string>
+    <string name="common_name_url_cannot_be_null">Введите URL</string>
+    <string name="common_delay">Позже</string>
+    <string name="common_network_exception">Ошибка подключения</string>
+    <string name="common_loading">Загрузка...</string>
+
+
+
+
+
+    <string name="msg_no_sdcard">SD-карта не найдена</string>
+    <string name="msg_exit">Выход из браузера?</string>
+    <string name="msg_exit_tab">Закрыть вкладку?</string>
+
+    <string name="msg_network_down">Ошибка подключения</string>
+
+    <string name="msg_loading_video">Загрузка видео</string>
+
+    <string name="msg_clear_cache_waiting">Очистка кэша...</string>
+    <string name="msg_slide_tips">Проведите для увеличения</string>
+
+    <string name="msg_added_to_home">Добавлено на Домашнюю</string>
+    <string name="msg_added_to_phone_home">Добавлено на Рабочий стол</string>
+    <string name="msg_other_exit_tip">Нажмите ещё раз, чтобы выйти</string>
+    <string name="msg_add_to_clipboard">Скопировано в буфер</string>
+    <string name="msg_sure_to_delete_all">Удалить всё?</string>
+    <string name="msg_low_memory_clear_cache">Недостаточно памяти, очистить кэш?</string>
+    <string name="msg_no_use_permission">Недостаточно прав!</string>
+    <string name="msg_homepage_cannot_add_to_bookmark">Домашнюю страницу нельзя добавить в закладки</string>
+    <string name="msg_homepage_cannot_add_to">Домашнюю страницу нельзя добавить</string>
+    <string name="msg_switch_to_fullscreen">Полноэкранный режим</string>
+    <string name="msg_exit_fullscreen">Выход из полноэкранного режима</string>
+    <string name="msg_permission_testing">Проверка прав...</string>
+    <string name="msg_deleted_from_home">Удалено</string>
+    <string name="msg_save_flow_wifi_cannot_work">Параметры оптимизированы для Wi-Fi</string>
+    <string name="msg_save_flow_can_work">Вернуться в режим сохранения данных</string>
+
+    <string name="msg_no_enough_space_to_launch">Недостаточно места для запуска этого приложения.</string>
+
+
+
+
+
+
+
+
+
+    <string name="launch_fail">Ошибка инициализации</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="searchbox_suggest_toolbar_clear">Удаление истории поиска</string>
+    <string name="searchbox_suggest_toolbar_clear_tip">Вы уверены очистить историю поиска?</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="quick_link_menu_open">В новом окне</string>
+    <string name="quick_link_menu_edit">Изменить</string>
+    <string name="quick_link_menu_del">Удалить</string>
+    <string name="quick_link_menu_share">Отправить</string>
+    <string name="quick_link_menu_move_to_parent">Выше</string>
+
+
+    <string name="homepage">Домашняя</string>
+    <string name="homepage_menu_add_webaddress">Добавить URL</string>
+    <string name="homepage_menu_add_folder">Добавить папку</string>
+
+    <string name="homepage_dialog_add_folder">Добавить папку</string>
+    <string name="homepage_tip_add_folder">Нажмите и перетащите в папку...</string>
+    <string name="home_icon_exist">Ярлык уже существует</string>
+    <string name="home_folder_exist">Папка уже существует</string>
+    <string name="home_to_phone_home">На Рабочий стол</string>
+    <string name="grid_item_count_max_tip">Максимальное число иконок</string>
+    <string name="folder_item_count_max_tip">Максимальное число иконок в папке</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="webapp_load_error_tip">Ошибка загрузки, попробуйте еще раз</string>
+
+
+
+
+    <string name="add_home_item_edittext_hint">Введите URL для добавления на Домашнюю</string>
+    <string name="hot_sites">Популярное</string>
+
+    <string name="tab_close_window">Закрыть окно</string>
+    <string name="open_in_new_window">В новом окне</string>
+    <string name="open_in_backgroud">В фоновом окне</string>
+
+    <string name="only_one_sub_window_msg">Вы можете открыть только 1 окно</string>
+    <string name="windows_max_tip">Максимальное число окон</string>
+    <string name="menu_title_common">Общие</string>
+    <string name="menu_title_tools">Настройки</string>
+    <string name="menu_title_others">Функции</string>
+    <string name="menu_full">На весь экран</string>
+    <string name="menu_full_exit">Обычный экран</string>
+    <string name="menu_fav">Закладки</string>
+    <string name="menu_down">Загрузки</string>
+    <string name="menu_set">Настройки</string>
+
+
+    <string name="menu_more">Больше</string>
+    <string name="menu_exit">Выход</string>
+
+
+
+    <string name="menu_landscape_setting">Поворот</string>
+    <string name="menu_follow_system">Как в системе</string>
+    <string name="menu_lock_portrait">Портрет</string>
+    <string name="menu_lock_lanscape">Ландшафт</string>
+    <string name="menu_help">Справка</string>
+    <string name="menu_sitesearch">Поиск</string>
+
+    <string name="menu_pc_explore">Масштаб</string>
+    <string name="menu_screenshot">Скриншот</string>
+    <string name="menu_screenshot_title">Скриншот</string>
+    <string name="menu_screenshot_checked_tip">Отправить</string>
+    <string name="menu_no_image">Только текст</string>
+    <string name="menu_load_image">Изображения</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="menu_day_mode">День</string>
+    <string name="menu_night_mode">Ночь</string>
+    <string name="menu_down_zeus">Ядро Т5</string>
+    <string name="menu_page_search">Поиск на странице</string>
+    <string name="menu_check_update">Обновление</string>
+    <string name="menu_feedback">Отзыв</string>
+    <string name="menu_about">О программе</string>
+
+    <string name="page_can_not_zoom">Страница не поддерживает масштабирование</string>
+
+
+    <string name="menu_qa">QA интерфейс</string>
+
+    <string name="menu_no_footprint">Инкогнито</string>
+    <string name="menu_no_footprint_tips">История посещений не сохраняется</string>
+    <string name="menu_with_footprint">Инкогнито</string>
+    <string name="menu_with_footprint_tips">История посещений сохраняется</string>
+    <string name="menu_save_flow">Сжатие трафика</string>
+    <string name="menu_save_flow_tips">Сжатие трафика включено</string>
+    <string name="menu_save_flow_off_tips">Сжатие трафика отключено</string>
+
+    <string name="menu_readmode">Режим чтения</string>
+    <string name="menu_readmode_tips">Режим чтения для удобного просмотра страниц</string>
+    <string name="menu_readmode_off">Обычный режим</string>
+    <string name="menu_readmode_off_tips">Режим чтения выключен</string>
+    <string name="menu_save_webpage">Сохранить</string>
+    <string name="switch_to_tc_toast">Экономит больше трафика</string>
+    <string name="switch_to_webkit_toast">Режим для лучшего отображения сайта</string>
+    <string name="switch_to_no_image_toast">Отключение изображений для экономии трафика</string>
+    <string name="switch_to_image_toast">Изображения включены</string>
+    <string name="switch_to_turn_screen">Кнопки прокрутки включены</string>
+    <string name="switch_to_turn_screen_off">Кнопки прокрутки выключены</string>
+    <string name="setting_is_ok">Настройки сохранены</string>
+    <string name="setting_work_in_next_page">Вступит в силу при переходе на следующую страницу</string>
+
+    <string name="about_version">Версия</string>
+
+
+    <string name="bookmark">Закладки</string>
+    <string name="bookmark_all">Все закладки</string>
+    <string name="bookmark_address_error">Неверный URL</string>
+    <string name="bookmark_add">Добавить закладку</string>
+    <string name="bookmark_add_folder">Добавить папку</string>
+    <string name="bookmark_edit">Редактировать</string>
+    <string name="bookmark_import_export">Импорт/Экспорт</string>
+    <string name="bookmark_syn">Синхронизация закладок</string>
+    <string name="bookmark_clear">Очистить закладки</string>
+    <string name="bookmark_manager">Управление</string>
+    <string name="bookmark_exist">Закладка существует</string>
+    <string name="bookmark_fold_exist">Папка существует</string>
+
+    <string name="bookmark_edit_folder">Редактирование</string>
+    <string name="bookmark_import_from_system">Импорт системных</string>
+
+
+    <string name="bookmark_add_success">Закладка добавлена</string>
+    <string name="bookmark_edit_success">Закладка изменена</string>
+
+    <string name="bookmark_add_fail">Ошибка добавления закладки</string>
+
+
+    <string name="bookmark_add_to_mainfold_success">Импорт закладок завершён</string>
+    <string name="history">История</string>
+    <string name="history_today">Сегодня</string>
+    <string name="history_yesterday">Вчера</string>
+    <string name="history_earlier">Ранее</string>
+    <string name="history_before_days">" дней назад"</string>
+
+
+    <string name="pref_switch_geo_allow">Разрешить определение местоположения</string>
+
+
+
+    <string name="pref_set_default_browser">Установить по умолчанию</string>
+
+
+
+
+
+
+    <string name="pref_display_title">Настройки</string>
+    <string name="pref_explore_mode">Режим просмотра</string>
+
+    <string name="pref_flow_count">Статистика трафика</string>
+    <string name="pref_wap_pre">Интеллектуальная выборка</string>
+    <string name="pref_form_save">Сохранить форму</string>
+    <string name="pref_privacy_title">Данные пользователя</string>
+
+    <string name="pref_save_cookies">Сохранить Cookies</string>
+    <string name="pref_save_cookies_summary">Разрешено сохранять и читать cookie</string>
+
+    <string name="pref_window_switch_animation">Переключение окон</string>
+    <string name="pref_not_remind_when_exit">Сообщение при выходе</string>
+    <string name="pref_set_default">Восстановить стандартные настройки</string>
+    <string name="pref_webkit_ua">User Agent (UA)</string>
+    <string name="pref_read_ahead">Предзагрузка</string>
+
+
+    <string name="pref_page_shrink">Масштабирование</string>
+    <string name="pref_zeus_title">Настройки T5</string>
+    <string name="pref_volume_mode">Клавиши громкости</string>
+    <string name="pref_pic_quality">Качество изображений</string>
+    <string name="pref_down_zeus_tip_summary">Для применения настроек требуется перезапуск</string>
+    <string name="pref_uninstall_zeus">Удалить T5</string>
+
+
+
+
+
+    <string name="pref_allow_audio_play">Разрешить фоновую музыку</string>
+    <string name="pref_open_spdy">Включить облачное ускорение</string>
+    <string name="pref_open_spdy_summary">Сжатие трафика для увеличения скорости загрузки</string>
+    <string name="pref_clear_record">Очистка</string>
+    <string name="pref_clear_search">Очистить историю</string>
+    <string name="pref_clear_search_msg">Удалить историю поиска?</string>
+
+    <string name="pref_fullscreen_with_notifybar">Отображать уведомления</string>
+    <string name="pref_zeus">T5</string>
+    <string name="pref_link_with_underline">Подчёркивать ссылки</string>
+    <string name="pref_gif_first_frame_only">Отключить GIF-анимацию</string>
+    <string name="pref_html5_vedio_first">HTML5 видео</string>
+    <string name="pref_html5_vedio_first_summary">Требуется отдельный плеер</string>
+    <string name="pref_track_scale">Запоминать масштаб</string>
+    <string name="pref_force_scale">Быстрое увеличение</string>
+    <string name="pref_full_screen_vedio">Видео во весь экран</string>
+
+    <string name="pref_suggestion_switch">Рекомендации Baidu</string>
+    <string name="pref_suggestion_switch_summary">Рекомендации по введённому запросу</string>
+    <string name="pref_other_setting_title">Прочие настройки</string>
+    <string name="pref_about">О программе</string>
+    <string name="pref_save_traffic_title">Параметры сжатия трафика</string>
+    <string name="pref_image_proxy">Передача и сжатие изображений</string>
+    <string name="pref_image_proxy_summary">В режиме масштабирования изображения будут сжаты сервером</string>
+    <string name="pref_save_flow">Режим экономии</string>
+    <string name="pref_opengl">GPU рендеринг</string>
+    <string name="pref_geolocation">Включить функцию информации о местоположении</string>
+    <string name="pref_geo_switch_summary">Разрешить сайту получить информацию о Вашем местоположении</string>
+    <string name="pref_cancel_geo">Местоположение</string>
+    <string name="pref_cancel_geo_clear">Совет</string>
+    <string name="pref_cancel_geo_clear_info">Выберите «OK», чтобы очистить текущие данные о местоположении. После перезапуска браузера будет предложено определить Ваше местоположение</string>
+    <string name="pref_gif_first_frame">Только первый кадр GIF-анимации</string>
+    <string name="pref_js">Включить JavaScript</string>
+    <string name="pref_auto_flash_switch">Flash-плеер</string>
+    <string name="pref_auto_flash_switch_summary">Flash</string>
+
+
+
+    <string name="pref_show_zeus_layout">Движок Т5</string>
+    <string name="pref_feedback">Написать отзыв</string>
+
+
+    <string name="pref_frame_version">"Платформа: "</string>
+    <string name="pref_zenus_version">"Версия T5: "</string>
+    <string name="pref_copyright">Baidu, Inc. Все права защищены</string>
+    <string name="pref_no_zenus">T5 движок не установлен</string>
+    <string name="pref_know_more">Далее</string>
+    <string name="pref_version_check">Проверка обновлений</string>
+    <string name="pref_sound_tip">Необходимо отключить музыку для применения настроек</string>
+    <string name="pref_clear_tip">Очищено</string>
+    <string name="pref_cache">Кэш</string>
+    <string name="pref_search_history">История поиска</string>
+    <string name="pref_form_password">Формы и пароли</string>
+    <string name="pref_browser_history">История просмотра</string>
+    <string name="pref_notify">Советы</string>
+    <string name="pref_textsize_setting">Размер шрифта</string>
+
+
+
+
+
+    <string name="downloading_title">Загрузка</string>
+    <string name="downloaded_file_tilte">Загружено</string>
+
+    <string name="download_setting">Параметры загрузки</string>
+    <string name="download_dir_txt">Папка загрузок</string>
+    <string name="downloading_count_txt">Загружать одновременно</string>
+    <string name="download_sound_tip_txt">Звуковое уведомление</string>
+    <string name="download_toast_tip_txt">Текстовое уведомление</string>
+    <string name="download_delete_complete_txt">Удалять файлы</string>
+    <string name="download_from">URL</string>
+
+
+
+    <string name="download_forbidden">Загрузка %d файлов запрещена</string>
+    <string name="down_file_name_title">Загрузка файла</string>
+    <string name="download_sdcard_busy_dlg_msg">Ошибка загрузки. Пожалуйста, закройте USB-подключение в панели уведомлений</string>
+    <string name="download_sdcard_busy_dlg_title">Ошибка SD-карты</string>
+    <string name="download_sdcard_no_dlg_msg">Ошибка загрузки. Вставьте другую SD-карту.</string>
+    <string name="download_sdcard_no_dlg_title">Нет SD-карты</string>
+    <string name="download_file_error_dlg_msg">Ошибка загрузки, недостаточно памяти</string>
+    <string name="download_file_error_dlg_title">Ошибка загрузки</string>
+    <string name="retry">Повторить</string>
+    <string name="download_unknown_filename">Неизвестное имя файла</string>
+    <string name="download_success">Загрузка [%s] завершена</string>
+
+    <string name="download_pending">Загрузка...</string>
+    <string name="download_pending_network">Подключение...</string>
+    <string name="download_running_resume">Продолжить</string>
+    <string name="download_running_paused">Пауза</string>
+    <string name="download_not_acceptable">Неподдерживаемый формат</string>
+    <string name="download_length_required">Неизвестный размер</string>
+    <string name="download_precondition_failed">Ошибка старта загрузки</string>
+    <string name="download_canceled">Загрузка отменена</string>
+    <string name="download_file_error">Ошибка загрузки, недостаточно памяти</string>
+    <string name="download_error">Ошибка загрузки</string>
+    <string name="download_error_forbid_rename">Нельзя переименовать незагруженный файл</string>
+    <string name="download_no_application">Не найдено приложение для открытия файла</string>
+    <string name="download_outside_app_open_fail">Ошибка запуска приложения. Попробуйте использовать файл-менеджер</string>
+    <string name="download_open">Открыть</string>
+    <string name="download_delete">Удалить</string>
+    <string name="download_cancel">Отменить загрузку</string>
+
+
+
+
+
+    <string name="download_pause">Пауза</string>
+    <string name="download_resume">Продолжить</string>
+
+
+    <string name="download_unknown_title">&lt;Безымянный></string>
+    <string name="notification_filename_separator">"、 "</string>
+    <string name="notification_filename_extras">" И
+%d\u0009item"</string>
+    <string name="notification_download_complete">Загрузка завершена</string>
+    <string name="notification_download_failed">Ошибка загрузки</string>
+    <string name="rename">Переименовать</string>
+    <string name="file_detail">Свойства файла</string>
+    <string name="url_unknow_error">Этот элемент не удалось загрузить.</string>
+    <string name="download_file_name">"Имя файла: "</string>
+    <string name="download_file_size">"Размер: "</string>
+    <string name="download_file_path">"Путь: "</string>
+    <string name="download_file_modify_time">"Дата: "</string>
+
+
+    <string name="download_btn">Скачать</string>
+
+
+
+
+
+
+
+
+    <string name="download_completed">Загрузка завершена</string>
+    <string name="down_count_title">Максимальное число одновременных закачек</string>
+    <string name="del_download">Удалить загрузку</string>
+    <string name="download_path_saved">Путь загрузки сохранён</string>
+    <string name="download_path_selected">Путь загрузки выбран</string>
+    <string name="download_rename_fail">Ошибка переименования</string>
+    <string name="download_installing">Установка...</string>
+    <string name="download_size_unknow">Размер неизвестен</string>
+    <string name="download_video_title">Видео</string>
+    <string name="download_video_down">Загрузка</string>
+    <string name="download_video_play">Проиграть</string>
+    <string name="download_video_message">Выберите</string>
+    <string name="download_toast_hint">Загрузка добавлена</string>
+    <string name="download_speed_unknow">Скорость неизвестна</string>
+
+
+
+
+
+
+    <string name="screenshot">Скриншот</string>
+    <string name="screenshot_ok">Скриншот сделан и добавлен в Загрузки</string>
+    <string name="screenshot_error_sdcard_busy">Ошибка создания Скриншота. Вставьте SD-карту.</string>
+    <string name="screenshot_error">Скриншот не сделан.</string>
+    <string name="screenshot_file_size">"Размер файла "</string>
+    <string name="screenshot_share">Отправить</string>
+    <string name="screenshot_save">Сохранить</string>
+    <string name="screenshot_cancel">Отмена</string>
+    <string name="aleady_downloading">Загрузка...</string>
+    <string name="replace_title">Файл существует</string>
+    <string name="replace_message">Заменить файл?</string>
+    <string name="replace_success">Файл заменён. Начало загрузки.</string>
+    <string name="replace_failed">Файл не заменён. Файл автоматически переименован.</string>
+
+
+
+
+    <string name="voice_no_result">Не распознано</string>
+
+    <string name="voice_select">"Говорите: "</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="share">Отправить</string>
+    <string name="share_content" formatted="false">%s %s (Передано из @Baidu Browser)</string>
+    <string name="share_home_content">Я использую @Baidu Browser ST Edition. Русская версия уже на 4pda!</string>
+    <string name="share_app_content" formatted="false">Я использую @BaiduMobile Browser: %s %s</string>
+
+
+
+
+
+
+
+    <string name="image_share_error_sdcard">Ошибка отправки изображения. Не найдена SD-карта</string>
+    <string name="save_image_no_sdcard_msg">Ошибка сохранения фото, попробуйте вставить SD-карту</string>
+    <string name="share_file_error">Недостаточно памяти</string>
+    <string name="share_file_error_not_exists">Ошибка отправки, проверьте изображение на SD-карте.</string>
+    <string name="share_channel">Выберие</string>
+    <string name="share_waiting">Подготовка...</string>
+    <string name="share_file_fail">Ошибка отправки, проверьте сеть</string>
+    <string name="share_not_image">Ошибка отправки - неверный формат или отсутствуют необходимые данные</string>
+    <string name="share_image">Фото</string>
+    <string name="share_text">Текст</string>
+    <string name="update_now">Обновить</string>
+    <string name="update_failure">Ошибка обновления. Попробуйте еще раз</string>
+    <string name="update_title">Новая версия</string>
+    <string name="update_frame_message">"Последняя версия: %s
+
+"</string>
+    <string name="update_kernel_message">Размер обновления движка T5: %s. Обновить?</string>
+    <string name="no_update">Вы используете последнюю версию</string>
+    <string name="no_zeus_update">Не совместимо с T5</string>
+    <string name="zeus_no_match">Версия Вашего браузера не совместима с движком T5. Обновить браузер?</string>
+    <string name="tip_later">Напомнить позже</string>
+    <string name="update_error">Ошибка обновления</string>
+    <string name="zeus_installed_msg">Движок T5 установлен, требуется перезагрузка браузера</string>
+    <string name="zeus_updated_msg">Движок T5 обновлен, требуется перезагрузка браузера</string>
+    <string name="zeus_install_error">Ошибка установки обновления, попробуйте снова</string>
+    <string name="zeus_unzip_error">Ошибка разархивирования движка T5, попробуйте снова</string>
+    <string name="update_download_error_toast">Ошибка загрузки, попробуйте снова</string>
+    <string name="update_zeus_title">Движок T5</string>
+    <string name="update_zeus_msg">Рекомендуем установить движок T5, который позволит увеличить скорость на 30% и открывает новые возможности: ночной режим, приближение и улучшенное отображение страниц</string>
+    <string name="update_zesu_pc_down">"URL загрузки: "</string>
+    <string name="update_zeus_install">ОК</string>
+    <string name="site_search_title">Поиск</string>
+    <string name="sitesearch_hint">Введите слова</string>
+    <string name="sitesearch_text1">"Поиск в "</string>
+    <string name="sitesearch_text2" />
+    <string name="text_selection_tip">Проведите для выделения текста</string>
+    <string name="text_selection_fail_tip">Ошибка выделения, попробуйте снова</string>
+    <string name="flash_download_prompt">Скачать Flash-плагин?</string>
+    <string name="flash_downloading">Загрузка флэш-плагина</string>
+    <string name="install_now_prompt">: загрузка завершена. Установить?</string>
+    <string name="nightmode_brightnesss_adjustment">Яркость ночного режима</string>
+    <string name="nightmode_brightnesss_adjustment_tips">Может потребоваться отключение автонастройки яркости</string>
+    <string name="nightmode_no_dialog_again">Не напоминать</string>
+    <string name="delay_down_txt">Напомнить позже</string>
+    <string name="down_zeus_txt">Установка</string>
+    <string name="no_zeus_aviable">Движок T5 не поддерживается вашим телефоном. Ждите новый релиз</string>
+    <string name="down_zeus_msg">Установка движка T5</string>
+    <string name="down_zeus_webkit_msg_night">Обновление T5</string>
+    <string name="zeus_open_msg">Движок T5 устанавливается</string>
+    <string name="zeus_uninstall_msg">После удаления движка T5 некоторые функции будут недоступны. Удалить?</string>
+    <string name="browser_fileexplorer_back_top_folder">Выше</string>
+    <string name="browser_fileexplorer_save">Сохранить</string>
+    <string name="browser_fileexplorer_create_folder">Новая папка</string>
+    <string name="browser_fileexplorer_cancel">Отмена</string>
+    <string name="browser_fileexplorer_dialog_title">Новая папка</string>
+    <string name="browser_fileexplorer_dialog_cancel">Отмена</string>
+    <string name="browser_fileexplorer_dialog_submit">ОК</string>
+    <string name="browser_fileexplorer_filename_illegal">"Имя файла не может содержать 
+ / ? *: &lt; > | и другие специальные символы. Они будут автоматически удалены"</string>
+    <string name="browser_fileexplorer_filename">Имя файла</string>
+    <string name="browser_fileexplorer_choose_file">Выберите файл</string>
+    <string name="browser_fileexplorer_title">Папка загрузки</string>
+    <string name="browser_fileexplorer_file_title">Выберите файл</string>
+    <string name="browser_fileexplorer_cal_filesize">Вычисление размера...</string>
+    <string name="browser_upload_disabled">Загрузка файлов отключена</string>
+    <string name="browser_choose_upload">Выберите файл для загрузки</string>
+    <string name="debug_app_name">Baidu Browser</string>
+    <string name="debug_info">Произошла ошибка. Пожалуйста, пришлите нам этот отчет об ошибке, чтобы помочь улучшить наш продукт.</string>
+    <string name="debug_offline_info">Ошибка: программа неожиданно закрылась. Попробуйте повторить после перезагрузки</string>
+    <string name="debug_send">Отправить</string>
+    <string name="debug_sure">ОК</string>
+    <string name="debug_cancel">Отмена</string>
+    <string name="geolocation_permissions_prompt_share">Разрешить</string>
+    <string name="geolocation_permissions_prompt_dont_share">Отказать</string>
+    <string name="geolocation_permissions_prompt_remember">Запомнить</string>
+    <string name="pagesearch">Поиск на странице</string>
+    <string name="pagesearch_can_not_find">Ничего не найдено</string>
+    <string name="webview_error_file_not_found">Страница не существует</string>
+    <string name="webview_error_fail_connection">Ошибка подключения к серверу</string>
+    <string name="webview_long_press_open_full_screen_flash">Долгий тап на видео для полноэкранного режима</string>
+    <string name="webview_pre_load_tips">Предзагрузка страницы</string>
+    <string name="explore_upload_dialog_title">Выберите способ загрузки</string>
+    <string name="explore_upload_dialog_camera">Камера</string>
+    <string name="explore_upload_dialog_gallery">Галерея</string>
+    <string name="explore_upload_dialog_filechoser">Выбор файлов</string>
+    <string name="gesture_backforward_backtohome">На Домашнюю</string>
+    <string name="gesture_backforward_teach_msg">Сдвиньте для навигации</string>
+    <string name="speedy_info_3g">3G оптимизировано</string>
+    <string name="ges_left_msg">Предыдущая вкладка</string>
+    <string name="ges_top_msg">Закрыть вкладку</string>
+    <string name="ges_right_msg">Следующая вкладка</string>
+    <string name="ges_bottom_msg">Новая вкладка</string>
+    <string name="ges_teach_msg">"Проведите двумя пальцами
+для быстрой операции"</string>
+    <string name="qrcode">QR-код</string>
+    <string name="qr_intro1">Наведите на QR-код</string>
+    <string name="qr_intro2">Мгновенно получите информацию</string>
+    <string name="qr_title1">Baidu Browser</string>
+    <string name="qr_title">QR-код не поддерживается</string>
+    <string name="ocr_ui1">Наведите на текст и сделайте фото</string>
+    <string name="ocr_ui2">Получите текст и изображение</string>
+    <string name="ocr_ui3">Настройте диапазон</string>
+    <string name="qrcode_intro3">QR-код</string>
+    <string name="ocr_ui4">Текст</string>
+    <string name="qr_title2">Наведите на QR-код</string>
+    <string name="qr_close">Закрыть</string>
+    <string name="qr_copy">Копировать</string>
+    <string name="qr_search">Поиск</string>
+    <string name="dlg_smg_savewebpage_title">Сохранить страницу</string>
+    <string name="dlg_smg_savewebpage_content_name">Имя файла</string>
+    <string name="dlg_smg_savewebpage_path_name">Выбрать путь</string>
+    <string name="dlg_smg_savewebpage_faile_nosdcard">Ошибка сохранения, вставьте SD-карту</string>
+    <string name="dlg_smg_savewebpage_path_setting">"Сохранить в: "</string>
+    <string name="dlg_smg_savewebpage_save_sucess">Страница сохранена</string>
+    <string name="dlg_smg_savewebpage_save_faile">Ошибка сохранения страницы, попробуйте еще раз</string>
+    <string name="dlg_smg_savewebpage_file_exist">Файл существует, перезаписать?</string>
+    <string name="dlg_smg_savewebpage_file_rename">Переименуйте файл или измените путь сохранения</string>
+    <string name="dlg_smg_savewebpage_path_empty">Путь не может быть пустым</string>
+    <string name="dlg_smg_savewebpage_fileorpath_empty">Имя файла или путь не могут быть пустыми</string>
+    <string name="dlg_smg_savewebpage_path_select">Путь выбран</string>
+    <string name="set_default_browser_dlg_content">Установить Baidu Browser браузером по умолчанию</string>
+    <string name="set_default_browser_dlg_start">Сделать стандартным браузером</string>
+    <string name="set_default_browser_result_fail">Ошибка! Посмотрите описание</string>
+    <string name="set_default_browser_result_succesd">Baidu Browser установлен по умолчанию</string>
+    <string name="set_default_browser_clearbrowser_clear_more">Очищено, но некоторые настройки необходимо удалить</string>
+    <string name="set_default_browser_common_next">Далее</string>
+    <string name="intent_category_browser_name">Baidu Browser</string>
+    <string name="clear_default_browser_succed">Умолчание удалено</string>
+    <string name="zeus_webclient_del_prompt">Очистить текст?</string>
+    <string name="zeus_webclient_del_ok">ОК</string>
+    <string name="zeus_webclient_del_cancel">Отмена</string>
+    <string name="zeus_one_month_duration_past">1 месяц назад</string>
+    <string name="zeus_before_one_month_duration_past">До 1 месяца назад</string>
+    <string name="zeus_today">"Сегодня "</string>
+    <string name="zeus_yesterday">"Вчера "</string>
+    <string name="zeus_datetimecolor_title_date">Настройки даты</string>
+    <string name="zeus_datetimecolor_title_datetime">Настройки даты и времени</string>
+    <string name="zeus_datetimecolor_title_week">Неделя</string>
+    <string name="zeus_datetimecolor_title_month">Месяц</string>
+    <string name="zeus_datetimecolor_title_time">Параметры времени</string>
+    <string name="zeus_datetimecolor_title_color">Параметры цвета</string>
+    <string name="zeus_datetimecolor_button_set">Настройки</string>
+    <string name="zeus_datetimecolor_button_cancel">Отмена</string>
+    <string name="zeus_datetimecolor_button_clear">Очистить</string>
+    <string name="zeus_file_upload">Выберите файл</string>
+    <string name="zeus_reset">Сброс</string>
+    <string name="zeus_submit">Отправить</string>
+    <string name="zeus_js_alert">ОК</string>
+    <string name="zeus_js_confirm_ok">ОК</string>
+    <string name="zeus_js_confirm_cancel">Отмена</string>
+    <string name="zeus_common_ok">Baidu Browser</string>
+    <string name="zeus_common_cancel">Отмена</string>
+    <string name="zeus_webclient_need_save_pwd">Сохранить пароль?</string>
+    <string name="zeus_webclient_later">Не сейчас</string>
+    <string name="zeus_webclient_save">Сохранить</string>
+    <string name="zeus_webclient_notips">Не сохранять</string>
+    <string name="zeus_webclient_radiobox">Кнопка выбора</string>
+    <string name="zeus_link_page_0">Дальше</string>
+    <string name="zeus_link_page_1">[Дальше]</string>
+    <string name="zeus_link_page_2">Дальше</string>
+    <string name="zeus_link_page_3">[Дальше]</string>
+    <string name="zeus_link_page_4">Дальше|</string>
+    <string name="zeus_link_page_5">>>Дальше</string>
+    <string name="zeus_link_page_6">>>Дальше|</string>
+    <string name="zeus_link_page_7">Дальше</string>
+    <string name="zeus_link_page_8">[Дальше]</string>
+    <string name="zeus_link_page_9">[->>]</string>
+    <string name="zeus_link_page_10">>></string>
+    <string name="zeus_link_page_11">[>>]</string>
+    <string name="zeus_link_page_12">></string>
+    <string name="zeus_link_page_13">[>]</string>
+    <string name="zeus_link_page_14">Дальше</string>
+    <string name="zeus_link_page_15">[Дальше]</string>
+    <string name="zeus_link_page_16">Дальше</string>
+    <string name="zeus_link_page_17">[Дальше]</string>
+    <string name="zeus_link_page_18">Дальше</string>
+    <string name="zeus_link_page_19">[Дальше]</string>
+    <string name="zeus_link_pre_page">Назад</string>
+    <string name="zeus_link_next_page">Дальше</string>
+    <string name="zeus_link_discuz_new">Написать</string>
+    <string name="zeus_link_discuz_reply">Ответить</string>
+    <string name="zeus_link_none">Неизвестный тег</string>
+    <string name="zeus_link_qianye">Назад</string>
+    <string name="zeus_link_houye">Вперёд</string>
+    <string name="zeus_link_PauseFlash">Пауза</string>
+    <string name="zeus_link_DianjiFlash">Нажмите для запуска</string>
+    <string name="zeus_link_DownLoadFlash">Загрузка плагина</string>
+    <string name="common_more">Больше</string>
+    <string name="common_send">Отправить</string>
+    <string name="common_connected">Подключено</string>
+    <string name="common_disconnected">Отключено</string>
+    <string name="permlab_accessProvider">Доступ к закладкам и истории данных</string>
+    <string name="permdesc_accessProvider">Разрешить доступ закладкам и истории</string>
+    <string name="msg_fling_to_switch_screen">Сдвиньте влево/вправо для переключения экрана</string>
+    <string name="msg_activity_not_found">Приложение не найдено</string>
+    <string name="feedback_url">http://m.en.hao123.com/feedback.html</string>
+    <string name="msg_rate_prompt">Оцените приложение</string>
+    <string name="launch_unzip_zeus">Инициализация...</string>
+    <string name="searchbox_urlbar_default">Введите URL или слово для поиска</string>
+    <string name="searchbox_suggestion_loading">Получение данных от Google</string>
+    <string name="category_search_google">Google</string>
+    <string name="category_search_bing">Яндекс</string>
+    <string name="category_search_yahoo">Nigma</string>
+    <string name="category_search_youtube">Youtube</string>
+    <string name="quick_link_menu_add_to_home">На Домашнюю</string>
+    <string name="quick_link_success_del_speeddial">Удалено</string>
+    <string name="quicklink_add_home">На рабочий стол</string>
+    <string name="add_tag_str2">На Домашнюю</string>
+    <string name="home_icon_exist_in_folder">Существует в папке %s</string>
+    <string name="home_icon_exist_in_dial">Существует в %s</string>
+    <string name="menu_jl_explore">Под экра</string>
+    <string name="menu_rate_us">Оценить</string>
+    <string name="turn_screen">Прокрутка</string>
+    <string name="menu_save_flow_off">Сжатие трафика</string>
+    <string name="menu_qr_code">QR-код</string>
+    <string name="menu_share">Опубликовать</string>
+    <string name="add_tag_str">В закладки</string>
+    <string name="bookmark_no_system_bookmark">Закладки не найдены</string>
+    <string name="quicklinks_del_bookmark">Удаление закладки</string>
+    <string name="quicklinks_del_speeddial">Удаление с Домашней</string>
+    <string name="quicklinks_del_bookmark_success">Закладка удалена</string>
+    <string name="history_no_record">История пуста</string>
+    <string name="pref_window_switch_animation_summary">С анимацией</string>
+    <string name="pref_fullscreen_with_notifybar_summary">В полноэкранном режиме</string>
+    <string name="pref_home_lang">Язык домашней</string>
+    <string name="pref_join_improv_plan">Отправка статистики</string>
+    <string name="pref_install_t5">Установка T5</string>
+    <string name="pref_login_facebook">Подключение: FaceBook</string>
+    <string name="pref_login_twitter">Подключение: Twitter</string>
+    <string name="pref_login_evernote">Подключение: Evernote</string>
+    <string name="pref_logout_facebook">Выход: Facebook</string>
+    <string name="pref_logout_twitter">Выход: Twitter</string>
+    <string name="pref_logout_evernote">Выход: Evernote</string>
+    <string name="permlab_downloadManager">Менеджер загрузок</string>
+    <string name="permdesc_downloadManager">Приложения могут использовать менеджер и загружать файлы. Вредоносные приложения могут получить доступ к частной информации.</string>
+    <string name="permlab_downloadManagerAdvanced">Дополнительные функции менеджера загрузки</string>
+    <string name="permdesc_downloadManagerAdvanced">Приложения могут использовать дополнительные функции менеджера загрузки. Вредоносные программы могут быть заблокированы в доступе к частной информации.</string>
+    <string name="permlab_cacheFilesystem">Использовать системный Кэш</string>
+    <string name="permdesc_cacheFilesystem">Приложения могут открывать, изменять и удалять кэш системы. Вредоносные приложения могут получить доступ к конфиденциальным данным и вмешиваться в работу других программ.</string>
+    <string name="permlab_downloadCompletedIntent">Отправить уведомление о загрузках</string>
+    <string name="permdesc_downloadCompletedIntent">Приложения могут отправлять уведомления о завершении загрузки. Вредоносные приложения могут блокировать работу других программ.</string>
+    <string name="download_save_pic_tip">Сохранение...</string>
+    <string name="voice_search">Голосовой поиск</string>
+    <string name="voice_download_prompt">Не найден Google Voice, загрузить?</string>
+    <string name="share_facebook">Facebook</string>
+    <string name="share_twitter">Twitter</string>
+    <string name="share_evernote">Evernote</string>
+    <string name="share_waiting_tip">Подождите...</string>
+    <string name="share_sending_to">Отправка в: %s...</string>
+    <string name="share_send_ok">Опубликовано</string>
+    <string name="share_send_fail">Ошибка публикации</string>
+    <string name="share_with_image">Со Скриншотом</string>
+    <string name="text_selection_ok_tip">Текст скопирован. Долгий тап на поле ввода для вставки</string>
+    <string name="geolocation_permissions_prompt_message">%s заправшивает информацию о местоположении</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">Сайту разрешен доступ к вашему местоположению</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">Сайту запрещен доступ к вашему местоположению</string>
+    <string name="webview_error_retry_button">Повторить</string>
+    <string name="webview_error_back_button">Назад</string>
+    <string name="webview_error_protocol_unsupport">Неподдерживаемый протокол</string>
+    <string name="webview_main_subject_tip">Нажмите кнопку Поиск для выделения</string>
+    <string name="ssl_warnings_header">Проблема с безопасностью сертификата сайта</string>
+    <string name="ssl_continue">Продолжить</string>
+    <string name="security_warning">Предупреждение</string>
+    <string name="view_certificate">Сертификат</string>
+    <string name="ssl_untrusted">Безопасность этого сертификата не проверена</string>
+    <string name="ssl_mismatch">Имя сертификата безопасности не соответствует имени узла</string>
+    <string name="ssl_expired">Срок сертификата истек</string>
+    <string name="ssl_not_yet_valid">Этот сертификат не действителен</string>
+    <string name="ssl_certificate">Сертификат безопасности</string>
+    <string name="ssl_certificate_is_valid">Действительный сертификат</string>
+    <string name="issued_to">"Выдан: "</string>
+    <string name="org_name">"Организация: "</string>
+    <string name="org_unit">"Отделение: "</string>
+    <string name="issued_by">"Выдан: "</string>
+    <string name="validity_period">"Срок действия: "</string>
+    <string name="issued_on">"Создан: "</string>
+    <string name="expires_on">"Действителен до: "</string>
+    <string name="page_info_view">Информация о странице</string>
+    <string name="page_info_address">"Адрес: "</string>
+    <string name="page_info">Информация</string>
+    <string name="intro_swipe_gallery">Сдвиньте влево или право</string>
+    <string name="user_protocol_title">Лицензионное соглашение</string>
+    <string name="user_protocol_accept_btn">Принять и продолжить</string>
+    <string name="set_default_browser_dlg_howto">Помощь</string>
+    <string name="set_default_browser_dlg_step_1">Установите галочку</string>
+    <string name="set_default_browser_dlg_step_2">Выберите Baidu Browser</string>
+    <string name="hotsite">Рекомендуем</string>
+    <string name="floatview_restore_url">Восстановить сеанс?</string>
+    <string name="zeus_page_can_not_zoom">Масштабирование не поддерживается</string>
+    <string name="common_star">★</string>
+    <string name="quick_link_open_bookmark_history">Закладки/История</string>
+    <string name="windows_open_in_backgroud">Фоновая страница</string>
+    <string name="menu_eclair_froyo_no_zeus_tip">Существует несовместимость с Android 2.1&amp;2.2.</string>
+    <string name="app_label">Загрузки</string>
+    <string name="download_completed_tip">" загрузка завершена"</string>
+    <string name="go_download_manager">Загрузки</string>
+    <string name="webview_page_error_title">Страница не найдена</string>
+    <string name="webview_page_error_content_1">"Ошибка подключения, "</string>
+    <string name="webview_page_error_content_2">Обновите страницу или проверьте сетевое подключение</string>
+    <string name="ssl_common_name">"Кому: "</string>
+    <string name="share_googleplus">Google+</string>
+</resources>
