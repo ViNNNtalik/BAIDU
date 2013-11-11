@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="select_dialog_items_not_login">
         <item>Сохранить локально</item>
-        <item>Сохранить онлайн &amp;lt;font size=13 color=#B0B0B0>(вход не выполнен)&amp;lt;/font></item>
+        <item>Сохранить локально &lt;font size="13" color="#B0B0B0">(вход не выполнен)&lt;/font></item>
     </string-array>
     <string-array name="auto_backup_day_of_week">
         <item>Понедельник</item>

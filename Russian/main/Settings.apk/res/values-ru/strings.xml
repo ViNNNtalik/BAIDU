@@ -2411,6 +2411,8 @@
     <string name="megabyteShort">MB</string>
     <string name="capital_on">ВКЛ</string>
     <string name="capital_off">ВЫКЛ</string>
+    <string name="sim1">SIM1</string>
+    <string name="sim2">SIM2</string>
     <string name="eng_mode">Инженерное меню</string>
     <string name="eng_mode_summary">Сбор информации, статистика, тонкие настройки всевозможных параметров телефона</string>
     <string name="factory_mode">Заводское меню</string>

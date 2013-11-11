@@ -79,11 +79,11 @@
 
 
 
-    <string name="common_app_name">Baidu Browser</string>
+    <string name="common_app_name">Браузер Baidu</string>
     <string name="common_baidu">Baidu</string>
     <string name="common_ok">ОК</string>
     <string name="common_cancel">Отмена</string>
-    <string name="common_tip">Baidu Browser</string>
+    <string name="common_tip">Браузер Baidu</string>
     <string name="common_title">Заголовок</string>
     <string name="common_select">Выбор</string>
     <string name="common_open">Открыть</string>

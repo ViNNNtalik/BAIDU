@@ -1108,7 +1108,18 @@
     <string name="more_button">Ещё</string>
     <string name="select_sim_card">Выбор SIM-карты</string>
     <string name="odm">ODM</string>
-    <string name="releasetime">Release time</string>
-    <string name="answer">Answer</string>
-    <string name="incall_screen_slide_up_into_background">Slide up into the background</string>
+    <string name="releasetime">Релиз</string>
+    <string name="answer">Ответ</string>
+    <string name="incall_screen_slide_up_into_background">Слайд вверх на задний фон</string>
+    <string name="card_title_auto_redialing">Повторный вызов:%1$d</string>
+    <string name="auto_redial_enabler">Автомат. повторный вызов</string>
+    <string name="auto_redial_number_editor">Время повтора</string>
+    <string name="auto_redial_number_summary">Текущее заданное время: %1s</string>
+    <string name="auto_redial_list">Списко автоповтора</string>
+    <string name="add_to_auto_redial_list">Добавить номер</string>
+    <string name="auto_redial_edit_dialog_name">Имя :</string>
+    <string name="auto_redial_edit_dialog_number">Телефон :</string>
+    <string name="auto_redial_edit_dialog_repeat">Повтор :</string>
+    <string name="auto_redial_edit_dialog_until_connect">Повторный вызов до соединения</string>
+    <string name="auto_redial_edit_dialog_speakeron">Спикер при соединении</string>
 </resources>

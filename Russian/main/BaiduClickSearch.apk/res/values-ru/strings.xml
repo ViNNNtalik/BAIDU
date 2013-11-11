@@ -57,4 +57,5 @@
     <string name="introduction_translate_info">Перевод слов по одному клику</string>
     <string name="introduction_sentence_title">Выбор длинных предложений</string>
     <string name="introduction_sentence_info">Легкий выбор длинных предложений по долгому нажатию и перетаскиванию</string>
+    <string name="confirm_text_count">слово</string>
 </resources>

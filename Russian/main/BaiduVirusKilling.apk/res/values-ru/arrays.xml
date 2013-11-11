@@ -2,16 +2,18 @@
 <resources>
     <string-array name="scan_result_array">
         <item>Вирусы не найдены</item>
+        <item>Приложений со списанием средств не найдено</item>
         <item>Подозрит. приложений не найдено</item>
         <item>Отсканированы приложения пользователя</item>
     </string-array>
     <string-array name="scan_result_array_all">
         <item>Вирусы не найдены</item>
+        <item>Приложений со списанием средств не найдено</item>
         <item>Подозрит. приложений не найдено</item>
         <item>Отсканированы приложения пользователя</item>
-        <item>Scanning system has been applied</item>
+        <item>Отсканированы системные приложения</item>
         <item>Отсканированы установочные пакеты приложений</item>
-        <item>Отсканированы файлы телефона</item>
+        <item>Отсканированы файлы устройства</item>
     </string-array>
     <string-array name="schedule_frequency_dialog">
         <item>Неделя</item>
@@ -84,5 +86,15 @@
         <item>29-го</item>
         <item>30-го</item>
         <item>31-го</item>
+    <string-array name="scan_result_array_bill">
+        <item>Нет приложений со списанием средств</item>
+        <item>Нет подозрит. приложений</item>
+        <item>Нет аномального потребления трафика</item>
+        <item>Нет проблем с вызовами</item>
+        <item>Нет проблем с SMS/MMS</item>
+    </string-array>
+    <string-array name="scan_result_array_part_bill">
+        <item>Нет приложений со списанием средств</item>
+        <item>Нет подозрит. приложений</item>
     </string-array>
 </resources>

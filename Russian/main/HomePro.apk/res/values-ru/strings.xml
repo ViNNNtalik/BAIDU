@@ -126,6 +126,8 @@
     <string name="preference_show_icon_floor_summary">Показывать основу значков</string>
     <string name="preference_show_dockbar_bg_title">Показывать фон</string>
     <string name="preference_show_dockbar_bg_summary">Показывать фон док-бара</string>
+    <string name="preference_show_dockbar_applist_icon_title">Показыватьиконку Все приложения</string>
+    <string name="preference_show_dockbar_applist_icon_summary">Показыватьиконку Все приложения на док-баре</string>
     <string name="preference_hotword_lockscreen">Использовать блокировку Baidu</string>
     <string name="preference_update_title">Проверка обновления</string>
     <string name="preference_update_summary">"Текущая версия "</string>
@@ -470,7 +472,7 @@
     <string name="updatefail">Сбой обновления</string>
     <string name="nolocationservice">Недоступно</string>
     <string name="locationfail">Сбой определения местоположения</string>
-
+    <string name="temperaturemeasure">℃</string>
     <string name="updatetime">Обновлено:</string>
     <string name="updating">Обновление</string>
     <string name="locationdefault">Неизвестно</string>

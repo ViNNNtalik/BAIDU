@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="floating_window_expanded_category_news">Новости</string>
+    <string name="floating_window_expanded_category_joke">Юмор</string>
+    <string name="floating_window_expanded_category_weather">Погода</string>
+    <string name="floating_window_expanded_category_story">Истории</string>
+    <string name="floating_window_expanded_category_voice">Микрофон</string>
+    <string name="floating_window_expanded_category_yule">Сплетни</string>
+    <string name="floating_window_expanded_category_wc">Музыка</string>
+    <string name="floating_window_expanded_category_tenmin">Перед сном</string>
+    <string name="floating_window_error_msg_network_unavailable">Нет сети</string>
+    <string name="floating_window_error_msg_get_data">Нестабильное подключение</string>
+    <string name="floating_window_network_warn_get_data">Переключено на сеть 2G/3G. Продолжить?</string>
+    <string name="floating_window_prompt_msg_gotit">Получить</string>
+    <string name="floating_window_prompt_newwork_warn">Продожить играть</string>
     <string name="player_full_body_details_song_text">Песня</string>
     <string name="player_full_body_details_singer_text">Исполнитель</string>
-    <string name="player_full_body_details_position_text">00:00</string>
-    <string name="player_full_body_details_duration_text">00:00</string>
     <string name="music_network_unavailable">Сеть не доступна</string>
     <string name="music_sdcard_not_available">Внешняя память не доступна</string>
     <string name="music_sdcard_lack_of_space">Внешняя память переполнена</string>
@@ -16,118 +27,178 @@
     <string name="music_download_file_existed">Файл уже существует</string>
     <string name="music_tts_default">Играть следующую песню</string>
     <string name="music_tts_no_songs_found">Песня не найдена</string>
+    <string name="music_tts_no_songs_found_setting_off">К сожалению, не найдены песни для прослушивания на Ваш вкус. Онлайн-поиск Baidu Музыка был выключен. Включите и повторите попытку</string>
     <string name="music_tts_normal_query_1">Первая в очереди</string>
     <string name="music_tts_normal_query_2">Из</string>
     <string name="music_tts_normal_query_3">Песня</string>
     <string name="music_get_more_songs">Показать еще</string>
     <string name="music_default_music_response">Не найдена музыка по запросу</string>
-    <string name="app_name">Baidu голосовой помощник</string>
-    <string name="close">Закрыть</string>
-    <string name="later">Позже</string>
+    <string name="soundrecorder_audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="soundrecorder_timer_format" formatted="false">%02d:%02d</string>
+    <string name="soundrecorder_minimum_seconds">Оставшегося времени меньше, чем требуется</string>
+    <string name="soundrecorder_error_android_version">Требуется Android 2.3.3 и выше</string>
+    <string name="soundrecorder_error_sdcard_access">Нет доступа к SD-карте</string>
+    <string name="soundrecorder_error_sdcard_access_when_recording">Нет доступа к SD-карте. Запись остановлена</string>
+    <string name="soundrecorder_error_app_internal">Внутренняя ошибка приложения</string>
+    <string name="soundrecorder_error_recordingprocess">Ошибка записи, попробуйте еще раз</string>
+    <string name="soundrecorder_error_startrecord">Запись временно недоступна</string>
+    <string name="soundrecorder_error_player">Игрок временно недоступен, попробуйте еще раз</string>
+    <string name="soundrecorder_btn_label_start_record">Начало записи</string>
+    <string name="soundrecorder_btn_label_stop_record">Остановка записи</string>
+    <string name="soundrecorder_btn_label_restart_record">Перезапись</string>
+    <string name="soundrecorder_btn_label_upload_record">Загрузка записи</string>
+    <string name="soundrecorder_error_record_history_invalid">Запись не существует, вы не можете ее прослушать</string>
+    <string name="soundrecorder_msg_record_time_limit_promt" formatted="false">Время записи, контроль: от %d до мин.</string>
+    <string name="soundrecorder_msg_record_save_path_prompt">Запись сохраняется</string>
+    <string name="soundrecorder_msg_record_title">Запись</string>
+    <string name="soundrecorder_human_readable_sdcard_root_path">SD-карта</string>
+    <string name="soundrecorder_audio_db_artist_name">Ваши записи</string>
+    <string name="soundrecorder_audio_db_album_name">Аудиозаписи</string>
+    <string name="soundrecorder_audio_db_playlist_name">Мои записи</string>
+    <string name="sms_count_tips_single">%1$d/%2$d</string>
+    <string name="sms_count_tips">%1$d/%2$d(%3$d)</string>
+    <string name="quote">\"</string>
+    <string name="about_me">"Baidu Baidu речевой помощник запустил удобной голосовое управление телефоном, поиск информации программное обеспечение.
+
+ голосовой помощник
+Все для удобства пользователя. отличное обслуживание прекрасный интерфейс и быстродействие.
+
+ ГОЛОСОВОЙ ПОМОШНИК
+ Создан специально для вас. Поможет наити все что вы захотите как в самом телефне так и на просторах интернета"</string>
+    <string name="app_name">Помощник Baidu</string>
+    <string name="app_widget_shortcut_name">Baidu Микрофон</string>
+    <string name="default_label">Напомнить</string>
+    <string name="alarm">Будильник</string>
+    <string name="clock">Часы</string>
     <string name="ok">OK</string>
     <string name="cancel">Назад</string>
-    <string name="report_to_rd">Отчет</string>
-    <string name="offline_assistant_no_result">Не могу распознать. подключите интернет и повторите попытку</string>
-    <string name="default_label">Напомнить</string>
-    <string name="alarm_notify_text">Отложить будильник</string>
-    <string name="alarm_alert_alert_silenced">Отложить будильник на %d минут.</string>
-    <string name="loading_ringtone">Загрузить рингтон…</string>
-    <string name="silent_alarm_summary">Тишина</string>
+    <string name="retry">Повтор</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="edit">Правка</string>
+    <string name="create">Создать</string>
+    <string name="voice_reply">Ответить</string>
+    <string name="day_concat">", "</string>
     <string name="alarm_klaxon_service_desc">Сигнал будильника установлен</string>
     <string name="alarm_alert_btn_snooze">Напомнить позже</string>
+    <string name="alarm_smart_alert">Умное напоминание</string>
     <string name="alarm_alert_btn_dismiss">Спасибо</string>
-    <string name="alarm_list_clear">Очистить</string>
-    <string name="alarm_list_back">Назат</string>
     <string name="alarm_label">Метка</string>
-    <string name="alarm_enable_reminder">EВключить напоминанье</string>
-    <string name="alarm_repeat_never">Без повторов</string>
-    <string name="alarm_repeat_everyday">Каждый день</string>
-    <string name="alarm_repeat_everyweek">Каждую неделю</string>
-    <string name="alarm_repeat_workingday">По рабочим дням</string>
-    <string name="alarm_repeat_custom">Вручную</string>
-    <string name="repeat_mon">Пон</string>
-    <string name="repeat_tue">Втор</string>
-    <string name="repeat_wed">Сре</string>
-    <string name="repeat_thu">Четв</string>
-    <string name="repeat_fri">Пятн</string>
-    <string name="repeat_sat">Суб</string>
-    <string name="repeat_sun">Вос</string>
-    <string name="alarm_edit">Изменить будильник</string>
-    <string name="alarm_set">Изменить будильник</string>
-    <string name="alarm_tts_just_insert">Вы можете редактировать на следующей странице</string>
-    <string name="alarm_list">Список будильников</string>
-    <string name="alarm_edit_date">Дата:</string>
-    <string name="alarm_edit_time">Время:</string>
+    <string name="alarm_enable_reminder">Включить напоминание</string>
+    <string name="alarm_enable_clock">Вкл. будильник</string>
+    <string name="alarm_enable_timer">Вкл. таймер</string>
+    <string name="alarm_select_play_city">Выбор города</string>
+    <string name="alarm_list_menu_finished">Удалить напоминание</string>
+    <string name="alarm_list_menu_all">Удалить все напоминания</string>
+    <string name="alarm_delete_current">Удалить элемент</string>
+    <string name="alarm_dialog_msg_delete_current">Удалить элемент?</string>
+    <string name="alarm_dialog_msg_delete_finished">Удалить устаревшие элементы?</string>
+    <string name="alarm_dialog_msg_delete_all">Удалить все элементы?</string>
     <string name="date">Дата</string>
     <string name="time">Время</string>
     <string name="repeat">Повтор</string>
-    <string name="set_repeat">Установить повтор</string>
-    <string name="alert">Рингтон</string>
-    <string name="alarm_enable_fail">Не могу установить напоминание на текущее время</string>
-    <string name="alarm_clear_title">Для очистки</string>
-    <string name="alarm_time_invalid">Неверное время</string>
-    <string name="alarm_date_des_prefix">Каждый</string>
+    <string name="alarm_alert_hint">Текст напоминания</string>
+    <string name="alarm_clock_hint">Будильник</string>
+    <string name="alarm_setting_date">Дата:</string>
+    <string name="alarm_setting_time">Время:</string>
+    <string name="alarm_setting_repeat">Повтор:</string>
+    <string name="alarm_setting_bell">Мелодия:</string>
+    <string name="alarm_check_all_alarm">Проверить напоминание</string>
+    <string name="alert">Будильник</string>
+    <string name="alarm_repeat_never">Без повторов</string>
+    <string name="alarm_repeat_everyday">Каждый день</string>
+    <string name="alarm_repeat_workingday">По рабочим дням</string>
+    <string name="alarm_repeat_everyweek">Каждую неделю</string>
+    <string name="alarm_repeat_custom">Вручную</string>
+    <string name="alarm_category_alert">Время</string>
+    <string name="alarm_category_weather">Погода</string>
+    <string name="alarm_edit_title_weather">Погода</string>
+    <string name="alarm_edit_title_news">Новости</string>
+    <string name="alarm_category_news">Новости</string>
+    <string name="alarm_select_city_back">Поищите другой город</string>
+    <string name="alarm_select_city_suggest">Может, этот город?</string>
+    <string name="alarm_alert_notification_content">Нажмите для напоминания</string>
+    <string name="weather_choose">Выбор города</string>
+    <string name="weather">Погода</string>
+    <string name="repeat_mon">Пн</string>
+    <string name="repeat_tue">Вт</string>
+    <string name="repeat_wed">Ср</string>
+    <string name="repeat_thu">Чn</string>
+    <string name="repeat_fri">Пт</string>
+    <string name="repeat_sat">Сб</string>
+    <string name="repeat_sun">Вс</string>
+    <string name="alarm_tips_msg">Нажмите кнопку изменить время разговора</string>
+    <string name="alarm_edit">Изменить будильник</string>
+    <string name="alarm_tts_just_insert">Вы можете редактировать на следующей странице</string>
+    <string name="alarm_list">Список будильников</string>
     <string name="alarm_empty_text1">Отсутствуют напоминания</string>
     <string name="alarm_empty_text2">Вы можете попробовать</string>
     <string name="alarm_empty_text3">\"Напомнить сегодня в 9.30 встреча\"</string>
-    <string name="alarm_expired_msg">Ыремя напоминания прошло.</string>
-    <string name="alarm_set_msg">новый будильникустановлен на %s</string>
-    <string name="alarm_found">Всего наидено %d напоминаний</string>
-    <string name="two_alarms_found">Всего наидено 2 напоминания</string>
+    <string name="alarm_expired_msg">Время напоминания прошло</string>
+    <string name="alarm_set_msg">Новый будильник установлен на %s</string>
+    <string name="alarm_found">Всего найдено %d напоминаний</string>
+    <string name="two_alarms_found">Всего найдено 2 напоминания</string>
     <string name="alarm_not_found">Нет напоминаний в данном периоде</string>
     <string name="alarm_today">Сегодня</string>
     <string name="alarm_tomorrow">Завтра</string>
     <string name="alarm_after_tomorrow">Послезавтра</string>
-    <string name="alarm_deleted">Напоминание удалено</string>
+    <string name="image_default_description" />
     <string name="open_alarm_list">Открыть ваш список напоминаний</string>
     <string name="unknown_query">Неверный запрос попробуйте еще!</string>
     <string name="alarm_created_successfully">%d напоминаний созданы успешно</string>
-    <string name="alarm_failed_to_created">Ошибка создания напоминания. попробуйте позже</string>
-    <string name="day_concat">", "</string>
-    <string name="image_default_description" />
+    <string name="alarm_failed_to_created">Ошибка создания напоминания. Попробуйте позже</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="silent_alarm_summary">Тишина</string>
+    <string name="loading_ringtone">Загрузить мелодию…</string>
     <string name="help">Помощь</string>
-    <string name="alarm_list_menu">Напоминания</string>
     <string name="feedback">Обратная связь</string>
     <string name="refresh">Обновить</string>
     <string name="setting">Настройки</string>
     <string name="exit">Выход</string>
+    <string name="menu_exit_third_mode">Оставьте меня</string>
     <string name="clear">Очистить</string>
     <string name="clear_details">Очистить историю</string>
-    <string name="share">Общее</string>
-    <string name="exit_msg">Выити из Голосового помошника Baidu?</string>
-    <string name="setting_cat_music">Настройки музыки</string>
-    <string name="setting_item_search_music_online">Поиск музыки</string>
     <string name="setting_item_search_music_online_open">Онлайн поиск музыки</string>
-    <string name="setting_item_search_music_online_close">Поиск только локальных файло</string>
-    <string name="setting_item_download_while_playing">Загрузка во время воспроизведения</string>
-    <string name="setting_item_download_while_playing_open">Открыть</string>
-    <string name="setting_item_download_while_playing_close">Закрыть</string>
-    <string name="setting_cat_tts">Настроики голосового широковещания</string>
-    <string name="setting_item_tts_play">Настроики голосового широковещания</string>
     <string name="setting_item_tts_play_open">Включить широковещание</string>
-    <string name="setting_item_tts_play_close">Нет широковещания</string>
     <string name="setting_item_tts_voice">Тип широковещания</string>
-    <string name="setting_item_tts_voice_female">Женский голос</string>
-    <string name="setting_item_tts_voice_male">Мужской голос</string>
+    <string name="setting_item_voice_panel">Режим записи голоса</string>
     <string name="setting_tts_voice_flip_stop_alert">Первернуть телефон, TTS остановлено</string>
     <string name="setting_alarm_voice_flip_stop_alert">Первернуть телефон, Напоминание остановлено</string>
     <string name="setting_item_alarm_voice_flip_stop">Отключить звук при перевороте</string>
+    <string name="setting_item_float_small_icon">Малый рабочий стол Windows</string>
     <string name="send">Подтвердить</string>
     <string name="send_sms">Отправить</string>
     <string name="search">Поиск</string>
     <string name="also_try">Вы можете попробовать</string>
+    <string name="have_a_try">Попытка</string>
     <string name="see_more">Посмотрите еще</string>
+    <string name="daily_remind">Подписка</string>
+    <string name="add_daily_weather">Подписаться на погоду</string>
+    <string name="add_daily_news">Подписаться на новости</string>
+    <string name="already_daily_remind">Уже есть подписка</string>
     <string name="towhom">В:</string>
     <string name="upload_contact">Загрузить телефонную книгу</string>
     <string name="uploading_title">загрузка</string>
     <string name="contact_upload_success">Удачная загрузка</string>
     <string name="contact_upload_fail">Неудачная загрузка</string>
-    <string name="tonumber">&lt;%1$s></string>
-    <string name="contact_query_result_tips">Результат запроса котактов：</string>
-    <string name="phone_select_contact_tips">Выбирите контакт или номер</string>
+    <string name="contact_query_result_tips">Результат запроса контактов：</string>
+    <string name="phone_select_contact_tips">Выберите контакт или номер</string>
     <string name="phone_single_contact_tips">Готово к звонку</string>
-    <string name="phone_no_contact_tips">Нет таких контактов</string>
     <string name="phone_list_title_tips">Список телефонов</string>
+    <string name="phone_no_contact_tips">Нет таких контактов</string>
     <string name="phone_type_home">Домашний</string>
     <string name="phone_type_mobile">Мобильный</string>
     <string name="phone_type_work">Рабочий</string>
@@ -138,20 +209,11 @@
     <string name="phone_tts_cancelled">Отменено</string>
     <string name="phone_open_tips">Вызов запущен</string>
     <string name="operation_has_been_forbidden">Операция запрещена</string>
-    <string name="de">"'s"</string>
-    <string name="voice_status_start">Говорите…</string>
-    <string name="voice_status_speech">Прослушайте…</string>
-    <string name="voice_status_recognize">Распознование…</string>
-    <string name="voice_status_start_two">Говорите</string>
-    <string name="voice_status_speech_two">Прослушайте…</string>
-    <string name="voice_status_recognize_two">Распознование…</string>
-    <string name="voice_status_long_click">Попробуй отпустить</string>
-    <string name="voice_status_click_start">Нажмите что бы говорить</string>
-    <string name="open_display_setting">Перейти к настройкам экрана.</string>
-    <string name="open_location_setting">Перйти к локальным настройкам.</string>
-    <string name="airplane_mode_on">Режим самолета включен.</string>
+    <string name="open_display_setting">Перейти к настройкам экрана</string>
+    <string name="open_bluetooth_setting">Перейти к настройкам Bluetooth</string>
+    <string name="airplane_mode_on">Режим самолета включен</string>
     <string name="airplane_mode_off">Режим самолета выключен</string>
-    <string name="open_bluetooth_setting">Перейти к настройкам bluetooth</string>
+    <string name="open_location_setting">Перйти к локальным настройкам</string>
     <string name="bluetooth_on">BlueTooth включен.</string>
     <string name="bluetooth_off">BlueTooth выключен.</string>
     <string name="open_sound_setting">Перйти к настройкам звука</string>
@@ -170,71 +232,62 @@
     <string name="wifi_off">WiFi выключено</string>
     <string name="sms_sent">Ваше сообщение отправлено</string>
     <string name="sms_cancel">Сообщение отменено</string>
-    <string name="sms_hint">Нажмите кнопку и речь будет ппреобразована в текст</string>
     <string name="sms_tip">Нажмите кнопку и речь будет ппреобразована в текст</string>
     <string name="sms_select_contact_tips">Выбрать контакт или номер</string>
-    <string name="sms_count_tips_single">%1$d/%2$d</string>
-    <string name="sms_count_tips">%1$d/%2$d(%3$d)</string>
-    <string name="website_no_tips">WСайт не найден</string>
+    <string name="website_no_tips">Сайт не найден</string>
     <string name="website_open_tips">Открыть сайт</string>
+    <string name="de">"'s"</string>
     <string name="app_select_tips">Выбирете приложение</string>
     <string name="app_no_tips">Приложение не найдено</string>
     <string name="app_open_tips">Открыть приложение</string>
     <string name="app_remove_tips">Удалить приложение</string>
-    <string name="unrecognized_tips">Не мог идентифицировать</string>
     <string name="json_parse_error_tips">Ошибка синтаксического анализа..</string>
+    <string name="voice_status_start">Говорите…</string>
+    <string name="voice_status_speech_two">Прослушайте…</string>
+    <string name="voice_status_recognize_two">Распознование…</string>
+    <string name="voice_status_long_click">Попробуй отпустить</string>
     <string name="in_recognization">XIAODU попытка распознать, подождите...</string>
     <string name="go_to_browser">посмотрите в браузере</string>
     <string name="about">About</string>
     <string name="return_val">Возврат</string>
-    <string name="version">Версия</string>
     <string name="check_new_version">Проверить новую версию</string>
     <string name="new_version_package_found">Новая версия наидена</string>
     <string name="update">Обновить</string>
-    <string name="checking_new_version">Проверка новой версии</string>
-    <string name="download_new_version">Скачать</string>
+    <string name="update_update">Обновить сейчас</string>
+    <string name="update_close">Закрыть</string>
     <string name="update_checkbox_text">Игнорировать версию</string>
     <string name="not_find_high_version">Отсутствует новая версия</string>
     <string name="to_download">Поиск приложения</string>
     <string name="please_select">Выберите одну для работы</string>
     <string name="select_list_text">Список действий</string>
     <string name="no_result">\"%s\" не найден, попытка наити</string>
-    <string name="no_result_try_other">\"%s\" не найден</string>
-    <string name="no_songs_to_play">Песня не найдена</string>
-    <string name="player_exit">Выход</string>
-    <string name="help_note">подсказка</string>
+    <string name="not_support_check_update">Голосовой помощник это не поддерживает. Пожалуйста, обновите приложение</string>
+    <string name="help_note">Подсказка</string>
     <string name="help_cmd">Команда</string>
     <string name="help_hot">Hot</string>
-    <string name="help_cmd_call">Вызов</string>
-    <string name="help_cmd_sms">Сообщение</string>
-    <string name="help_cmd_app">Сонтроль приложений</string>
-    <string name="help_cmd_website">Посетить сайт</string>
-    <string name="help_cmd_lbs">Карта and LBS</string>
-    <string name="help_cmd_whether">Погода</string>
-    <string name="help_cmd_music">Музыка</string>
-    <string name="help_cmd_alarm">Напоминания</string>
     <string name="suggestion_title">Попробуйте произнести：</string>
-    <string name="auto_test">плохой DA</string>
-    <string name="recorder_not_ready">Подготовка к записи</string>
-    <string name="offline_data_not_ready">Preparing database for offline voice engine</string>
+    <string name="player_exit">Выход</string>
     <string name="network_error_toast">Обрыв соединения</string>
     <string name="network_data_error_toast">Ошибка сети</string>
     <string name="network_fine_toast">Сеть включена</string>
-    <string name="network_error">SНе могу соедениться с сервером</string>
+    <string name="network_error">Не могу соедениться с сервером</string>
+    <string name="recorder_not_ready">Подготовка к записи</string>
+    <string name="offline_data_not_ready">Preparing database for offline voice engine</string>
+    <string name="network_error_tips">Detect your network connection has been disconnected, now only support: n call contacts n send text messages to your contacts n open applications n uninstall applications n manage local settings</string>
+    <string name="offline_assistant_no_result">Не могу распознать. подключите интернет и повторите попытку</string>
     <string name="assistant_busy">Помошник занят. Попробуй позже</string>
     <string name="assistant_internal_error">Внутренняя ошибка</string>
-    <string name="network_error_tips">Detect your network connection has been disconnected, now only support: n call contacts n send text messages to your contacts n open applications n uninstall applications n manage local settings</string>
-    <string name="assistant_no_result">Без результата. Попробуйте подключиться к сети</string>
-    <string name="welcome_back_message">С возвращением</string>
-    <string name="sms_send_success">sms отправлено</string>
-    <string name="sms_send_fail">sms sошибка отправки</string>
-    <string name="sms_insert_fail">sms вствка неудачна</string>
-    <string name="bubble_loading">Занрузка...</string>
+    <string name="sms_send_success">SMS отправлено</string>
+    <string name="sms_send_fail">SMS ошибка отправки</string>
+    <string name="sms_insert_fail">SMS вставка неудачна</string>
+    <string name="bubble_loading">Загрузка...</string>
     <string name="loading_cancelled">Загрузка прервана</string>
-    <string name="json_parse_error">Не могу . повторите попытку позже</string>
-    <string name="client_exception">Не могу . повторите попытку позже</string>
+    <string name="record_error">Диктофон временно недоступен, повторите попытку позже</string>
+    <string name="json_parse_error">Не могу. Повторите попытку позже</string>
+    <string name="client_exception">Не могу. Повторите попытку позже</string>
     <string name="low_volume_error">Слишком тихо. Говорите громче</string>
     <string name="voice_decoder_error">Не понимаю. Поробуйте еще</string>
+    <string name="voice_too_short">Время разговора слишком мало, попробуйте еще раз</string>
     <string name="network_speed_error">Сеть переполнена. Попробуйте еще</string>
     <string name="internal_error">Внутренняя ошибка.. Попробуйте позже</string>
     <string name="pre_sum_website">Перейти на сайт</string>
@@ -248,27 +301,24 @@
     <string name="no_browser_found">Браузер не найден</string>
     <string name="monitor_setting_desktop_popup">Всплывающие напоминания</string>
     <string name="monitor_setting_desktop_play">Всплывающие напоминания</string>
-    <string name="monitor_sms_from">получено%s SMS</string>
-    <string name="from">Откуда</string>
-    <string name="di">из</string>
-    <string name="haoma">Число</string>
-    <string name="monitor_setting_sms">SMS Play</string>
-    <string name="monitor_setting_sms_sender_play">SMS Sender Play</string>
     <string name="monitor_setting_sms_next_day">Следующии день</string>
+    <string name="monitor_setting_sms_sender_play">SMS Sender Play</string>
     <string name="monitor_setting_sms_content_play">SMS Content Play</string>
-    <string name="monitor_setting_new_sms_content_play">SMS Content Play</string>
     <string name="monitor_setting_sms_leave_me_alone">Не беспокоить</string>
     <string name="monitor_setting_sms_start_time">Время начала</string>
     <string name="monitor_setting_sms_stop_time">Время окончания</string>
+    <string name="monitor_sms_from">получено%s SMS</string>
     <string name="monitor_sms_dlg_msg">SMS content can be played, go to set it?</string>
     <string name="monitor_sms_dlg_yes">Настройки</string>
     <string name="monitor_sms_dlg_no">отмена</string>
     <string name="today">Сегодня</string>
     <string name="month">-</string>
     <string name="day" />
-    <string name="reply">Повтор</string>
     <string name="stop_play">Стоп</string>
     <string name="start_play">Воспроизвести</string>
+    <string name="from">Откуда</string>
+    <string name="di">из</string>
+    <string name="haoma">Число</string>
     <string name="sns_send">Отправить</string>
     <string name="sns_sending">Weibo отправка</string>
     <string name="sns_sina_successful">Weibo отправлено успешно</string>
@@ -280,37 +330,23 @@
     <string name="sns_tip">Что вы хотите сказать?</string>
     <string name="sns_tip_content">Вы ЭТО отправили?</string>
     <string name="sns_add_image">Добавить изображение</string>
-    <string name="sns_auth_title">Baidu Голосовой помошник</string>
-    <string name="sns_auth_title2">Band to sina weibo</string>
-    <string name="sns_send_failed">Ошибка отправки</string>
-    <string name="sns_send_failed_repeat">повторить содержимое!</string>
-    <string name="sns_auth_failed">Ощшибка авторизации</string>
-    <string name="sns_hint">Нажмите кнопку микрофона и ваша речь будет преобразована в текст</string>
-    <string name="sns_resend">Повтор отправки</string>
+    <string name="sns_auth_title">Baidu Помошник</string>
+    <string name="sns_auth_failed">Ошибка авторизации</string>
+    <string name="sns_disband">Unbind Weibo Account?</string>
     <string name="sns_loading">Загрузка...</string>
-    <string name="sns_loading_failed">Ошибка загрузки</string>
     <string name="sns_band">Группа Weibo</string>
     <string name="sns_not_login">Нет логина</string>
-    <string name="sns_login">Logined</string>
-    <string name="sns_disband">Unbind Weibo Account?</string>
+    <string name="sns_login">Залогинено</string>
+    <string name="sns_loading_failed">Ошибка загрузки</string>
     <string name="sns_add_image_failed">Ошибка добаления картинки</string>
     <string name="share_content">Baidu речевой помощник для мобильного телефона мгновенно Смарт Вуд там? Говорит, что будет делать! Нажмите, чтобы скачать：http://mo.baidu.com/voiceassistant/</string>
     <string name="share_title">Поделится с</string>
     <string name="share_failed">Ошибка попробоуйте позже</string>
-    <string name="share_handling">Загрузка...</string>
-    <string name="quote">\"</string>
+    <string name="share_loading">Обработка, пожалуйста, подождите...</string>
     <string name="search_prefix">Baidu \"</string>
-    <string name="index_number">%1$d.</string>
-    <string name="about_me">"Baidu Baidu речевой помощник запустил удобной голосовое управление телефоном, поиск информации программное обеспечение.
-
- голосовой помощник
-Все для удобства пользователя. отличное обслуживание прекрасный интерфейс и быстродействие.
-
- ГОЛОСОВОЙ ПОМОШНИК
- Создан специально для вас. Поможет наити все что вы захотите как в самом телефне так и на просторах интернета"</string>
     <string name="version_build">Версия сборки %1$s</string>
     <string name="version_build_time">Дата сборки: %1$s</string>
-    <string name="about_checking">ПРоверка……</string>
+    <string name="about_checking">Проверка……</string>
     <string name="about_product_title">Еще продукт Baidu</string>
     <string name="about_me_title">О нас</string>
     <string name="about_product_appsearch_text">Поиск приложений</string>
@@ -319,11 +355,100 @@
     <string name="about_product_screenlock_text">Блокировка экрана</string>
     <string name="guide_slide">Руководство</string>
     <string name="custom_background">Фон вручную</string>
-    <string name="change">изменить</string>
-    <string name="start">начать</string>
-    <string name="leave_simsimi">Leave Simsimi?</string>
+    <string name="change">Изменить</string>
+    <string name="change_city">Изменить город</string>
+    <string name="start">Начать</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="widget_error_dialog_title">Baidu Voice Assistant</string>
     <string name="widget_voice_status_start_two">Пожалуйста говорите…</string>
     <string name="widget_voice_status_speech_two">Прослушайте…</string>
     <string name="widget_voice_status_recognize_two">Распознование…</string>
+    <string name="widget_voice_action_complete">Готово</string>
+    <string name="widget_voice_action_recognizing">Опредеелние...</string>
 </resources>

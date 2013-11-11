@@ -995,6 +995,11 @@
     <string name="pref_summary_notification_vibrateWhen">Вибросигнал при получении уведомления</string>
     <string name="pref_title_notification_ringtone">Выбрать рингтон</string>
     <string name="pref_messages_to_save">Установить макс. кол-во сообщений в цепочке для хранения</string>
+    <string name="pref_summary_set_smsc">Задать SMSC</string>
+    <string name="pref_title_set_smsc">SMSC</string>
+    <string name="smsc">SMSC:</string>
+    <string name="set_smsc">%1$s SMSC</string>
+    <string name="smsc_notice">Пожалуйста, не изменяйте SMSC без надобности - после этого могут не отправляться SMS</string>
     <string name="prefDefault_vibrateWhen">never</string>
     <string name="prefDefault_vibrate_true">always</string>
     <string name="prefDefault_vibrate_false">never</string>

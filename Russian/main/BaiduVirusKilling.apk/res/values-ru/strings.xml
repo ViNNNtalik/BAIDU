@@ -26,38 +26,41 @@
     <string name="traffic_gb">Gб</string>
     <string name="traffic_b">B</string>
     <string name="traffic_kb">Kб</string>
-    <string name="traffic_setting_nothing">Не установлен</string>
+    <string name="traffic_setting_nothing">Не установлено</string>
     <string name="traffic_setting_auto_adjust_sub_title_init">каждые 3 дня</string>
-    <string name="notification_title">Страж безопасности Yi платформы на защите вашего телефона</string>
-    <string name="notification_short_title">защищает ваш телефон</string>
-    <string name="notify_start">Yi платформы безопасности стюард начала...</string>
-    <string name="notify_uncheck_status">экспертизы немедленно устранить риск</string>
-    <string name="notify_uncheck_for_5days">в течение пяти дней не физическая, мобильный телефон риски</string>
-    <string name="notify_find_risk">найдены опасные приложения, пожалуйста, справиться</string>
-    <string name="notify_find_virus">вирус найден, немедленно дело</string>
-    <string name="support_by_bds">безопасности стюардом на Baidu для оказания технической поддержки</string>
-    <string name="malware">вирус</string>
-    <string name="malware_app">вирус</string>
+    <string name="notification_title">Система безопасности Baidu на защите Вашего устройства</string>
+    <string name="notification_short_title">Устройство под защитой</string>
+    <string name="notify_start">Старт системы безопасности...</string>
+    <string name="notify_uncheck_status">Проверить немедленно</string>
+    <string name="notify_uncheck_for_5days">Устройство не проверялось более 5 дней. Устройство под угрозой</string>
+    <string name="notify_find_chargware">Найдены приложения со списанием средств. Требуется вмешательство!</string>
+    <string name="notify_find_risk">Найдены подозрительные приложения. Требуется вмешательство!</string>
+    <string name="notify_find_virus">Найден вирус. Требуется вмешательство!</string>
+    <string name="support_by_bds">Техническая поддерка: Baidu</string>
+    <string name="malware">Вирус</string>
+    <string name="malware_app">Вирус</string>
     <string name="scan_title">Сканирование</string>
-    <string name="virus_list_title">описание вируса</string>
-    <string name="chargeware">платежа</string>
-    <string name="charge_app">платежа приложения</string>
+    <string name="virus_list_title">Описание вируса</string>
+    <string name="chargeware">Списание средств</string>
+    <string name="charge_app">Приложение со списанием средств</string>
     <string name="dialog_current_nw_state">2G/3G</string>
-    <string name="dialog_current_nw_wifi">WiFi</string>
-    <string name="high_risk_app">Высокий риск</string>
+    <string name="dialog_current_nw_wifi">Wi-Fi</string>
+    <string name="high_risk_app">Приложение с высоким риском</string>
     <string name="high_risk">Высокий риск</string>
     <string name="low_risk">Низкий риск</string>
-    <string name="low_risk_app">Низкий риск</string>
+    <string name="low_risk_app">Приложение с низким риском</string>
     <string name="risk_list_title">Описание рисков</string>
-    <string name="prepare_scan">Готов к сканированию ...</string>
-    <string name="fast_scan">Быстрое сканирование</string>
+    <string name="prepare_scan">Готов к проверке ...</string>
+    <string name="fast_scan">Быстрая проверка</string>
     <string name="all_scan">Полная проверка</string>
     <string name="result_suggest_malware">Немедленное удаление</string>
-    <string name="result_suggest_highrisk_realtime">Рекомендуется немедленное лечение</string>
-    <string name="result_suggest_fakeware">Официальный подлинной замены сразу применять!</string>
+    <string name="result_suggest_malware_beforeinstall">Прервать установку</string>
+    <string name="result_suggest_risk_beforeinstall">Рекомендуется прервать установку</string>
+    <string name="result_suggest_highrisk_realtime">Рекомендуется немедленная очистка</string>
+    <string name="result_suggest_fakeware">Немедленно удалить оригинальное приложение!</string>
     <string name="result_suggest_highrisk">Рекомендуется удалить</string>
     <string name="result_suggest_lowrisk">Использовать с осторожностью</string>
-    <string name="result_list_suggest_fakeware">Немедленно замените</string>
+    <string name="result_list_suggest_fakeware">Немедленно удалить</string>
     <string name="result_count">(%s)</string>
     <string name="report_1">Скрытая автоматическая загрузка других приложения</string>
     <string name="report_2">Генерация трафика, увеличение платы за доступ</string>
@@ -73,37 +76,35 @@
     <string name="report_num5">5</string>
     <string name="report_num6">6</string>
     <string name="report_num8">8</string>
-    <string name="report_num9">9</string>
-    <string name="report_num10">10</string>
     <string name="report_details_app">Подробнее</string>
-    <string name="report_reason_1">Основании отчетов</string>
+    <string name="report_reason_1">Основание отчета</string>
     <string name="replace_dialog_title">Подмена онлайн-банкинга</string>
-    <string name="replace_dialog_description">мы предоставим вам удалить подмену онлайн-банкинга, а также скачать и установить подлинное официального приложения.</string>
+    <string name="replace_dialog_description">Предлагается удалить подмененный онлайн-банкинг, а затем скачать и установить подлинное приложение</string>
     <string name="replace_dialog_ok">Замена</string>
-    <string name="app_report_suc">Успех</string>
-    <string name="app_report_fail">Не удача</string>
+    <string name="app_report_suc">Успешно</string>
+    <string name="app_report_fail">Неудача</string>
     <string name="app_manager_report">Загрузить приложение</string>
-    <string name="app_manager_report_dialog_upload_msg1">"Загружаемое приложение позволит нам предоставить вам лучший сервис анализа и мониторинга.
+    <string name="app_manager_report_dialog_upload_msg1">"Загружаемое приложение позволит нам предоставить Вам лучший сервис анализа и мониторинга
 
 Размер файла: "</string>
     <string name="app_manager_report_dialog_upload_msg2">"
 Текущая сеть: %s
 "</string>
     <string name="app_manager_report_upload_btn">ОК</string>
-    <string name="suggest_to_scan_title1">риска телефон сразу обращаться</string>
-    <string name="suggest_to_scan_title2">Ваш телефон защищен!</string>
-    <string name="suggest_to_scan_title3">Вы просто осуществляется антивирусным</string>
-    <string name="suggest_to_scan_title4">Существующие антивирусные от последнего часа %d</string>
-    <string name="suggest_to_scan_title5">вас %d дней не было антивирусного</string>
-    <string name="suggest_to_scan_content">,Немедленное сканирование!</string>
+    <string name="suggest_to_scan_title1">Проверить немедленно</string>
+    <string name="suggest_to_scan_title2">Ваше устройство защищено!</string>
+    <string name="suggest_to_scan_title3">Только что проверено</string>
+    <string name="suggest_to_scan_title4">Проверено: %d</string>
+    <string name="suggest_to_scan_title5">%d дней не было проверки</string>
+    <string name="suggest_to_scan_content">Немедленная проверка!</string>
     <string name="suggest_malware">Немедленно удалить</string>
     <string name="suggest_lowrisk">Использовать с осторожностью</string>
-    <string name="suggest_highrisk">"Удалить
+    <string name="suggest_highrisk">"Удалить.
 
-Если доверяете то, приложение будет добавлено в список исключений, и в будущем не будет проверяться. "</string>
-    <string name="suggest_replace">"Немедленно земенить официальным подлинным приложением
+Если Вы доверяете приложению, то оно будет внесено в список исключений и в будущем не будет проверяться"</string>
+    <string name="suggest_replace">"Немедленно земенить официальным подлинным приложением.
 
-Нажмите кнопку Заменить подмену для деинсталляции приложения, а также закачки и установки подлинного официального приложения."</string>
+Нажмите кнопку Заменить подмену для удаления приложения, а также скачивания и установки подлинного приложения"</string>
     <string name="scan_result_suggestion_title">Рекомендации по лечению</string>
     <string name="scan_result_virus_title_front">Найдено</string>
     <string name="scan_result_virus_title_end">Опасных приложений</string>
@@ -200,6 +201,34 @@
     <string name="pls_update_lib_version">Пожалуйста, обновите вирусные базы</string>
     <string name="virus_latest_version">последняя версия базы вирусных сигнатур: %s</string>
     <string name="virus_version">Версия вирусной базы: %s</string>
+    <string name="symbol_comma">,</string>
+    <string name="check_details_text">查看详情</string>
+    <string name="load_detail_failed">详情加载失败，请检查网络后重试</string>
+    <string name="risk_handled">已处理</string>
+    <string name="callware_app">可疑电话吸费应用</string>
+    <string name="smsware_app">可疑短信吸费应用</string>
+    <string name="netware_app">流量异常应用</string>
+    <string name="toast_pre_scan_safe">病毒查杀检测该应用为安全应用,您可以放心使用!</string>
+    <string name="report_analysis_beforeinstall">应用安装前扫描</string>
+    <string name="coutinue_install">继续安装</string>
+    <string name="cancel_install">终止安装</string>
+    <string name="cancel_bottom_button">取消</string>
+    <string name="replace_fake_app_before">选择替换将重新下载安装官方版。</string>
+    <string name="replace_fake_app_after">选择替换将卸载该应用，并下载安装官方版本</string>
+    <string name="install_has_stopped">应用安装已终止</string>
+    <string name="fake_detail_description_title">山寨网银购物软件</string>
+    <string name="fake_detail_description">该应用是%s的山寨应用，可能会窃取您的帐号信息，对您的财产造成损失。</string>
+    <string name="dialog_installer_app_title">应用安装前扫描</string>
+    <string name="dialog_installer_app_msg">正在扫描...</string>
+    <string name="scan_result_suggestion_msg">立即查杀</string>
+    <string name="scan_result_suggestion_ignore">暂不处理</string>
+    <string name="scan_result_suggestion_process">立即处理</string>
+    <string name="ignore_toast">已将%s添至病毒信任列表。</string>
+    <string name="sdcard_unmount">存储空间不足，无法下载。</string>
+    <string name="replace_network_fail">没有可用网络，无法下载官方正版应用。</string>
+    <string name="replace_exist">需要替换的官方正版应用已存在。</string>
+    <string name="replace_in_download">需要替换的官方正版应用正在下载安装中。</string>
+    <string name="official_app_has_down">官方应用已开始下载</string>
     <string name="app_detail">Подробности приложения</string>
     <string name="notify_zero">0</string>
     <string name="uninstall">удаления</string>
@@ -209,4 +238,5 @@
     <string name="tag_phone_add_contact">Добавить в список контактов</string>
     <string name="report_analysis">отчет о проверке вновь устанавливаемых приложений</string>
     <string name="switch_null_text" />
+    <string name="scan_shortest_time">1秒</string>
 </resources>

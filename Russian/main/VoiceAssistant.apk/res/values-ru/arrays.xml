@@ -297,25 +297,6 @@
         <item>Выходные!</item>
         <item>Друзья, и я чувствую, польщен</item>
     </string-array>
-    <array name="slide_image">
-        <item>@drawable/slide_0</item>
-        <item>@drawable/slide_1</item>
-        <item>@drawable/slide_2</item>
-    </array>
-    <string-array name="business_modules">
-        <item>com.baidu.voiceassistant.business.phone.PhoneManager</item>
-        <item>com.baidu.voiceassistant.business.setting.SettingManager</item>
-        <item>com.baidu.voiceassistant.business.music.Music</item>
-        <item>com.baidu.voiceassistant.business.shortmessage.ShortMessageManager</item>
-        <item>com.baidu.voiceassistant.business.alarm.AlarmController</item>
-        <item>com.baidu.voiceassistant.business.searchresult.SearchResultManager</item>
-        <item>com.baidu.voiceassistant.business.website.WebsiteManager</item>
-        <item>com.baidu.voiceassistant.business.app.AppManager</item>
-        <item>com.baidu.voiceassistant.business.qa.QaManager</item>
-        <item>com.baidu.voiceassistant.business.mode.ThirdPartyController</item>
-        <item>com.baidu.voiceassistant.business.sns.SnsManager</item>
-        <item>com.baidu.voiceassistant.business.phone.ContactManager</item>
-    </string-array>
     <array name="new_features">
         <item>@array/feature_super_star</item>
         <item>@array/feature_weibo</item>
@@ -580,12 +561,6 @@
         <item>Обзор Phoenix</item>
         <item>Доступ кресс Главная</item>
     </string-array>
-    <array name="app_help_math">
-        <item>COMPUTE</item>
-        <item>Фунт равна сколько килограммов</item>
-        <item>@array/app_help_sample_math</item>
-        <item>@drawable/icon_compute</item>
-    </array>
     <string-array name="app_help_sample_math">
         <item>Фунт равна сколько килограммов</item>
         <item>2013 умноженное на 2013 равна количеству</item>
@@ -634,57 +609,6 @@
         <item>Дым в пустыню прямо под</item>
         <item>Как пыльцевой аллергии</item>
     </string-array>
-    <array name="app_help_type_list">
-        <item>@array/app_help_sample_call</item>
-        <item>@array/app_help_sample_sms</item>
-        <item>@array/app_help_sample_whether</item>
-        <item>@array/app_help_sample_alarm</item>
-        <item>@array/app_help_sample_music</item>
-        <item>@array/app_help_sample_stock</item>
-        <item>@array/app_help_sample_menu</item>
-        <item>@array/app_help_sample_app</item>
-        <item>@array/app_help_sample_setting</item>
-        <item>@array/app_help_sample_lbs</item>
-        <item>@array/app_help_sample_travel</item>
-        <item>@array/app_help_sample_math</item>
-        <item>@array/app_help_sample_search</item>
-        <item>@array/app_help_sample_talk</item>
-        <item>@array/app_help_sample_website</item>
-    </array>
-    <array name="app_help_list">
-        <item>@array/app_help_call</item>
-        <item>@array/app_help_sms</item>
-        <item>@array/app_help_whether</item>
-        <item>@array/app_help_alarm</item>
-        <item>@array/app_help_music</item>
-        <item>@array/app_help_stock</item>
-        <item>@array/app_help_menu</item>
-        <item>@array/app_help_app</item>
-        <item>@array/app_help_setting</item>
-        <item>@array/app_help_lbs</item>
-        <item>@array/app_help_travel</item>
-        <item>@array/app_help_math</item>
-        <item>@array/app_help_search</item>
-        <item>@array/app_help_talk</item>
-        <item>@array/app_help_website</item>
-    </array>
-    <array name="app_help_type_icons">
-        <item>@drawable/icon_call</item>
-        <item>@drawable/icon_mail</item>
-        <item>@drawable/icon_weather</item>
-        <item>@drawable/icon_clock</item>
-        <item>@drawable/icon_music</item>
-        <item>@drawable/icon_stock</item>
-        <item>@drawable/icon_food</item>
-        <item>@drawable/icon_app</item>
-        <item>@drawable/icon_tile</item>
-        <item>@drawable/icon_map</item>
-        <item>@drawable/icon_travel</item>
-        <item>@drawable/icon_compute</item>
-        <item>@drawable/icon_live</item>
-        <item>@drawable/icon_zhidao</item>
-        <item>@drawable/icon_www</item>
-    </array>
     <string-array name="app_help_notes">
         <item>В относительно спокойном месте, среди шумных не слышал, что вы сказали,</item>
         <item>Пожалуйста, говорите китайский язык является глубоким, диалект постепенно улучшается</item>
