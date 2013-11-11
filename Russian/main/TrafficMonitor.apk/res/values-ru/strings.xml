@@ -75,7 +75,7 @@
     <string name="tab_traffic">Трафик</string>
     <string name="tab_more">Ещё</string>
     <string name="tab_app">Приложения</string>
-    <string name="package_not_set">Лимит трафика не установлен</string>
+    <string name="package_not_set">Нет лимита</string>
     <string name="package_sufficient">Трафика достаточно</string>
     <string name="package_insufficient">Трафик на исходе</string>
     <string name="package_overflow">Трафик закончился</string>

@@ -20,7 +20,7 @@
     <string name="loading">Загрузка…</string>
     <string name="call">Вызов：</string>
     <string name="send_message">Сообщение：</string>
-    <string name="network">Сеть передачи данных：</string>
+    <string name="network">Передача данных：</string>
     <string name="time_setting">Установка времени</string>
     <string name="date">Дата:</string>
     <string name="time_standard">GMT</string>
@@ -33,7 +33,7 @@
     <string name="ID">ID：</string>
     <string name="user_agreement">Пользовательское соглашение</string>
     <string name="agreement_hint">Прочитать пользовательское соглашение Baidu-онлайн</string>
-    <string name="agreement_content">Для использовавания платформы Baidu-онлайн, Вы соглашаетесь соблюдать пользовательское соглашение.</string>
+    <string name="agreement_content">Для использовавания платформы Baidu-онлайн, Вы соглашаетесь соблюдать пользовательское соглашение</string>
     <string name="agreement_prompt">Пожалуйста, проверьте пользовательское соглашения!</string>
     <string name="ok">ОК</string>
     <string name="cancel">Отмена</string>
