@@ -17,7 +17,7 @@
     <string name="stationList_func_setFavorite">В избранное</string>
     <string name="stationList_func_rename">Переименовать</string>
     <string name="stationList_func_more">Еще</string>
-    <string name="alert_dialog_ok">ОКь</string>
+    <string name="alert_dialog_ok">ОК</string>
     <string name="alert_dialog_cancel">Отменить</string>
     <string name="textFrequency">Выбор частоты</string>
     <string name="autoSearch">Динамический поиск</string>

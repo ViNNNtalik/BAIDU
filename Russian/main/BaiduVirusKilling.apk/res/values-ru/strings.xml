@@ -36,7 +36,7 @@
     <string name="notify_find_chargware">Найдены приложения со списанием средств. Требуется вмешательство!</string>
     <string name="notify_find_risk">Найдены подозрительные приложения. Требуется вмешательство!</string>
     <string name="notify_find_virus">Найден вирус. Требуется вмешательство!</string>
-    <string name="support_by_bds">Техническая поддерка: Baidu</string>
+    <string name="support_by_bds">Техническая поддерка: Baidu Yi OS</string>
     <string name="malware">Вирус</string>
     <string name="malware_app">Вирус</string>
     <string name="scan_title">Сканирование</string>
@@ -62,7 +62,7 @@
     <string name="result_suggest_lowrisk">Использовать с осторожностью</string>
     <string name="result_list_suggest_fakeware">Немедленно удалить</string>
     <string name="result_count">(%s)</string>
-    <string name="report_1">Скрытая автоматическая загрузка других приложения</string>
+    <string name="report_1">Скрытая автоматическая загрузка других приложений</string>
     <string name="report_2">Генерация трафика, увеличение платы за доступ</string>
     <string name="report_3">Автоматическая отправка текстовых сообщений или подписка на платные услуги</string>
     <string name="report_4">Потребление энергии</string>
@@ -107,18 +107,18 @@
 Нажмите кнопку Заменить подмену для удаления приложения, а также скачивания и установки подлинного приложения"</string>
     <string name="scan_result_suggestion_title">Рекомендации по лечению</string>
     <string name="scan_result_virus_title_front">Найдено</string>
-    <string name="scan_result_virus_title_end">Опасных приложений</string>
+    <string name="scan_result_virus_title_end">опасных прил.</string>
     <string name="scan_result_suggest_uninstall">Обратите внимание!</string>
     <string name="scan_result_safe_content">Были очищены все опасные приложения</string>
     <string name="scan_safe">результаты проверки: не найдено опасных приложений</string>
-    <string name="scan_setting">настройки</string>
+    <string name="scan_setting">Настройки</string>
     <string name="scan_result">результаты сканирования:</string>
     <string name="scan_classify">Тип:&#160;</string>
     <string name="scan_long">Время:&#160;</string>
-    <string name="scan_sys_app_ing">Сканирование системных приложений</string>
-    <string name="scan_install_app_ing">Сканирование установленных пользователем приложений</string>
-    <string name="scan_pkg_app_ing">Сканирование инсталляционных пакетов программ</string>
-    <string name="scan_file_ing">Сканирование хранилище файлов телефона</string>
+    <string name="scan_sys_app_ing">Проверка сист. приложений</string>
+    <string name="scan_install_app_ing">Проверка польз. приложений</string>
+    <string name="scan_pkg_app_ing">Проверка установ. файлов</string>
+    <string name="scan_file_ing">Проверка накопителейа</string>
     <string name="scan_dialog_ok">Я знаю</string>
     <string name="scan_dialog_cancel">Отмена</string>
     <string name="scan_seconds">%s секунд</string>
@@ -145,7 +145,7 @@
     <string name="update_already_latest">является последней версией</string>
     <string name="update_lib_success">Вирусная база успешно обновлена</string>
     <string name="update_lib_fail">Обновление антивирусных баз не удалось</string>
-    <string name="upldate_lib">Обновление вирусной базы</string>
+    <string name="upldate_lib">Обновление антивирусной базы</string>
     <string name="upldate_lib_des">Обновление вирусных баз, эффективно уничтожая последние вирусные</string>
     <string name="updating">Проверка наличия обновлений</string>
     <string name="no_ignore">Список исключений пуст</string>
@@ -167,7 +167,7 @@
     <string name="fake_ebank_scan_result">коттеджа торговых приложений</string>
     <string name="already_uninstalled">Приложение не существует</string>
     <string name="already_deleted">Файл не существует</string>
-    <string name="all_scan_des">Глубокая антивирусная проверка телефона и карты памяти</string>
+    <string name="all_scan_des">Глубокая антивирусная проверка устройства</string>
     <string name="danwei"></string>
     <string name="picker_ok">ОК</string>
     <string name="ignore_list">Список исключений</string>
@@ -186,7 +186,7 @@
     <string name="replace_btn">заменять</string>
     <string name="ok">завершено</string>
     <string name="new_app_scan">Сканирование вновь устанавливаемых приложений</string>
-    <string name="auto_update">Автоматическое обновление\nвирусных баз</string>
+    <string name="auto_update">Автоматическое обновление\nантивирусных баз</string>
     <string name="timing_scan">Сканирование по расписанию</string>
     <string name="net_manage">управления сетью</string>
     <string name="no_malicous_app_report">не сообщило о применении</string>
@@ -200,7 +200,7 @@
     <string name="last_lib_version">текущая версия: %s</string>
     <string name="pls_update_lib_version">Пожалуйста, обновите вирусные базы</string>
     <string name="virus_latest_version">последняя версия базы вирусных сигнатур: %s</string>
-    <string name="virus_version">Версия вирусной базы: %s</string>
+    <string name="virus_version">Версия антивирусной базы: %s</string>
     <string name="symbol_comma">,</string>
     <string name="check_details_text">查看详情</string>
     <string name="load_detail_failed">详情加载失败，请检查网络后重试</string>

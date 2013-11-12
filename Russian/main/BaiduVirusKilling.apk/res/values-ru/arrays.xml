@@ -86,6 +86,7 @@
         <item>29-го</item>
         <item>30-го</item>
         <item>31-го</item>
+    </string-array>
     <string-array name="scan_result_array_bill">
         <item>Нет приложений со списанием средств</item>
         <item>Нет подозрит. приложений</item>

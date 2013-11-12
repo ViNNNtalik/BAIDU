@@ -21,8 +21,6 @@
     <string name="filename_too_long">Имя файла слишком длинное. Попробуйте другое</string>
     <string name="filename_all_space">Имя файла содержит пробел. пожалуйста введите другое</string>
     <string name="file_damaged">Невозможно проиграть видео</string>
-    <string name="details_ms">%1$02d:%2$02d</string>
-    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="share">Поделиться</string>
     <string name="morning">AM</string>
     <string name="afternoon">PM</string>
@@ -52,7 +50,6 @@
     <string name="upload_progress_msg">Отправка видеофайла</string>
     <string name="download_progress_title">Скачивание</string>
     <string name="download_progress_msg">Скачивание видеофайла</string>
-    <string name="cload_format_progressk" formatted="false">%sKB/%sKB</string>
     <string name="cload_format_progressm" formatted="false">%sMB/%sMB</string>
     <string name="leftslide">Сдвиньте влево для настройки яркости</string>
     <string name="rightslide">Сдвиьте вправо для настройки звука</string>
@@ -72,7 +69,6 @@
     <string name="is_download">Установить видеокодек？</string>
     <string name="no">Отмена</string>
     <string name="confirm">ОК</string>
-    <string name="set">Установить</string>
     <string name="close">Выход</string>
     <string name="download_decoder">Для воспроизведения необходимо загрузить видеокодек. Загрузить?？</string>
     <string name="download_format">Поддерживает: 2 формата</string>
@@ -171,4 +167,6 @@
     <string name="add_upload_queue">добавлен в список отправки</string>
     <string name="add_download_queue">добавлен в загрузки отправки</string>
     <string name="cancel_btn">Отмена</string>
+    <string name="statusbar_upload_title">Отправить</string>
+    <string name="statusbar_download_title">Загрузить</string>
 </resources>

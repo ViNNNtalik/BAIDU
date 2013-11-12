@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_control_entries">
+        <item>Всегда включено</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда выключено</item>
+    </string-array>
+    <string-array name="network_control_entries_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
