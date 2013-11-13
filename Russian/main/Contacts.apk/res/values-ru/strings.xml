@@ -529,7 +529,7 @@
     <string name="voicemail_fetching_content">Получение голосовой почты...</string>
     <string name="voicemail_fetching_timout">Не удалось получить голосовую почту.</string>
     <string name="call_log_new_header">Новые</string>
-    <string name="call_log_old_header">Раньше</string>
+    <string name="call_log_old_header">Ранее</string>
     <string name="call_log_voicemail_header">Голосовая почта</string>
     <string name="call_log_incoming_header">Входящие</string>
     <string name="call_log_outgoing_header">Исходящие</string>
@@ -655,8 +655,8 @@
     <string name="sim_card_is_full_error">SIM-карта заполнена</string>
     <string name="group_member_select_item">Выбрано %1s</string>
     <string name="account_type_format_local">%1$s</string>
-    <string name="group_expand">Расширение группы</string>
-    <string name="contactsRecentLabel">Недавние</string>
+    <string name="group_expand">Группы</string>
+    <string name="contactsRecentLabel">Последние</string>
     <string name="delete_progress_title">Удалить</string>
     <string name="delete_progress_msg">Удаление контактов</string>
     <string name="delete_progress_format_progress" formatted="false">Удаление (%d/%d)</string>
@@ -664,15 +664,15 @@
     <string name="group_count_msg">%d контакт(ов)</string>
     <string name="select_group_send_items_title">Выбрать</string>
     <string name="select_group_send_items_format_title">%d выбрано</string>
-    <string name="menu_add_star_action_bar">Добавить звезду</string>
-    <string name="imexport_bridge_sd_card">Память устройства</string>
+    <string name="menu_add_star_action_bar">Избранное</string>
+    <string name="imexport_bridge_sd_card">SD-карта</string>
     <string name="next">Далее</string>
     <string name="tips_source">Копировать контакты из</string>
     <string name="back">Назад</string>
     <string name="imexport_title">Импорт/экспорт контактов</string>
     <string name="tips_target">Копировать контакты в</string>
     <string name="import_export_title">Импорт/экспорт</string>
-    <string name="storage_full">Накопитель полон.</string>
+    <string name="storage_full">Память заполнена</string>
     <string name="menu_multichoice_select_all">Выбрать все</string>
     <string name="menu_multichoice_clear_select">Отменить все</string>
     <string name="menu_multichoice_search">Поиск</string>
@@ -685,29 +685,29 @@
     <string name="notifier_progress__delete_will_start_message">Контакт(ы) скоро будут удалены.</string>
     <string name="notifier_progress_copy_message" formatted="false">Копирование %s/%s: %s</string>
     <string name="notifier_progress__copy_will_start_message">Контакт(ы) скоро будут скопированы.</string>
-    <string name="notifier_failure_sim_notready" formatted="false">"Сбой, SIM-карта не готова
+    <string name="notifier_failure_sim_notready" formatted="false">"Ошибка, SIM-карта не готова
 Завершено: %d
 Не завершено: %d"</string>
-    <string name="notifier_failure_by_sim_full" formatted="false">"Сбой, SIM-карта полна
+    <string name="notifier_failure_by_sim_full" formatted="false">"Ошибка, SIM-карта заполнена
 Завершено: %d
 Не завершено: %d"</string>
     <string name="allow_export_to_sim_count">Вы можете экспортировать %d контактов на UIM-карту</string>
     <string name="notifier_cancel_copy_title">Копирование контактов отменено</string>
     <string name="notifier_fail_copy_title">Сбой копирования контактов</string>
-    <string name="notifier_finish_copy_title">Контакты успешно скопированы</string>
+    <string name="notifier_finish_copy_title">Контакты скопированы</string>
     <string name="notifier_finish_copy_content">Скопировано %d контактов</string>
-    <string name="notifier_finish_delete_title">Контакты успешно удалены</string>
+    <string name="notifier_finish_delete_title">Контакты удалены</string>
     <string name="notifier_finish_delete_content">Удалено %d контактов</string>
     <string name="notifier_cancel_delete_title">Удаление контактов отменено</string>
     <string name="notifier_fail_delete_title">Сбой удаления контактов</string>
     <string name="notifier_progress_copy_description">Копирование %s</string>
     <string name="notifier_multichoice_process_report" formatted="false">"Завершено: %d
 Не завершено: %d"</string>
-    <string name="multichoice_confirmation_title_delete">Отмена удаления контактов</string>
-    <string name="multichoice_confirmation_title_copy">Отмена копирования контактов</string>
+    <string name="multichoice_confirmation_title_delete">Отменить удаление контактов</string>
+    <string name="multichoice_confirmation_title_copy">Отменить копирование контактов</string>
     <string name="multichoice_confirmation_message_delete">Отменить удаление?</string>
     <string name="multichoice_confirmation_message_copy">Отменить коирование?</string>
-    <string name="menu_confirm_to_delete">Ok</string>
+    <string name="menu_confirm_to_delete">ОК</string>
     <string name="menu_select_all_calllogs">Выбрать все</string>
     <string name="menu_select_none_calllogs">Убрать все отметки</string>
     <string name="menu_cancel">Отмена</string>
