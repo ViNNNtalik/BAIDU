@@ -131,7 +131,7 @@
     <string name="add_imageview">Добавить ImageView описание</string>
     <string name="edit_imageview">Редактировать ImageView описание</string>
     <string name="blueLine">blue line ImageView описание</string>
-    <string name="set_Timer_time_notice">Пожалуйста, установите таймер</string>
+    <string name="set_Timer_time_notice">Установите таймер</string>
     <string name="baiduclock_appwidget_configure_title">Настройки стиля</string>
     <string name="baiduclock_dialog_OK">ОК</string>
     <string name="baiduclock_dialog_Cancel">Отмена</string>
@@ -150,8 +150,8 @@
     <string name="dialog_delete_city_message">Действительно хотите удалить город %s ?</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_delete">Удалить</string>
-    <string name="menu_cancel">Отменить</string>
-    <string name="menu_done">Хорошо</string>
+    <string name="menu_cancel">Отмена</string>
+    <string name="menu_done">Готово</string>
     <string name="ringtone_default_with_actual">Мелодия по умолчанию (%1$s)</string>
     <string name="ringtone_unknown">Неизвестная мелодия</string>
     <string name="sun_rise_set_day">День</string>
@@ -159,7 +159,7 @@
     <string name="timer_add_1">+ 1</string>
     <string name="timer_add_5">+ 5</string>
     <string name="timer_add_30">+ 30</string>
-    <string name="timer_hour">Час.r</string>
+    <string name="timer_hour">Час.</string>
     <string name="timer_minute">Мин.</string>
     <string name="timer_passed">Прошло %1$s час. и %2$s мин.</string>
     <string name="timer_limit">Достигнут лимит</string>
@@ -174,7 +174,7 @@
     <string name="time_am">AM</string>
     <string name="time_pm">PM</string>
     <string name="sport_aphorism">Никогда, даже на секунду, не отказывайтесь от своей цели</string>
-    <string name="how_set_time_indication">Потяние часы для настройки будильника</string>
+    <string name="how_set_time_indication">Двигайте стрелки, чтобы установить время</string>
     <string name="quick_boot_power_on">Включение</string>
     <string name="quick_boot_power_off">Выключение</string>
 </resources>

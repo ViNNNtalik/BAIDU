@@ -37,8 +37,8 @@
         <item quantity="one">Голосовая почта</item>
     </plurals>
     <plurals name="num_contacts_in_group_local">
-        <item quantity="other">%1$d человека, %2$s</item>
-        <item quantity="one">%1$d человек %2$s</item>
+        <item quantity="other">%1$d чел., %2$s</item>
+        <item quantity="one">%1$d чел. %2$s</item>
     </plurals>
     <plurals name="confirm_delete_msg">
         <item quantity="other">Удалить %d журнала?</item>
@@ -49,7 +49,7 @@
         <item quantity="one">(1 шт.)</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Цепочки (%1$s) будут удалены.</item>
+        <item quantity="other">Цепочки (%1$s) будут удалены</item>
         <item quantity="one">Цепочка будет удалена.</item>
     </plurals>
     <plurals name="slide_duration">

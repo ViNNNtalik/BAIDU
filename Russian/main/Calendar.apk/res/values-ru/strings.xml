@@ -196,7 +196,7 @@
     <string name="deleting_events">Удаление</string>
     <string name="bluetooth_import_label">Импорт Bluetooth</string>
     <string name="importing">Импорт Календаря</string>
-    <string name="import_success">Import Success</string>
+    <string name="import_success">Успешно импортировано</string>
     <string name="import_text">Импорт</string>
     <string name="export_text">Экспорт</string>
     <string name="success">Успешно</string>

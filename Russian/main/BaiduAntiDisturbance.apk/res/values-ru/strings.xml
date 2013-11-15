@@ -2,7 +2,7 @@
 <resources>
     <string name="settings_label_launcher">Антиспам</string>
     <string name="app_name">Антиспам</string>
-    <string name="anti_disturbance_title">Режим блокировки спама</string>
+    <string name="anti_disturbance_title">Режим блокировки</string>
     <string name="anti_center_title">Центр антиспама</string>
     <string name="anti_center_summary">Просмотр заблокированных вызовов/сообщений</string>
     <string name="anti_display_title">Уведомлять о блокировке</string>
@@ -40,10 +40,10 @@
     <string name="choose_delete">Удалить</string>
     <string name="choose_restore">Восстановить</string>
     <string name="delete_selected_item">Удалить выбранные записи</string>
-    <string name="deleting">Удаление, ждите…</string>
+    <string name="deleting">Удаление…</string>
     <string name="restore_selected_item">Восстановить выбранные записи</string>
-    <string name="restoring">Восстановление, пожалуйста подождите…</string>
-    <string name="sms_label">Сообщения</string>
+    <string name="restoring">Восстановление…</string>
+    <string name="sms_label">SMS</string>
     <string name="call_label">ВЫЗОВЫ</string>
     <string name="contacts_existed_in_black">Номер \"%s\" уже есть в черном списке, сначала удалите его оттуда</string>
     <string name="contacts_existed_in_vip">Номер \"%s\" уже есть в белом списке, сначала удалите его оттуда</string>
@@ -261,7 +261,7 @@
     <string name="num_intercept_title">Блокировать номер</string>
     <string name="multimsg_title">Блокировать MMS</string>
     <string name="multimsg">MMS</string>
-    <string name="multimsg_tooltip">Заблокированные MMS-сообщения не могут быть восстановлены</string>
+    <string name="multimsg_tooltip">Заблокированные MMS не могут быть восстановлены</string>
     <string name="num_segment_intercept_title">Блокировать фрагмент номера</string>
     <string name="regional_intercept_title">Блокировать регион</string>
     <string name="num_intercept_title_input">Редактировать номер</string>

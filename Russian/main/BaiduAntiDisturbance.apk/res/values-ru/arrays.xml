@@ -3,7 +3,7 @@
     <string-array name="modeList">
         <item>Черный список</item>
         <item>Белый список</item>
-        <item>Режим контактов</item>
+        <item>Контакты</item>
     </string-array>
     <string-array name="modeDetailList">
         <item>Блокировка звонков/сообщений из черного списка</item>
@@ -21,7 +21,7 @@
     <string-array name="black_white_list">
         <item>Из истории SMS</item>
         <item>Из журнала вызовов</item>
-        <item>Из списка контактов</item>
+        <item>Из контактов</item>
         <item>Ввод номера</item>
     </string-array>
     <string-array name="current_phone_filter_mode">

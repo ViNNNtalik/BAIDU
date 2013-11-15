@@ -47,5 +47,5 @@
     <string name="delete_num_format_tail">Заметки</string>
     <string name="note_add_indication_hint">Новая заметка</string>
     <string name="change_color">Изменить цвет</string>
-    <string name="delete_note_hint">Протяните влево для удаления заметки</string>
+    <string name="delete_note_hint">Влево для удаления</string>
 </resources>

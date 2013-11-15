@@ -8,9 +8,9 @@
     <string name="abbrev_wday_month_day_no_year">@*android:string/abbrev_wday_month_day_no_year</string>
     <string name="app_label">Графический интерфейс системы</string>
     <string name="status_bar_clear_all_button">Очистить</string>
-    <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
+    <string name="status_bar_do_not_disturb_button">Без звука</string>
     <string name="status_bar_please_disturb_button">Показать уведомления</string>
-    <string name="status_bar_recent_remove_item_title">Удаление из списка</string>
+    <string name="status_bar_recent_remove_item_title">Очистить список</string>
     <string name="status_bar_recent_inspect_item_title">О приложении</string>
     <string name="status_bar_no_recent_apps">Нет данных</string>
     <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
@@ -187,7 +187,7 @@
     <string name="switch_title_wifi">Wi-Fi</string>
     <string name="switch_title_more">Еще</string>
     <string name="switch_title_flashlight">Фонарик</string>
-    <string name="switch_title_nightmode">Ночь</string>
+    <string name="switch_title_nightmode">Ночной режим</string>
     <string name="switch_title_poweroff">Выключение</string>
     <string name="switch_title_screenlock">Блокировка</string>
     <string name="switch_title_silent">Без звука</string>

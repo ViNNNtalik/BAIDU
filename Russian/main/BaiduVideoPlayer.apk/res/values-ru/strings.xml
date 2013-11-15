@@ -31,7 +31,7 @@
     <string name="icon_show">Детали видео</string>
     <string name="select_path">Выбрать путь</string>
     <string name="folder_namer">Имя папки</string>
-    <string name="second">С</string>
+    <string name="second">с</string>
     <string name="status_show">Состояние</string>
     <string name="select_menu">Поиск</string>
     <string name="search_hint">Поиск видео”</string>
@@ -84,7 +84,7 @@
     <string name="md5">62:A7:F3:CB:36:44:87:FB:0C:A8:9F:6E:3F:D7:D4:A2</string>
     <string name="md5_error">Возможно, загруженый видеокодек поврежден. Пожалуйста, загрузите снова</string>
     <string name="lib_error">Установка видеокодека не удалась</string>
-    <string name="download_error">Ошибка загрузки！！！</string>
+    <string name="download_error">Ошибка загрузки!</string>
     <string name="play_error">Невозможно воспроизвести</string>
     <string name="play_error_content">Скачать не удалось. Проверьте сеть</string>
     <string name="download_activity">Скачать видеокодек</string>
@@ -145,11 +145,11 @@
     <string name="offline_msg">Ошибка сети</string>
     <string name="disk_size_info" formatted="false">%s своб./всего %s</string>
     <string name="byteShort">B</string>
-    <string name="kilobyteShort">Kб</string>
-    <string name="megabyteShort">Mб</string>
-    <string name="gigabyteShort">Gб</string>
-    <string name="terabyteShort">Tб</string>
-    <string name="petabyteShort">Pб</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="terabyteShort">Тб</string>
+    <string name="petabyteShort">Пб</string>
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="zero_duration">00:00</string>
     <string name="cloud_loading">Видео %1$s было синхронизировано онлайн</string>

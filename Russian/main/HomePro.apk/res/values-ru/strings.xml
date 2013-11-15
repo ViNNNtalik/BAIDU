@@ -528,7 +528,7 @@
     <string name="dockbar_widget_message">Нельзя поместить виджет сюда</string>
     <string name="icon_scale">Установить размер иконок</string>
     <string name="flashlight_cant_open">Этот телефон не поддерживает фонарик</string>
-    <string name="new_tag">NEW!</string>
+    <string name="new_tag">НОВОЕ!</string>
     <string name="applist_appearance_settings">Настройки списка приложений</string>
     <string name="search_widget_name">Поиск Baidu</string>
     <string name="searchbox_not_found">Поиск Baidu не установлен</string>

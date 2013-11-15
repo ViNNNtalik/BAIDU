@@ -628,7 +628,7 @@
     <string name="wifi_settings">Wi-Fi</string>
     <string name="wifi_settings_category">Настройки Wi-Fi</string>
     <string name="wifi_settings_title">Wi-Fi</string>
-    <string name="wifi_settings_summary">Настройка и управление точками доступа беспроводной сети</string>
+    <string name="wifi_settings_summary">Настройка и управление точками доступа Wi-Fi</string>
     <string name="wifi_starting">Включение Wi-Fi…</string>
     <string name="wifi_stopping">Выключение Wi-Fi…</string>
 
